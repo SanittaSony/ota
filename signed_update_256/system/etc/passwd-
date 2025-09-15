@@ -1,0 +1,37 @@
+root:x:0:0:root:/home/root:/bin/sh
+daemon:x:1:1:daemon:/usr/sbin:/bin/sh
+bin:x:2:2:bin:/bin:/bin/sh
+sys:x:3:3:sys:/dev:/bin/sh
+sync:x:4:65534:sync:/bin:/bin/sync
+games:x:5:60:games:/usr/games:/bin/sh
+man:x:6:12:man:/var/cache/man:/bin/sh
+lp:x:7:7:lp:/var/spool/lpd:/bin/sh
+mail:x:8:8:mail:/var/mail:/bin/sh
+news:x:9:9:news:/var/spool/news:/bin/sh
+uucp:x:10:10:uucp:/var/spool/uucp:/bin/sh
+proxy:x:13:13:proxy:/bin:/bin/sh
+www-data:x:33:33:www-data:/var/www:/bin/sh
+backup:x:34:34:backup:/var/backups:/bin/sh
+list:x:38:38:Mailing List Manager:/var/list:/bin/sh
+irc:x:39:39:ircd:/var/run/ircd:/bin/sh
+gnats:x:41:41:Gnats Bug-Reporting System (admin):/var/lib/gnats:/bin/sh
+diag:x:53:53:diag:/nonexistent:/bin/sh
+nobody:x:65534:65534:nobody:/nonexistent:/bin/sh
+messagebus:x:999:998::/var/lib/dbus:/bin/false
+avahi:x:998:997::/var/run/avahi-daemon:/bin/false
+system:x:1000:1000::/home/system:/bin/sh
+radio:x:1001:1001::/home/radio:/bin/sh
+bluetooth:x:1002:1002::/home/bluetooth:/bin/sh
+graphics:x:1003:1003::/home/graphics:/bin/sh
+input:x:1004:19::/home/input:/bin/sh
+audio:x:1005:29::/home/audio:/bin/sh
+camera:x:1006:1006::/home/camera:/bin/sh
+gps:x:1021:1021::/home/gps:/bin/sh
+logd:x:1036:1036::/home/logd:/bin/sh
+adb:x:2000:2000::/home/adb:/bin/sh
+sensors:x:3011:3011::/home/sensors:/bin/sh
+apps:x:4000:4000::/home/apps:/bin/sh
+locclient:x:4021:4021::/home/locclient:/bin/sh
+qmmfsvr:x:5000:5000::/home/qmmfsvr:/bin/sh
+qmmfwebsvr:x:5001:5001::/home/qmmfwebsvr:/bin/sh
+leprop:x:5002:5002::/home/leprop:/bin/sh

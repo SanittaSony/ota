@@ -1,0 +1,268 @@
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:          atcmd
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Start atcmd at boot time
+# Description:       Start and stop the atcmd binary
+### END INIT INFO
+
+# Path to the atcmd binary
+ATCMD_BIN="/usr/bin/atcmd"
+ATCM_DFOTA_SCRIPT="/usr/sbin/dfota_startup.sh"
+interface_name="eth0"
+lan_mac_name="/persist/lan_mac.bin"
+
+# Define a global variable
+MACADDR=""
+MACADDR_H=""
+MACADDR_D=""
+IMEI=""
+IMEI_H=""
+IMEI_D=""
+
+check_adb_running() {
+    # If UDC is not set up set it up
+    UDC=`cat /sys/kernel/config/usb_gadget/g1/UDC`
+    if [ -e $UDC ]; then
+        echo "Starting USB Gadget..."
+	    udcname=`ls -1 /sys/class/udc | head -n 1`
+	    echo $udcname > /sys/kernel/config/usb_gadget/g1/UDC
+    else
+        echo "Skip start USB Gadget"
+    fi
+}
+
+get_mac_address() {
+    if [[ -e $lan_mac_name ]]; then
+        # SERIAL=`cat $1`
+        line=$(grep "mac_address=" "$1")
+        SERIAL=`echo $line`
+        # echo $SERIAL
+        MACADDR_H=$(echo $SERIAL | cut -c 13-24)
+        # echo $MACADDR_H
+        MACADDR_D=`printf '%d' $((0x$MACADDR_H))`
+        # echo $MACADDR_D
+        MAC1=`echo $MACADDR_H | cut -c1-2`
+        MAC2=`echo $MACADDR_H | cut -c3-4`
+        MAC3=`echo $MACADDR_H | cut -c5-6`
+        MAC4=`echo $MACADDR_H | cut -c7-8`
+        MAC5=`echo $MACADDR_H | cut -c9-10`
+        MAC6=`echo $MACADDR_H | cut -c11-12`
+        MACADDR=`printf '%02x:%02x:%02x:%02x:%02x:%02x' $((0x$MAC1)) $((0x$MAC2)) $((0x$MAC3)) $((0x$MAC4)) $((0x$MAC5)) $((0x$MAC6))`
+        # echo $MACADDR
+    else
+        echo "$lan_mac_name does not exist."
+    fi
+}
+
+get_imei_number() {
+    if [[ -e $lan_mac_name ]]; then
+        line=$(grep "imei=" "$1")
+        SERIAL=`echo $line`
+        # echo $SERIAL
+        IMEI_D=$(echo $SERIAL | cut -c 6-22)
+        # echo $IMEI_D
+        IMEI_H=`printf '%x' $(($IMEI_D))`
+        # echo $IMEI_H
+        IMEI1=`echo $IMEI_H | cut -c 1-2`
+        IMEI2=`echo $IMEI_H | cut -c 3-4`
+        IMEI3=`echo $IMEI_H | cut -c 5-6`
+        IMEI4=`echo $IMEI_H | cut -c 7-8`
+        IMEI5=`echo $IMEI_H | cut -c 9-10`
+        IMEI6=`echo $IMEI_H | cut -c 11-12`
+        IMEI7=`echo $IMEI_H | cut -c 13-14`
+        IMEI8=`echo $IMEI_H | cut -c 15-16`
+        IMEI=`printf '%02x:%02x:%02x:%02x:%02x:%02x:%02x:%02x' $((0x$IMEI1)) $((0x$IMEI2)) $((0x$IMEI3)) $((0x$IMEI4)) $((0x$IMEI5)) $((0x$IMEI6)) $((0x$IMEI7)) $((0x$IMEI8))`
+        echo $IMEI
+    else
+        echo "$lan_mac_name does not exist."
+    fi
+}
+
+get_mac_from_imei() {
+    if [[ -e $lan_mac_name ]]; then
+        line=$(grep "imei=" "$1")
+        SERIAL=`echo $line`
+        # echo $SERIAL
+        # echo "1. Get IMEI"
+        IMEI_D=$(echo $SERIAL | cut -c 6-22)
+        # echo $IMEI_D
+        # echo "2.remove last digit (LUN digit)"
+        IMEI_L=$(echo $IMEI_D | cut -c 1-14)
+        # echo $IMEI_L
+        # echo "3.remove 6 digit first"
+        IMEI_S=$(echo $IMEI_L | cut -c7-)
+        # echo $IMEI_S
+        # echo "4.check first digit greater than or equal to 16"
+        IMEI_1ST=$(echo $IMEI_S | cut -c 1-2)
+        # echo $IMEI_1ST
+        if [[ $IMEI_1ST -ge 16 ]]; then
+            # echo "5. remove first digit"
+            IMEI_O=$(echo $IMEI_S | cut -c2-)
+        else
+            # echo "6. keep first digit"
+            IMEI_O=$IMEI_S
+        fi
+        # echo $IMEI_O
+        # echo "7. convert to hex"
+        IMEI_H=`printf '%x' $(($IMEI_O))`
+        # echo $IMEI_H
+        IMEI1=`echo $IMEI_H | cut -c1-2`
+        IMEI2=`echo $IMEI_H | cut -c3-4`
+        IMEI3=`echo $IMEI_H | cut -c5-6`
+        MACADDR=`printf '2C:9E:E0:%02x:%02x:%02x' $((0x$IMEI1)) $((0x$IMEI2)) $((0x$IMEI3))`
+        # echo $MACADDR
+    else
+        echo "$lan_mac_name does not exist."
+    fi
+}
+
+set_mac_address() {
+    if [[ -e "/sys/class/net/$interface_name" ]]; then
+        echo "Ethernet interface $interface_name exists."
+        get_mac_address $lan_mac_name
+        if [[ $MACADDR_D -ne 0 ]]; then
+            echo $MACADDR
+            /sbin/ifconfig $interface_name down
+            /sbin/ifconfig $interface_name hw ether $MACADDR
+            /sbin/ifconfig $interface_name up
+        else
+            get_mac_from_imei $lan_mac_name
+            if [[ $IMEI_D -ne 0 ]]; then
+                echo $MACADDR
+                /sbin/ifconfig $interface_name down
+                /sbin/ifconfig $interface_name hw ether $MACADDR
+                /sbin/ifconfig $interface_name up
+            else
+                fix_addr=`printf 'AA:AA:AA:AA:AA:AA'`
+                echo $fix_addr
+                /sbin/ifconfig $interface_name down
+                /sbin/ifconfig $interface_name hw ether $fix_addr
+                /sbin/ifconfig $interface_name up
+            fi
+        fi
+    else
+        echo "Ethernet interface $interface_name does not exist."
+    fi
+}
+
+fail_count=0
+
+log() {
+    timestamp=$(date '+%Y-%m-%d %H:%M:%S')
+    echo "ATCMD [$timestamp] $*" > /dev/kmsg
+}
+
+loop_restart_atcmd() {
+    while true; do
+        log "[INFO] Starting atcmd: $ATCMD_BIN (fail_count=$fail_count)"
+
+        start_sec=$(date +%s)
+        $ATCMD_BIN &> /dev/null
+        exit_code=$?
+        end_sec=$(date +%s)
+
+        duration_sec=$((end_sec - start_sec))
+        log "[INFO] atcmd exited (code=$exit_code) after ${duration_sec}s"
+
+        if [ "$duration_sec" -lt 1 ]; then
+            fail_count=$((fail_count + 1))
+            log "[WARN] Quick failure detected ($fail_count/10)"
+
+            if [ "$fail_count" -ge 10 ]; then
+                log "[WARN] Too many quick failures, sleeping 5s..."
+                sleep 5
+                fail_count=0
+            fi
+        else
+            log "[INFO] Normal exit, restarting immediately."
+            fail_count=0
+        fi
+    done
+}
+
+
+# HotFix: Start missed services after OTA
+# TODO: Remove this after OTA is fixed
+start_missed_services() {
+    sleep 20 # Wait for 20 seconds to ensure all services are up
+    # Get the absolute path for init scripts
+    INIT_PATH="/etc/init.d"
+    
+    # echo "Starting missed services after OTA from $(pwd)..." > /dev/kmsg
+    
+    # Check if services are running, if not start them
+    if ! pgrep -f "netmgrd" > /dev/null; then
+        echo "Starting netmgrd..." > /dev/kmsg
+        start-stop-daemon -S -b -a /usr/bin/netmgrd &
+    fi
+    
+    if ! pgrep -f "qrtr-ns" > /dev/null; then
+        echo "Starting qrtr namespace service..." > /dev/kmsg
+        /usr/bin/qrtr-ns &
+    fi
+}
+
+# Function to start the atcmd binary
+start() {
+    echo "netlight configure..."
+    echo 1 | tee /sys/class/leds/wwan_state/brightness
+    #echo rmnet_data0 | tee /sys/class/leds/wwan_state/device_name
+    #echo 1 | tee /sys/class/leds/wwan_state/link
+    #echo 0 | tee /sys/class/leds/wwan_state/tx
+    process_id=$(pgrep -o "atcmd")
+    mount -o remount,rw roofs /
+    if [ -z "$process_id" ]; then
+        loop_restart_atcmd &
+    fi
+    $ATCM_DFOTA_SCRIPT
+}
+
+# Function to stop the atcmd binary
+stop() {
+    echo "Stopping atcmd..."
+    pkill -f "$ATCMD_BIN"
+}
+
+# Function to check if atcmd is running
+is_running() {
+    pgrep -f "$ATCMD_BIN" > /dev/null
+}
+
+background_set_mac_address() {
+    sleep 7
+    set_mac_address $interface_name
+    sleep 3
+    sync; echo 1 > /proc/sys/vm/drop_caches
+}
+
+case "$1" in
+    start)
+        check_adb_running
+        start
+        start_missed_services &
+        background_set_mac_address &
+        ;;
+    stop)
+        stop
+        ;;
+    restart)
+        stop
+        sleep 1
+        start
+        ;;
+    status)
+        if is_running; then
+            echo "atcmd is running."
+        else
+            echo "atcmd is not running."
+        fi
+        ;;
+    *)
+        echo "Usage: $0 {start|stop|restart|status}"
+        exit 1
+        ;;
+esac
+
+exit 0

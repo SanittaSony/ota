@@ -1,0 +1,33 @@
+#!/bin/sh
+
+DISABLE_CORE_DUMP_BIN="/etc/init.d/cav_disable_core_dump.sh"
+AUTO_SIMSWAP_BIN="/etc/init.d/cav_auto_simswap.sh"
+
+# Function to start the monitor binary
+start() {
+    echo "Disable core dump" > /dev/kmsg
+    $DISABLE_CORE_DUMP_BIN &> /dev/null &
+    echo "Run autoswap" > /dev/kmsg
+    $AUTO_SIMSWAP_BIN &> /dev/null &
+}
+
+case "$1" in
+    start)
+        start
+    ;;
+    stop)
+        exit 1
+    ;;
+    restart)
+        exit 1
+    ;;
+    status)
+        exit 1
+    ;;
+    *)
+        echo "Usage: $0 {start|stop|restart|status}"
+        exit 1
+    ;;
+esac
+
+exit 0

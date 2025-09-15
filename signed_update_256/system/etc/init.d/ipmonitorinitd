@@ -1,0 +1,68 @@
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:          ipmonitord
+# Required-Start:    $remote_fs $syslog
+# Required-Stop:     $remote_fs $syslog
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Start and stop ipmonitord
+# Description:       Manage the ipmonitord daemon.
+### END INIT INFO
+
+# Path to the ipmonitor binary
+IPMONITOR_BIN="/usr/bin/ipmonitord"
+
+# Function to start the ipmonitord binary
+start() {
+    echo "Starting ipmonitord..."
+    # Clean cached from the process load NON-HLOS 
+    sync; echo 1 > /proc/sys/vm/drop_caches
+    if [ ! -x "$IPMONITOR_BIN" ]; then
+        echo "Error: $IPMONITOR_BIN not found or not executable."
+        exit 1
+    fi
+    $IPMONITOR_BIN > /dev/null 2>&1 &
+    echo $! > /var/run/ipmonitord.pid
+}
+
+# Function to stop the ipmonitord binary
+stop() {
+    echo "Stopping ipmonitord..."
+    if [ -f /var/run/ipmonitord.pid ]; then
+        PID=$(cat /var/run/ipmonitord.pid)
+        kill "$PID" && rm /var/run/ipmonitord.pid
+    else
+        echo "No PID file found. ipmonitord may not be running."
+    fi
+}
+
+# Function to check if ipmonitord is running
+is_running() {
+    [ -f /var/run/ipmonitord.pid ] && kill -0 $(cat /var/run/ipmonitord.pid) 2> /dev/null
+}
+
+case "$1" in
+    start)
+        start
+        ;;
+    stop)
+        stop
+        ;;
+    restart)
+        stop
+        start
+        ;;
+    status)
+        if is_running; then
+            echo "ipmonitord is running."
+        else
+            echo "ipmonitord is not running."
+        fi
+        ;;
+    *)
+        echo "Usage: $0 {start|stop|restart|status}"
+        exit 1
+        ;;
+esac
+
+exit 0

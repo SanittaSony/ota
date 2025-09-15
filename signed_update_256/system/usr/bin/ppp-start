@@ -1,0 +1,6 @@
+#/bin/sh
+# Get up to 2 DNS in /etc/resolv.conf
+modem_dns="$(head /etc/resolv.conf -n 2 | awk '{out_str=" ms-dns "$2; print out_str}' | tr -d '\r\n')"
+pppd -detach debug proxyarp $modem_dns $1:$2 $3 $4
+sleep 5
+killall -SIGUSR2 atcmd

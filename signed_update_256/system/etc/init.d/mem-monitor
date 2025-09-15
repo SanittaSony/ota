@@ -1,0 +1,47 @@
+#!/bin/sh
+
+# Path to the monitor binary
+EXEC_BIN="/usr/bin/mem-monitor.sh"
+
+# Function to start the monitor binary
+start() {
+    $EXEC_BIN &> /dev/null &
+}
+
+# Function to stop the monitor binary
+stop() {
+    echo "Stopping monitor..."
+    pkill -f "$EXEC_BIN"
+}
+
+# Function to check if monitor is running
+is_running() {
+    pgrep -f "$EXEC_BIN" > /dev/null
+}
+
+case "$1" in
+    start)
+        start
+    ;;
+    stop)
+        stop
+    ;;
+    restart)
+        stop
+        sleep 1
+        start
+    ;;
+    status)
+        if is_running; then
+            echo "monitor is running."
+        else
+            echo "monitor is not running."
+        fi
+    ;;
+    *)
+        echo "Usage: $0 {start|stop|restart|status}"
+        exit 1
+    ;;
+esac
+
+exit 0

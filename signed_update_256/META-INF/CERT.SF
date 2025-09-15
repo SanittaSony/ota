@@ -1,0 +1,6153 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: gDLNQxf5qy0FBMbexPXQ4ZYaepU=
+Created-By: 1.0 (Android SignApk)
+
+Name: system/etc/init.d/start_MCM_MOBILEAP_ConnectionManager_le
+SHA1-Digest-Manifest: h4skJuatFaebFtA0nscuL7a4L+M=
+
+Name: system/media/__emptyfile__
+SHA1-Digest-Manifest: WrVjjfcUpwamM4f+HmHALX4nM9Y=
+
+Name: system/usr/share/gdb/syscalls/sparc64-linux.xml
+SHA1-Digest-Manifest: FsVkyYItAaWgBUCj80OeGxIKOjU=
+
+Name: system/usr/lib/opkg/alternatives/arp
+SHA1-Digest-Manifest: gJ5gSDh2jr/cP/N5G6uDjmf5sB4=
+
+Name: system/usr/lib/opkg/alternatives/envuidgid
+SHA1-Digest-Manifest: m+NJggF2eLamXyyaGGTWSN/e5LI=
+
+Name: system/etc/network/if-pre-up.d/__emptyfile__
+SHA1-Digest-Manifest: GYg9m7Pqi00SanAvXjveg5Y5CvE=
+
+Name: system/WEBSERVER/www/js/__emptyfile__
+SHA1-Digest-Manifest: rJNu7Rt1tXktbEvsKtWCUYi3sew=
+
+Name: system/usr/lib/busybox/sbin/__emptyfile__
+SHA1-Digest-Manifest: U1FkAh8PLxrn7Kr0rqFOjTRrdzA=
+
+Name: system/usr/lib/perl/5.22.0/auto/mro/mro.so
+SHA1-Digest-Manifest: hVU5gynBKYltmBFOOLWUPuoEOyA=
+
+Name: system/var/spool/__emptyfile__
+SHA1-Digest-Manifest: b5Q5psalR7qHLJEebbYoHkma5tU=
+
+Name: system/usr/lib/mod_auth.so
+SHA1-Digest-Manifest: 50fZGkLQ8kw/wupoBg04jxv5ddo=
+
+Name: system/usr/lib/libext4_utils.so.0.0.0
+SHA1-Digest-Manifest: 4uX5ctzbNG8APrQI5WlGMfULRlI=
+
+Name: system/usr/lib/opkg/alternatives/ash
+SHA1-Digest-Manifest: blphbv5N8Vf9r0qeNy41RixSluk=
+
+Name: system/usr/lib/perl/5.22.0/auto/Cwd/__emptyfile__
+SHA1-Digest-Manifest: XtUTckFRWvswnHafsyrpPWc8SzQ=
+
+Name: system/usr/lib/busybox/bin/mknod
+SHA1-Digest-Manifest: LtdyFlPSi9WT1svSDWjoRI/8K8M=
+
+Name: system/sbin/runlevel.sysvinit
+SHA1-Digest-Manifest: HsIUG/+MAKURj0b7D7FqNQ2Xsis=
+
+Name: system/etc/terminfo/l/__emptyfile__
+SHA1-Digest-Manifest: 5fNoC+zA8poMfU6izDSai1uvg3Y=
+
+Name: system/usr/lib/xtables/libipt_MASQUERADE.so
+SHA1-Digest-Manifest: MfiF01cjFht1mhKseLm2+q325FE=
+
+Name: system/usr/lib/xtables/libip6t_hl.so
+SHA1-Digest-Manifest: rdOYpX5UFlfMYM3YyqL41DvSeTw=
+
+Name: system/usr/lib/opkg/alternatives/envdir
+SHA1-Digest-Manifest: BVUvvqQR+NjYAjr+dkh1oNjsS9E=
+
+Name: system/etc/init.d/usb
+SHA1-Digest-Manifest: mxZupmrTvoQn03betAFdYb4LTZ4=
+
+Name: system/usr/bin/showkey
+SHA1-Digest-Manifest: UPN/glMvRLe8WcCiVUIwhEin0Xk=
+
+Name: system/usr/lib/busybox/sbin/brctl
+SHA1-Digest-Manifest: b+e1G+pQAAIMoz8IHcdbotHOHc0=
+
+Name: system/usr/lib/busybox/sbin/hwclock
+SHA1-Digest-Manifest: frhaTTjtfRm2+EWUmn7g9AeV3MA=
+
+Name: system/usr/lib/libloc_hal_test_shim_extended.so.1.0.0
+SHA1-Digest-Manifest: YkcNMcoWtPhHVJYwDjHaDqXqBek=
+
+Name: system/usr/lib/opkg/alternatives/wall
+SHA1-Digest-Manifest: 07QQOpyhdKL8kw9yAyxUrDRU7Nk=
+
+Name: system/usr/lib/opkg/alternatives/vconfig
+SHA1-Digest-Manifest: ZTTNPYiid1OsdJdv4BAK7soUNoA=
+
+Name: system/usr/bin/qseecomd
+SHA1-Digest-Manifest: j2N83+vdVEVY2WwPq/+LbMKpon4=
+
+Name: system/usr/lib/__emptyfile__
+SHA1-Digest-Manifest: YRX2IYSjl0sxSn6MGrch/vfBi6Y=
+
+Name: system/etc/init.d/avahi-dnsconfd
+SHA1-Digest-Manifest: tljxFGz8nWumzEdE6+xX/yM0rHQ=
+
+Name: system/usr/lib/libnetfilter_conntrack.so.3.1.3
+SHA1-Digest-Manifest: CusOdoARWbic8mT/aKx0h+//07Q=
+
+Name: system/usr/bin/loadunimap
+SHA1-Digest-Manifest: 1p2l9+2A4fnZ9w/Y5PtgKB5Yp6s=
+
+Name: system/usr/lib/busybox/bin/tar
+SHA1-Digest-Manifest: bwpHrxwTV/PwLN/9mn8iXN15VoY=
+
+Name: system/usr/share/dbus-1/system-services/__emptyfile__
+SHA1-Digest-Manifest: V1ojMmd+Q/aSxehPMDaGODdRxGk=
+
+Name: system/usr/lib/busybox/bin/ed
+SHA1-Digest-Manifest: gAucWcuKo6nEp6mNFDa03m0E+Ow=
+
+Name: system/sbin/sys_shutdown
+SHA1-Digest-Manifest: /MtF/jcklhopTYZFZIuCl6YC0hk=
+
+Name: system/usr/lib/libebt_mark_m.so
+SHA1-Digest-Manifest: 4fClIEpXkoVce/FbYfz9H7PtWR0=
+
+Name: system/bin/dnsmasq_script.sh
+SHA1-Digest-Manifest: Rpb2kQdJtyq/whXJWpw6xzPM3WQ=
+
+Name: system/usr/lib/perl/5.22.0/Config_heavy.pl
+SHA1-Digest-Manifest: ealH8efhiymmVbHIsA2U3QY0UIw=
+
+Name: system/usr/lib/xtables/libipt_NATTYPE.so
+SHA1-Digest-Manifest: roAtfq3QSjxtN8Vm6Mw41Y34+/k=
+
+Name: system/usr/lib/opkg/alternatives/addgroup
+SHA1-Digest-Manifest: 24JaKN+bgXz1WNlbKmy08dqikIs=
+
+Name: system/usr/lib/busybox/bin/tac
+SHA1-Digest-Manifest: kmShctNGU9a9h6iytAgX51jI0E8=
+
+Name: system/usr/bin/bashbug
+SHA1-Digest-Manifest: ok/JOoZ0nZgJKzdSMLcnbjxFnLU=
+
+Name: system/home/system/.bashrc
+SHA1-Digest-Manifest: osdn+Kiwg7Q0yEQ4R+spCsLLj+w=
+
+Name: system/WEBSERVER/www/images/update.jpg
+SHA1-Digest-Manifest: hi5coeZ65A0xP3ACVIq8qjYM6wk=
+
+Name: system/usr/bin/kbdinfo
+SHA1-Digest-Manifest: o7hS8jovfaG3ICcgXx2P7KLQUrA=
+
+Name: system/etc/init.d/devpts.sh
+SHA1-Digest-Manifest: 7rUp32ZKtcyS+s/XhdpoD+BU8Ls=
+
+Name: system/usr/sbin/hostapd
+SHA1-Digest-Manifest: JWahYYFRdIjWKyQfywxjlcH/Fy4=
+
+Name: system/usr/lib/busybox/bin/df
+SHA1-Digest-Manifest: VgRwENwRFucQv6DTW54YlZrf24U=
+
+Name: system/usr/lib/opkg/alternatives/losetup
+SHA1-Digest-Manifest: KgU8GkhkQG8619hjTAM2AGmss1E=
+
+Name: system/etc/udhcpc.d/__emptyfile__
+SHA1-Digest-Manifest: UFOF/MCTt23zoDMSLsoY1OvWWeI=
+
+Name: system/usr/lib/opkg/alternatives/modinfo
+SHA1-Digest-Manifest: 2t2pEYglnBC2wW4g2qtba3D2OaE=
+
+Name: system/__emptyfile__
+SHA1-Digest-Manifest: 4nVXn9vBRfE2SjOwUMV9n29bCmI=
+
+Name: system/usr/lib/busybox/bin/dc
+SHA1-Digest-Manifest: qe/dVlCdI42+eiN9iSKebCHxDDY=
+
+Name: system/etc/dbus-1/system.conf
+SHA1-Digest-Manifest: Z4maBP5CTYGmj+kFkeekWUF0/MU=
+
+Name: system/usr/lib/busybox/bin/dd
+SHA1-Digest-Manifest: 9T/nEwqkmUBL/0uVZZg42UnFGO0=
+
+Name: system/etc/systemd/__emptyfile__
+SHA1-Digest-Manifest: u3rQ8e4zIRt7t5//j6/uId/pHt4=
+
+Name: system/etc/flp.conf
+SHA1-Digest-Manifest: ed/IEV5IcUu2QQBFXbqXtZBHDq8=
+
+Name: system/usr/bin/ffprobe
+SHA1-Digest-Manifest: dAMpRb7U1ZWFr1GopKx6ZeiTXW0=
+
+Name: system/etc/busybox.links
+SHA1-Digest-Manifest: qhdEkFLHzM5adWgadP4WCeyCSpI=
+
+Name: system/usr/lib/opkg/__emptyfile__
+SHA1-Digest-Manifest: vvA7qkovc1zqETDjfq+lT07ETiU=
+
+Name: system/WEBSERVER/www/QCMAP_IPV6_Help.html
+SHA1-Digest-Manifest: 8E6o4FwhJfLK5gv5LWm+NcxFbHs=
+
+Name: system/usr/lib/xtables/libxt_AUDIT.so
+SHA1-Digest-Manifest: hUcNzlqD23qugKcSj3iPU1KpYbg=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm
+SHA1-Digest-Manifest: vysrtTemhbNIqRjichrlX1HfCh0=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_9x07_Tomtom_I2S
+SHA1-Digest-Manifest: j1fzasLEXq6EQgYrBX5EEIr1VT0=
+
+Name: system/usr/lib/busybox/bin/du
+SHA1-Digest-Manifest: twK1+NuE2t0nJ3Ex26Hp+LXVQyE=
+
+Name: system/usr/lib/busybox/sbin/losetup
+SHA1-Digest-Manifest: 9EQ5sOjehicR8jOm0lRV+GOV7aA=
+
+Name: system/usr/lib/opkg/alternatives/less
+SHA1-Digest-Manifest: rwWIJ17O7uTzrbRihvIEM1xs0nk=
+
+Name: system/usr/lib/libavahi-client.so.3.2.9
+SHA1-Digest-Manifest: 1N3Q6qNqXG6JCWeEAxhNR+sosTQ=
+
+Name: system/usr/lib/perl/5.22.0/IO/Select.pm
+SHA1-Digest-Manifest: Y3xz0oglhK7ByAEpmkoOjdlNGEM=
+
+Name: system/usr/bin/avahi-set-host-name
+SHA1-Digest-Manifest: CGgAHQqwL9131bPMy9YMcoMgYyw=
+
+Name: system/usr/lib/opkg/alternatives/mount
+SHA1-Digest-Manifest: MsYDm48008yQy7m6DKjcqftDM58=
+
+Name: system/etc/init.d/start_mcm_data_srv_le
+SHA1-Digest-Manifest: MRu3IDQPsPn0w9k8NOpIzmwD7Bc=
+
+Name: system/usr/lib/opkg/alternatives/syslog-init
+SHA1-Digest-Manifest: OP/6KwLh2Y7HE/RcMHVmDTaTw7U=
+
+Name: system/sbin/bootlogd
+SHA1-Digest-Manifest: XZUxrdhB1jp5alBG+crpHO73BmE=
+
+Name: system/usr/lib/busybox/bin/cat
+SHA1-Digest-Manifest: eZQ9QanHo2yKjx2s/4DpocjwV8Y=
+
+Name: system/usr/lib/opkg/alternatives/bzip2
+SHA1-Digest-Manifest: xTvYd00Rd8gn51dTzGJ5YwcgXGc=
+
+Name: system/usr/lib/opkg/alternatives/pivot_root
+SHA1-Digest-Manifest: E+4zchXhjELA61pql/Uadjysjyc=
+
+Name: system/usr/lib/xtables/libxt_devgroup.so
+SHA1-Digest-Manifest: e81yaP7Im1E1V7jH3y2ovc5fnMU=
+
+Name: system/usr/lib/busybox/bin/cal
+SHA1-Digest-Manifest: x6NaVWDJy9LiNc7VGmgcDnIPKHM=
+
+Name: system/usr/lib/opkg/alternatives/awk
+SHA1-Digest-Manifest: xjYmafnT6Ic5CilH8Ljz9Al3esk=
+
+Name: system/usr/lib/perl/5.22.0/IO/Socket.pm
+SHA1-Digest-Manifest: BAl9/6vK3p/5D/r6RQKf94FRmCE=
+
+Name: system/usr/lib/xtables/libxt_CHECKSUM.so
+SHA1-Digest-Manifest: 9cs5sqFcyQ9QQD03D001uJD4kno=
+
+Name: system/etc/mdev.conf
+SHA1-Digest-Manifest: znaEizvfwsgkYS++kSj+QcjwoKk=
+
+Name: system/usr/lib/opkg/alternatives/cpio
+SHA1-Digest-Manifest: ChGlXxb80o1EnVDjW2Lp06K1yhc=
+
+Name: system/usr/lib/xtables/libipt_LOG.so
+SHA1-Digest-Manifest: jG4hefYsnOA24d6I2FtL4rXqrOU=
+
+Name: system/var/lib/__emptyfile__
+SHA1-Digest-Manifest: ZC/ijk8EmnDRFJ3qrD1twmvizVU=
+
+Name: system/usr/bin/qmi_test_service_clnt_test_4001
+SHA1-Digest-Manifest: dKcS8y3p7F1d4oGIKqwRBR5WVmk=
+
+Name: system/usr/bin/qmi_test_service_clnt_test_4000
+SHA1-Digest-Manifest: EvMjebpagc8q8ppqkESsOklQ8yo=
+
+Name: system/usr/lib/perl/5.22.0/auto/IO/IO.so
+SHA1-Digest-Manifest: sTTiqHpeK+dQZiBIRYdRlyhQxbc=
+
+Name: system/usr/lib/modules/4.14.190/extra/adsp_loader_dlkm.ko
+SHA1-Digest-Manifest: 7cxiNHDuoZwPNRTW7Z74VxeaLsE=
+
+Name: system/usr/share/gdb/syscalls/i386-linux.xml
+SHA1-Digest-Manifest: pseTn6fQQCh+UCqFR4wNdPM1kMo=
+
+Name: system/usr/lib/busybox/sbin/init
+SHA1-Digest-Manifest: yIMkOYKu0dW9ccgsWK/EBALQM9g=
+
+Name: system/usr/lib/libgdtap_adapter.so.1.0.0
+SHA1-Digest-Manifest: WLrzNGl+PsbU4NvU6ptMlvEB9vw=
+
+Name: system/WEBSERVER/www/QCMAP_NAT.html
+SHA1-Digest-Manifest: ODjhlrehszRfrYsykY2GOO2LDmc=
+
+Name: system/usr/lib/busybox/sbin/setlogcons
+SHA1-Digest-Manifest: haazy0ACZg3f+WVegYKtvJ75ADE=
+
+Name: system/firmware/__emptyfile__
+SHA1-Digest-Manifest: qMjgV9e3OF0lgJXiXl0/tfZciG8=
+
+Name: system/usr/lib/opkg/alternatives/ntpd
+SHA1-Digest-Manifest: gqhTigzoV2NOVfgmIYplTslVqnE=
+
+Name: system/usr/lib/busybox/bin/id
+SHA1-Digest-Manifest: Ygd4IS5Gm11Hvnm61W/3Xl2dCMw=
+
+Name: system/etc/fstab
+SHA1-Digest-Manifest: anzoWBI5qEipfaUsZwewWRYGs/Y=
+
+Name: system/etc/rc3.d/__emptyfile__
+SHA1-Digest-Manifest: fe8ufKyqnihc/2OVzjgiRiZISLM=
+
+Name: system/usr/lib/busybox/bin/tee
+SHA1-Digest-Manifest: sxCMS4RNqOYfpmdv21u28+Fk/0w=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_9x40_Tomtom_I2S
+SHA1-Digest-Manifest: cj4Bc1K7l4kKADfUaTRqnTPKQ98=
+
+Name: system/WEBSERVER/www/QCMAP_NAT_Help.html
+SHA1-Digest-Manifest: ushBpZFuv0p9chkiCX/SmGK7g2U=
+
+Name: system/usr/lib/busybox/bin/patch
+SHA1-Digest-Manifest: /GsbOC6tHpZVrgIPAQwhtCmcO8E=
+
+Name: system/usr/lib/opkg/alternatives/fdflush
+SHA1-Digest-Manifest: ab6YzIg3C9L/8wwNe5wnpFJ8SYo=
+
+Name: system/usr/lib/xtables/libipt_icmp.so
+SHA1-Digest-Manifest: fDp9aX8Y74/TWErfbx2818Vlutk=
+
+Name: system/usr/lib/busybox/bin/hush
+SHA1-Digest-Manifest: eCt5EeM1vLoSbw4QQDicc2zX+Wg=
+
+Name: system/usr/lib/xtables/libxt_recent.so
+SHA1-Digest-Manifest: ANzTmbsa7jurITCBK23DOhMXvIU=
+
+Name: system/usr/lib/busybox/bin/diff
+SHA1-Digest-Manifest: ZLtScj3CigDeOOexdI0urKlACf4=
+
+Name: system/usr/lib/busybox/bin/egrep
+SHA1-Digest-Manifest: OyIMuONf8OJE5jqzgXOCH13nWaU=
+
+Name: system/usr/lib/busybox/sbin/mkdosfs
+SHA1-Digest-Manifest: VWV21JN0s+H8A0v7FkRy/5UYAWM=
+
+Name: system/etc/init.d/reboot
+SHA1-Digest-Manifest: z6c4qIez++AWPNK1cwQ8XaFWJBM=
+
+Name: system/media/hdd/__emptyfile__
+SHA1-Digest-Manifest: cZl6aEdIynPmkldSN3RIKUP7nZ0=
+
+Name: system/usr/lib/perl/5.22.0/auto/POSIX/POSIX.so
+SHA1-Digest-Manifest: z1PdAecRkwwlmu8Oi0CuNtUnRNE=
+
+Name: system/usr/lib/busybox/bin/hd
+SHA1-Digest-Manifest: yUh7r+BNlw6+N91BsALZKXKxftQ=
+
+Name: system/usr/lib/busybox/bin/udpsvd
+SHA1-Digest-Manifest: TElWF5/9OM1eeaNX/byTmK4+QC8=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/media/rc/msm-geni
+ -ir.ko
+SHA1-Digest-Manifest: OJ/iyU27QttdpVyH5c6OMOwfUYI=
+
+Name: system/usr/lib/pkgconfig/audio_route.pc
+SHA1-Digest-Manifest: bVpQpNOJsIDIPuckosZoFAYdj4I=
+
+Name: system/usr/lib/opkg/alternatives/eject
+SHA1-Digest-Manifest: lRor6z961otuEtPzVzl11WzDmOg=
+
+Name: system/usr/lib/libqrtr.so.1.0.0
+SHA1-Digest-Manifest: 0F17DDLnr7REIb7SaK7qoXHzOZc=
+
+Name: system/usr/lib/pkgconfig/izat-core.pc
+SHA1-Digest-Manifest: 4hXbBP42RqZ+aY/LnPLnAiIsi5k=
+
+Name: system/etc/init.d/bootmisc.sh
+SHA1-Digest-Manifest: ZNmgOIimssNoQYe+sWBnJEqHCFc=
+
+Name: system/usr/lib/opkg/alternatives/fakeidentd
+SHA1-Digest-Manifest: GwzHIakODc/nQ9qvYRxdrxndDCk=
+
+Name: system/usr/lib/busybox/bin/fold
+SHA1-Digest-Manifest: SFCmtFnU2XbmSZYCc2WZ3DMXV7U=
+
+Name: system/usr/lib/xtables/libxt_set.so
+SHA1-Digest-Manifest: E7o3+JmOPKchWZmDyiaLanRvxww=
+
+Name: system/usr/lib/modules/4.14.190/modules.symbols
+SHA1-Digest-Manifest: ZTypP5Aczoxt7iG7Ynmxl1ktdnY=
+
+Name: system/usr/lib/libhardware.so.0.0.0
+SHA1-Digest-Manifest: 4rlT7umIJjUhAEvBvJcOHjILUw4=
+
+Name: system/usr/lib/busybox/sbin/poweroff
+SHA1-Digest-Manifest: qQKkQ91yRsEfE5qYTP4yCeN8YjA=
+
+Name: system/usr/bin/socat-mux.sh
+SHA1-Digest-Manifest: V26QbN4jnSnrAS1Y8ZURtt/bRC4=
+
+Name: system/usr/share/dict/__emptyfile__
+SHA1-Digest-Manifest: V8lNC1GP49DeoLkNJ3jg6ea6Nn8=
+
+Name: system/usr/lib/opkg/alternatives/strings
+SHA1-Digest-Manifest: bdFUBhzJ8zNZvTu6zepqCzVk0b8=
+
+Name: system/sbin/usb/compositions/9021
+SHA1-Digest-Manifest: 4JVQiolV3n1JgrSnpFn5RqoWfrM=
+
+Name: system/usr/lib/busybox/sbin/switch_root
+SHA1-Digest-Manifest: KWLCABr3kajwABjTfqKLg5EfiTA=
+
+Name: system/sbin/usb/compositions/9022
+SHA1-Digest-Manifest: Q6t6ar5sOLjxvJdtwFn3S4FoU/Q=
+
+Name: system/sbin/usb/compositions/9024
+SHA1-Digest-Manifest: gNKRTLkCKP8JSqjrQCZI8VlcZ/8=
+
+Name: system/usr/lib/busybox/sbin/tftpd
+SHA1-Digest-Manifest: 8/X88jc4RFZ6Bv2XxuHDE2FaoSk=
+
+Name: system/usr/lib/opkg/alternatives/readahead
+SHA1-Digest-Manifest: vgRB96jhYH7boxZdkPtRgnXpIrQ=
+
+Name: system/sbin/usb/compositions/9025
+SHA1-Digest-Manifest: Ph8ZCyw8IfLAxlFsAhapjv3FzRE=
+
+Name: system/usr/lib/pkgconfig/libbase.pc
+SHA1-Digest-Manifest: 2omKqDBVONuvlXUoyN45MAsshr4=
+
+Name: system/etc/avahi/avahi-daemon.conf
+SHA1-Digest-Manifest: hNXdJF6yHpgJlTbj15vmmPKTmBU=
+
+Name: system/etc/init.d/bsp_paths.sh
+SHA1-Digest-Manifest: VfnGHJB4MDLatBCPRza94PzzBjA=
+
+Name: system/usr/lib/opkg/alternatives/chown
+SHA1-Digest-Manifest: mCiGdPFqlrGQX8AxDWg6ES569Mg=
+
+Name: system/usr/lib/libloc_mcm_test_shim.so.1.0.0
+SHA1-Digest-Manifest: HU5hWsYXeypqr2b8X5Ev3jrdx6M=
+
+Name: system/usr/share/avahi/avahi-service.dtd
+SHA1-Digest-Manifest: EmW8fNGAZvoxyxutKmbkaV0XxVw=
+
+Name: system/etc/issue.net
+SHA1-Digest-Manifest: +cW7DGAM2s3Pcuu5QBFO1gvJxXw=
+
+Name: system/usr/lib/busybox/sbin/depmod
+SHA1-Digest-Manifest: RkgR2tcUdd3Oe/+XSoMjWKgLdaM=
+
+Name: system/boot/__emptyfile__
+SHA1-Digest-Manifest: e5QqN/oZbyIxBwB/e70BmYwcfLc=
+
+Name: system/usr/lib/pkgconfig/audio_ftm.pc
+SHA1-Digest-Manifest: RKNnK+vtTPiAAd4BjLUd1UrN4LQ=
+
+Name: system/usr/lib/libstdc++.so.6.0.20
+SHA1-Digest-Manifest: CU+bIGDptYJ4x/NGudr6v5L2owU=
+
+Name: system/sbin/usb/compositions/901D
+SHA1-Digest-Manifest: qxzdPb15Dx7XcijnopDA+zaz/sQ=
+
+Name: system/usr/lib/busybox/bin/head
+SHA1-Digest-Manifest: St1mJd3XGxG9WWKP/+PYNNq7YB4=
+
+Name: system/usr/lib/busybox/bin/logname
+SHA1-Digest-Manifest: ijO9W4sNjPBXbIvU+vB7cnjCaxo=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/spi/spidev.ko
+SHA1-Digest-Manifest: qaraGQouqZ4m6+Jp8s4tBFYXTzI=
+
+Name: system/usr/lib/busybox/bin/dumpkmap
+SHA1-Digest-Manifest: Lf87V4U+iq+x/DzlKekeDBknM3A=
+
+Name: system/usr/sbin/ubimkvol
+SHA1-Digest-Manifest: 0LHD2LodarUmBMJ194TB4KF397E=
+
+Name: system/build.prop
+SHA1-Digest-Manifest: +xsThAVePK7PzmVG6R3BSmOk0i4=
+
+Name: system/usr/lib/opkg/alternatives/sha1sum
+SHA1-Digest-Manifest: WR+JsdoBUGN6EBeNykKbJZc3jzg=
+
+Name: system/sbin/usb/compositions/9039
+SHA1-Digest-Manifest: wN2mAUGwVBpEBZT2hrbnxRFnndA=
+
+Name: system/dev/ttyS0
+SHA1-Digest-Manifest: oDWbDg7NAe+VCxOopUsLs/+CDms=
+
+Name: system/dev/ttyS1
+SHA1-Digest-Manifest: Gpdb9XJ/mxttQpNtXg/DXsRTvEQ=
+
+Name: system/lib/libnss_files-2.22.so
+SHA1-Digest-Manifest: hL0mUlC+FRX1Pt7eVM+oIA72rwY=
+
+Name: system/sbin/usb/compositions/902B
+SHA1-Digest-Manifest: HTen2AVjRQ2xbqeKA4Sinlmgb5Q=
+
+Name: system/sbin/usb/compositions/902D
+SHA1-Digest-Manifest: nfpS3CWKsB7fe7JoE6h1uASRL48=
+
+Name: system/WEBSERVER/www/QCMAP_IPV6.html
+SHA1-Digest-Manifest: F+ZIGF+Fx8GHn9AQ7IbMY1yBogE=
+
+Name: system/lib/libavformat.so.55.48.100
+SHA1-Digest-Manifest: J0SvDhne5YcCckNDFdS7r1EquOU=
+
+Name: system/lib/libselinux.so.1
+SHA1-Digest-Manifest: C/Pj0SRK/HvgCuS15hirFldbk1Y=
+
+Name: system/usr/lib/perl/5.22.0/Sys/__emptyfile__
+SHA1-Digest-Manifest: Gh3EEPyNI6JB8R+PCgAYY5WcsPc=
+
+Name: system/etc/ppp/peers/provider
+SHA1-Digest-Manifest: Ry4Hmy95MlJV7Wn7FTnWpWga1S0=
+
+Name: system/usr/lib/opkg/alternatives/readlink
+SHA1-Digest-Manifest: c475+26gQS9nI0Rc7kmoiptEQsE=
+
+Name: system/etc/chatscripts/pap
+SHA1-Digest-Manifest: oP4aA4wj/p2K1ul8oF3Ra44g7Xk=
+
+Name: system/usr/lib/busybox/sbin/zcip
+SHA1-Digest-Manifest: yd/yEok4QIAm9fRMOEK/hiYJoZk=
+
+Name: system/bin/__emptyfile__
+SHA1-Digest-Manifest: MPGLV2PqD4POiMfAcR0DqdsWnrU=
+
+Name: system/dev/tty
+SHA1-Digest-Manifest: E0tOJrkdn8jIsqZI8ZfQi/LcXjs=
+
+Name: system/usr/bin/avahi-browse
+SHA1-Digest-Manifest: XqcmA84rJj8Uf/c7dwlqJ1TnaW8=
+
+Name: system/usr/lib/perl/5.22.0/File/Spec/Unix.pm
+SHA1-Digest-Manifest: sANVVXd5hxW29NgHQKHL6vN0CCk=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_2x
+SHA1-Digest-Manifest: VB54LPAHVfdUgvt1dhsmIKvn8ow=
+
+Name: system/usr/lib/busybox/sbin/modinfo
+SHA1-Digest-Manifest: K+TZJs+LuusqWacwZ2YAjrdKjT8=
+
+Name: system/usr/lib/opkg/alternatives/script
+SHA1-Digest-Manifest: 658vr5OeyjJf9FDcQwwG5ywQwcw=
+
+Name: system/etc/pimd.conf
+SHA1-Digest-Manifest: 8cvWHuua/Ry8tBWprRKUjo90bvs=
+
+Name: system/usr/lib/libpcap.so.1.6.2
+SHA1-Digest-Manifest: RSpggae2lTOaZS66mdwULzgWgQc=
+
+Name: system/usr/bin/amix
+SHA1-Digest-Manifest: QbLaumnVLsB+dzqOKL2bcA4/wjA=
+
+Name: system/usr/lib/libqmi_csi.so.1.0.0
+SHA1-Digest-Manifest: bxMZDMCfSitP3YXzekY+eklZaOM=
+
+Name: system/usr/lib/busybox/bin/traceroute
+SHA1-Digest-Manifest: MrSlT1qnyCFitUUZui9IsqYK46k=
+
+Name: system/usr/bin/diag_dci_sample
+SHA1-Digest-Manifest: bG9vdQmy6PpI9sZxVc0Po/E9PVs=
+
+Name: system/usr/bin/diag_socket_log
+SHA1-Digest-Manifest: VA2Vnheq7Za9SWdTxAdXnHjDkEA=
+
+Name: system/usr/lib/busybox/sbin/setconsole
+SHA1-Digest-Manifest: 2cY33tySWoj6vChk3UURaDy/ZvI=
+
+Name: system/usr/lib/perl/5.22.0/AutoLoader.pm
+SHA1-Digest-Manifest: ChXM01joPYJB7J5Y5cmdu8l/LPY=
+
+Name: system/usr/lib/libasn1c_cper.so.1.0.0
+SHA1-Digest-Manifest: tiQwvdIeUp1d16sddznTwyYf1LM=
+
+Name: system/usr/share/gdb/syscalls/s390x-linux.xml
+SHA1-Digest-Manifest: tAdO1jdDwloG1ksmTENa7pIuImo=
+
+Name: system/usr/lib/xtables/libipt_DNAT.so
+SHA1-Digest-Manifest: d8BP2Cl1mehgXlRq6qiix7uGawo=
+
+Name: system/usr/lib/busybox/bin/chpst
+SHA1-Digest-Manifest: 8kNeLaNI/CLlstQv+F9NQHmjRHA=
+
+Name: system/usr/lib/opkg/alternatives/mdev
+SHA1-Digest-Manifest: tbbFHhiF++liD+MYmK1SoEk7/m8=
+
+Name: system/etc/group-
+SHA1-Digest-Manifest: KaZasHIEwqNa6ZVgQofVh0BGrcI=
+
+Name: system/sbin/ip.iproute2
+SHA1-Digest-Manifest: 4RiNZFaNNMm6FCW3i6j0aZBllFQ=
+
+Name: system/usr/lib/libqcmapipc.so.1.0.0
+SHA1-Digest-Manifest: mVD9+odMAgsQwIHWaGUBvlir+Vk=
+
+Name: system/usr/lib/pkgconfig/loc-hal.pc
+SHA1-Digest-Manifest: rZHslbVhTC4PbbbhGWNiLvaZaRE=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_Tapan
+SHA1-Digest-Manifest: i0gloBnKqzgjMmwE+YvhYJSlsYE=
+
+Name: system/usr/lib/busybox/sbin/add-shell
+SHA1-Digest-Manifest: B1ueKKYqAGGgCWySaxoB44oJHiI=
+
+Name: system/usr/lib/opkg/alternatives/ether-wake
+SHA1-Digest-Manifest: NXw9KpuoY/BAhmyJrCkOf/cVaew=
+
+Name: system/usr/lib/opkg/alternatives/realpath
+SHA1-Digest-Manifest: AiHQxlp9ODWkW7AuXVej+eoheIo=
+
+Name: system/usr/lib/busybox/sbin/iptunnel
+SHA1-Digest-Manifest: NKOItzybRkmUhAR7Lgw1pr0Aj3o=
+
+Name: system/usr/lib/opkg/alternatives/hwclock
+SHA1-Digest-Manifest: u6hIlIAt1zFleH8E1nnL8ZIJ8Tk=
+
+Name: system/usr/lib/opkg/alternatives/reset
+SHA1-Digest-Manifest: usGchRvn7Z/UfU4rrAKMiC/6hUs=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/input/__emptyfile
+ __
+SHA1-Digest-Manifest: UxZihTsqCNgbYw97S4tV9nLU3PU=
+
+Name: system/usr/lib/opkg/alternatives/softlimit
+SHA1-Digest-Manifest: 9lPp9neZqrioVY/qEO4+NKZIwG4=
+
+Name: system/usr/lib/libulp2.so.1.0.0
+SHA1-Digest-Manifest: oE4gQP3q4kornQjpm5VX3isLLZQ=
+
+Name: system/etc/skel/.bashrc
+SHA1-Digest-Manifest: yG1xz6WL+q32/Zx6RiUt59akX1Y=
+
+Name: system/etc/syslog-startup.conf.busybox
+SHA1-Digest-Manifest: cNd5V0Ad9LmAoOncIjLL22AKRow=
+
+Name: system/usr/lib/busybox/bin/pscan
+SHA1-Digest-Manifest: uT1yMin3qbt4QHabmS9vQpgEQG0=
+
+Name: system/usr/lib/xtables/libip6t_REJECT.so
+SHA1-Digest-Manifest: ynwVfu5Tn2heE6tD7h/V5ZYWJas=
+
+Name: system/usr/lib/opkg/alternatives/rpm
+SHA1-Digest-Manifest: jWLPL7ufhXJ6w1r1QLU5IM7oBZs=
+
+Name: system/etc/thermal-engine.conf
+SHA1-Digest-Manifest: iPXYsJF6/TWxV+u4r2WmdPbvJj8=
+
+Name: system/usr/lib/busybox/sbin/vconfig
+SHA1-Digest-Manifest: aBiQFPW1i7WYZzwOdmTWfm3BKuw=
+
+Name: system/etc/init.d/init_qrtr_ns
+SHA1-Digest-Manifest: XWdViNVO8UCLGiYT/IOm1uY5eVc=
+
+Name: system/usr/lib/busybox/bin/cp
+SHA1-Digest-Manifest: KpIdKqkcEIzHT+8RV6bzV1xlhQk=
+
+Name: system/usr/lib/xtables/libxt_mark.so
+SHA1-Digest-Manifest: dXYa8RI6sHJWc/oBwKh9swPu6Ug=
+
+Name: system/lib/firmware/wlan/__emptyfile__
+SHA1-Digest-Manifest: 4v+j8P558lCE5NvOyc89egm93ZE=
+
+Name: system/usr/lib/busybox/bin/touch
+SHA1-Digest-Manifest: uxvQ1skzNaTTPf4vsqgbv2RziE0=
+
+Name: system/usr/lib/xtables/libxt_ipvs.so
+SHA1-Digest-Manifest: EX+vXO20zz6qzBtQKoZkvQtBpD8=
+
+Name: system/usr/bin/chvt.kbd
+SHA1-Digest-Manifest: QjTORREGUp6Tqr6w//yAUaioybM=
+
+Name: system/usr/lib/busybox/bin/hexdump
+SHA1-Digest-Manifest: ftVkjwJsZ3LZjLSdbyJ5UkoolHs=
+
+Name: system/usr/lib/opkg/alternatives/ping
+SHA1-Digest-Manifest: Rnh/kYv3RevJQci9D+nQEjpgZ7M=
+
+Name: system/lib/firmware/wlan/qca_cld/WCNSS_cfg.dat
+SHA1-Digest-Manifest: sdL+PmAP0onrn7lBmsDiARmZjR8=
+
+Name: system/usr/lib/dbus/__emptyfile__
+SHA1-Digest-Manifest: tSjwv8xSX4YHwLQSPLL4dwib73s=
+
+Name: system/usr/bin/avahi-publish
+SHA1-Digest-Manifest: SGmU44UGHSn4WXrBErVTcRKDcM4=
+
+Name: system/usr/libexec/dhcpcd-hooks/30-hostname
+SHA1-Digest-Manifest: nJ+jAG+sVhwOyaar/wi0wuko/50=
+
+Name: system/usr/lib/busybox/sbin/raidautorun
+SHA1-Digest-Manifest: hIs/rT6yUicUlNMYuXK7tDJFK+A=
+
+Name: system/usr/lib/xtables/libxt_NFQUEUE.so
+SHA1-Digest-Manifest: O2El1UZ3IY9r7dirQCIuDfxobk8=
+
+Name: system/usr/lib/opkg/alternatives/ipaddr
+SHA1-Digest-Manifest: QXiW4FJrpdZY0CcG2D9wVmqn0Z8=
+
+Name: system/usr/lib/opkg/alternatives/setfont
+SHA1-Digest-Manifest: w++Fvts4E15BPokWsDzNCRwWdwM=
+
+Name: system/usr/bin/qseecom_sample_client
+SHA1-Digest-Manifest: rL1b1cvluabw43KqjlO+iZv39j4=
+
+Name: system/usr/lib/xtables/libxt_connlimit.so
+SHA1-Digest-Manifest: nJH8B+L67Sp+iByEYD+Q7QfrVUM=
+
+Name: system/etc/disconnect
+SHA1-Digest-Manifest: /ny7k3WDBcZu9UdysC7LhXpNCmA=
+
+Name: system/usr/lib/libmincrypt.so.0.0.0
+SHA1-Digest-Manifest: cee3ZCLe5BCHpk+Cv7mKq9HHDq8=
+
+Name: system/etc/init.d/keymap.sh
+SHA1-Digest-Manifest: emOGjUFY/NInTmQuBf5aNsy1fdg=
+
+Name: system/usr/bin/diag_klog
+SHA1-Digest-Manifest: JrimqycooV/abx80xvVz/xMAzWM=
+
+Name: system/usr/lib/perl/5.22.0/Errno.pm
+SHA1-Digest-Manifest: 1np+N5eMKASWnCgKw5k1Esm9Pwo=
+
+Name: system/usr/share/gdb/syscalls/mips-o32-linux.xml
+SHA1-Digest-Manifest: LUtRQ+ICvR/rQM6/7TkYAxrvNCs=
+
+Name: system/usr/lib/busybox/bin/ipcrm
+SHA1-Digest-Manifest: KyO32f973AkEAY4MjjSqYwgoQA4=
+
+Name: system/usr/lib/busybox/bin/lzcat
+SHA1-Digest-Manifest: RziRMOMeTH6teY+UUovfOYwIsB8=
+
+Name: system/usr/lib/opkg/alternatives/install
+SHA1-Digest-Manifest: oGGbTN/wx1QLm4OP+ekv5xUxc9Y=
+
+Name: system/usr/lib/opkg/alternatives/acpid
+SHA1-Digest-Manifest: 6DutoA91eCVzvvlxK4gEywVx3Mo=
+
+Name: system/usr/lib/opkg/alternatives/ping6
+SHA1-Digest-Manifest: F45L0yoK9OjEEW/k2MKRK1ABkRg=
+
+Name: system/usr/lib/perl/5.22.0/strict.pm
+SHA1-Digest-Manifest: wP3lC+r0Z9Gj9+Y+VM1OACddiSA=
+
+Name: system/usr/lib/modules/4.14.190/extra/apr_dlkm.ko
+SHA1-Digest-Manifest: sPgrop1yYGiLV11uAgPSX1EY7U4=
+
+Name: system/usr/lib/opkg/alternatives/switch_root
+SHA1-Digest-Manifest: /N7t84/m+9j2BFgZBb0FhBhNA70=
+
+Name: system/usr/bin/mcm_data_srv
+SHA1-Digest-Manifest: i/5rSL6ITZtOAiRAwtICoQCjkYI=
+
+Name: system/usr/lib/busybox/sbin/chroot
+SHA1-Digest-Manifest: laORZcDvwFQYMd45M7M5w5RxQTo=
+
+Name: system/etc/init.d/sfs_config
+SHA1-Digest-Manifest: SLRtvyJA2l8i55+Q/9Duc7XF9kM=
+
+Name: system/usr/lib/busybox/bin/ar
+SHA1-Digest-Manifest: 0DSeaciaq253d+Ok/iN87yDegIo=
+
+Name: system/usr/lib/busybox/bin/sleep
+SHA1-Digest-Manifest: zohZ5rjqJNZ2qJLhyOm+djJGY00=
+
+Name: system/usr/sbin/ethtool
+SHA1-Digest-Manifest: RqZFfylAsTm4g134+gq/HhP1OiY=
+
+Name: system/usr/lib/busybox/bin/bunzip2
+SHA1-Digest-Manifest: wdvBcSwsSsF2rsWavPbcrm1+TwM=
+
+Name: system/usr/bin/mm_audio_ftm
+SHA1-Digest-Manifest: WS6C6UMlaA8va/UQ9LlJEcVwlAk=
+
+Name: system/usr/lib/busybox/bin/cmp
+SHA1-Digest-Manifest: 6WziVCFA4oF03+vWDxOJmFEwGLU=
+
+Name: system/etc/init.d/psmd
+SHA1-Digest-Manifest: L0OrN0MBgKN+4lAhp7UHLobLQXA=
+
+Name: system/usr/libexec/dhcpcd-hooks/02-dump
+SHA1-Digest-Manifest: rShxAMqWgIB15blDHYFNGmY9bWA=
+
+Name: system/usr/lib/busybox/bin/login
+SHA1-Digest-Manifest: Be9zExDFPQAh5nEIiUFKOf8uDdY=
+
+Name: system/usr/lib/busybox/sbin/insmod
+SHA1-Digest-Manifest: 0cblnI2z/Ad7KlAg/1YWJmb1R74=
+
+Name: system/usr/lib/busybox/sbin/lpd
+SHA1-Digest-Manifest: VeJ8YoeVskE1RcK97VQt3o12SVg=
+
+Name: system/etc/init.d/init_irsc_util
+SHA1-Digest-Manifest: QR3VyN6VlJW2gXJDg+rhz7Lm6To=
+
+Name: system/usr/bin/qrtr-ns
+SHA1-Digest-Manifest: S/mwJFApK+XHrBpqOV85DzIb9/w=
+
+Name: system/proc/__emptyfile__
+SHA1-Digest-Manifest: QcILsgEt5SxnACeYTf/U6Vmxm9M=
+
+Name: system/usr/lib/opkg/alternatives/telnet
+SHA1-Digest-Manifest: D8AxKmJOTpFx2iUOyjewq2qwDkg=
+
+Name: system/etc/init.d/chgrp-diag
+SHA1-Digest-Manifest: OWs2I7gDtlK0Qe3nHw6ILD90JaA=
+
+Name: system/media/union/__emptyfile__
+SHA1-Digest-Manifest: N/1NA5eT2S4h43H5xek//uPeaV4=
+
+Name: system/usr/lib/libavahi-common.so.3.5.3
+SHA1-Digest-Manifest: i9NjhrZm1wOJ/DdHZhjU6VCRJsE=
+
+Name: system/usr/lib/xtables/libxt_rateest.so
+SHA1-Digest-Manifest: skCxteqXB0dD9lo+bTFtralgH/I=
+
+Name: system/usr/lib/busybox/bin/pmap
+SHA1-Digest-Manifest: lg8O4XJ5wl4IKsgfCSYGgWzAg1U=
+
+Name: system/usr/bin/deallocvt.kbd
+SHA1-Digest-Manifest: PZlTcoQHYNjopuwTjl7EpUcMg7s=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_Tasha_I2S
+SHA1-Digest-Manifest: HkQOZlE5QFhHg7fgnyqtuRWQnQ4=
+
+Name: system/usr/bin/QCMAP_StaInterface
+SHA1-Digest-Manifest: Q0e3dc6SAqFt6Z0bwqmuIjzHZak=
+
+Name: system/usr/bin/logcat
+SHA1-Digest-Manifest: nLFXGsTKxkL7Xwm9EQLw+NVhnvM=
+
+Name: system/etc/init.d/dnsmasq
+SHA1-Digest-Manifest: WZ+CqnX3vjcyjAKmBjZKFvVP/38=
+
+Name: system/WEBSERVER/www/QCMAP_WWAN_Help.html
+SHA1-Digest-Manifest: eYCpa8m1JuYt+bgu0XKc7XNgtVo=
+
+Name: system/usr/lib/busybox/bin/setkeycodes
+SHA1-Digest-Manifest: 1Uw8dWUij3e2wH6ZwLP1P1qcZ1A=
+
+Name: system/usr/bin/hal_play_test
+SHA1-Digest-Manifest: /wHcDPUX7i7XXi8g/jD1YtbvpfE=
+
+Name: system/sbin/reboot-daemon
+SHA1-Digest-Manifest: 1vc7o7PMvOu4O1g1HEv+ZvOuwBc=
+
+Name: system/usr/lib/opkg/alternatives/start-stop-daemon
+SHA1-Digest-Manifest: Gdf6TyRqJOOCcKCsDMykFUj4nQw=
+
+Name: system/usr/bin/crecord
+SHA1-Digest-Manifest: V7s6TWusBUZKoBPyIXIlpmS3Hc8=
+
+Name: system/sbin/usb_debug
+SHA1-Digest-Manifest: FZICUuTICNhNdFkXDUfIsbKpaVs=
+
+Name: system/usr/lib/libmcm_log_util.so.0.0.0
+SHA1-Digest-Manifest: riMA+egxOmh/Xftsa1+/HZF0Tu4=
+
+Name: system/usr/bin/btproperty
+SHA1-Digest-Manifest: TZuLRqti7sD5xZ6C8mPGEMJCa24=
+
+Name: system/etc/avahi/avahi-autoipd.action
+SHA1-Digest-Manifest: BtD/9UXvq9ElYq/87xnLMYxhiEY=
+
+Name: system/usr/lib/busybox/bin/traceroute6
+SHA1-Digest-Manifest: yiql6DcgEaJY4uXkTT9QizPtdNs=
+
+Name: system/etc/modprobe.d/audio_load.conf
+SHA1-Digest-Manifest: q0PhB0/ohDI8vSBsjhU464zxPGE=
+
+Name: system/etc/init.d/read-only-rootfs-hook.sh
+SHA1-Digest-Manifest: psWAFE6Xr3V3hnu1gB9Xqx4gmv8=
+
+Name: system/etc/workspaceFile.qwsp
+SHA1-Digest-Manifest: GHWZDAeIy6mZwk/t3gfY7n8ApXo=
+
+Name: system/usr/bin/qmi_test_service_clnt_test_0000
+SHA1-Digest-Manifest: Om08uUxmDKU3RCjeCzm3YNZGJYw=
+
+Name: system/usr/lib/ssl/private/__emptyfile__
+SHA1-Digest-Manifest: rqDD3xs4YWsAivLqEyvTbdhxCHc=
+
+Name: system/usr/lib/xtables/libxt_CONNMARK.so
+SHA1-Digest-Manifest: GTzEHYlPVMpC3xe0n/vy7I5vfiQ=
+
+Name: system/etc/chatscripts/__emptyfile__
+SHA1-Digest-Manifest: RIu0AfZumrLnLbmoAxdXfQwxwkw=
+
+Name: system/usr/lib/opkg/alternatives/inetd
+SHA1-Digest-Manifest: g/UMPrcx8DGpfoa8mTafvqsA5iw=
+
+Name: system/home/system/.profile
+SHA1-Digest-Manifest: D7vt+dNQ0v0NrKoflfO/1mdDGeM=
+
+Name: system/usr/lib/opkg/alternatives/pscan
+SHA1-Digest-Manifest: I5Tsn2MErQZXTyumia9Ayhuv8DU=
+
+Name: system/usr/lib/opkg/alternatives/sleep
+SHA1-Digest-Manifest: ODjqJAhhaPvhdxWKjeLcKanYPmI=
+
+Name: system/usr/lib/pkgconfig/audio_utils.pc
+SHA1-Digest-Manifest: Hs+zG8Y0QOSm75UirwpwhmXzFOw=
+
+Name: system/usr/sbin/ubiupdatevol
+SHA1-Digest-Manifest: IRRnsCM7bRhVU+p7JM5N66FCPF8=
+
+Name: system/usr/lib/busybox/bin/unix2dos
+SHA1-Digest-Manifest: w8mMrKKEuGFzOJ1E71Uf2WZI3bc=
+
+Name: system/usr/lib/libffi.so.6.0.4
+SHA1-Digest-Manifest: xdQBQUwPcVnYtwzMbZr5offiLq4=
+
+Name: system/sbin/usb/compositions/9084
+SHA1-Digest-Manifest: XaG2hKSq81szjdgU2Xqn83FGXGk=
+
+Name: system/sbin/usb/compositions/9085
+SHA1-Digest-Manifest: LIzgdXMsTNChGOUFF+Zwh9vMYi4=
+
+Name: system/usr/lib/perl/5.22.0/Tie/__emptyfile__
+SHA1-Digest-Manifest: wuVzmTOHOAngfBe+yFafTPQ/VVw=
+
+Name: system/system/rfs/mdm/__emptyfile__
+SHA1-Digest-Manifest: +JP4TSCHZFQ+2pvpm10KwlXc954=
+
+Name: system/etc/init.d/set_core_pattern.sh
+SHA1-Digest-Manifest: EFkHYCbABS/SzU1Qmv6+NcLkwLU=
+
+Name: system/usr/bin/xmlcatalog
+SHA1-Digest-Manifest: FQGxr9Wix/ER4GiM1Uhhy/XBeYs=
+
+Name: system/usr/lib/mod_access.so
+SHA1-Digest-Manifest: FE5VD21TlXCLGV68khDIOB143Ls=
+
+Name: system/usr/lib/pkgconfig/libcutils.pc
+SHA1-Digest-Manifest: pn8Fr12DmER1I+Q6BvRUrAa3qlM=
+
+Name: system/dev/hda
+SHA1-Digest-Manifest: pLtNoQk2kQxdUn/WvIqKPK8h0BQ=
+
+Name: system/usr/bin/sendcal
+SHA1-Digest-Manifest: xNLRmIVVrvr20ve5qO2E8Yy3SVY=
+
+Name: system/usr/lib/busybox/bin/lspci
+SHA1-Digest-Manifest: sJX9S2/vp7DofV1J2R0idn9MZHE=
+
+Name: system/usr/sbin/nl-qdisc-delete
+SHA1-Digest-Manifest: SZZyNECkxfqoTcS9JQzW6+nbbBU=
+
+Name: system/etc/cacert_location.pem
+SHA1-Digest-Manifest: GK0cTJd0mNEB7MjLIn+05fnE3fM=
+
+Name: system/usr/lib/opkg/alternatives/linux32
+SHA1-Digest-Manifest: C+XXZphOKCJMJzXLAKMSAEWL39Q=
+
+Name: system/etc/modprobe.d/__emptyfile__
+SHA1-Digest-Manifest: kkaYMWP9H2uBpPHzpLyF2YBs92M=
+
+Name: system/usr/lib/xtables/libxt_TEE.so
+SHA1-Digest-Manifest: Ck6t0nLvUmeFiOQlIP5EMVAPhBI=
+
+Name: system/etc/init.d/banner.sh
+SHA1-Digest-Manifest: BLvyjzV49tc8mysoXgi4v5viIE4=
+
+Name: system/sbin/reboot-bootloader
+SHA1-Digest-Manifest: zLDIsRvknVjNlEFOoOA0fpd//Pc=
+
+Name: system/usr/bin/sexp-conv
+SHA1-Digest-Manifest: 3wHgl5DWdgAFruaYaQPp2AyEPp4=
+
+Name: system/usr/lib/opkg/alternatives/chgrp
+SHA1-Digest-Manifest: 1gl6f3zCXq6fiZ1XFFcH71L9OLU=
+
+Name: system/etc/init.d/mssboot
+SHA1-Digest-Manifest: HHfvBlM/qmE7Q8+RLGbRn2NI7TE=
+
+Name: system/usr/lib/opkg/alternatives/kbd_mode
+SHA1-Digest-Manifest: eTatqZt0T9crFdOob1K41Ipf5YU=
+
+Name: system/home/bluetooth/.bashrc
+SHA1-Digest-Manifest: ZUTNU0OtcUsaKiuuLnHlvQCid1E=
+
+Name: system/usr/lib/busybox/sbin/ifconfig
+SHA1-Digest-Manifest: ZUjFXNHXccc7RV4B1TdHrDEX3oA=
+
+Name: system/usr/lib/libbz2.so.0.0.0
+SHA1-Digest-Manifest: ObGLXP9NiQmYIhXY7JhGvoN4n18=
+
+Name: system/etc/Global_cal.acdb
+SHA1-Digest-Manifest: ohe8+2ENzO8mQhcEq7br8O6wS0Q=
+
+Name: system/home/camera/__emptyfile__
+SHA1-Digest-Manifest: MlRID4asCcV5f+UA7PMt0Z1lWlM=
+
+Name: system/usr/share/glib-2.0/__emptyfile__
+SHA1-Digest-Manifest: 8XA5G4IVlVVt3ZwWpSCnYODMoqI=
+
+Name: system/sbin/usb/compositions/9091
+SHA1-Digest-Manifest: rphNMuvNyyD1L8A8JAvtsA/wzRQ=
+
+Name: system/home/leprop/__emptyfile__
+SHA1-Digest-Manifest: /bPjVcDIeqQ1+egWSaP3DpN8DyI=
+
+Name: system/sbin/usb/compositions/9060
+SHA1-Digest-Manifest: uHazBv7RAFWvSVeBcAUArghp+vw=
+
+Name: system/usr/lib/opkg/alternatives/findfs
+SHA1-Digest-Manifest: 7q1RFoLeTdjUTXWD+Hw15fMjrhc=
+
+Name: system/usr/lib/busybox/bin/killall
+SHA1-Digest-Manifest: R9ivbe7TTYdk7GS0ogJN31eALyU=
+
+Name: system/sbin/usb/compositions/9063
+SHA1-Digest-Manifest: k/x3aua/Ignlm+yyx6RQHpe9FwA=
+
+Name: system/sbin/usb/compositions/9064
+SHA1-Digest-Manifest: kkFdLf6lXVaolk/mHHwZKsZx0Kc=
+
+Name: system/usr/lib/busybox/bin/[[
+SHA1-Digest-Manifest: Cj+H0Q4x1Gp8CjeDMh6pPdd45dQ=
+
+Name: system/sbin/usb/compositions/9067
+SHA1-Digest-Manifest: wrmWS7XUhd2H6cYHQlbE8gr0nq4=
+
+Name: system/usr/lib/xtables/libxt_multiport.so
+SHA1-Digest-Manifest: a3Zi3Obbhz8DKPVHLg9zq+tCUa0=
+
+Name: system/etc/init.d/thermal-engine
+SHA1-Digest-Manifest: vSvm8asMo4y2caJ0UCTI8cY70aM=
+
+Name: system/usr/lib/opkg/alternatives/linux64
+SHA1-Digest-Manifest: YBjDqavib4bp9kpm9O3ss/IsZYo=
+
+Name: system/usr/lib/ssl/__emptyfile__
+SHA1-Digest-Manifest: taFOVo8twWfYFd1sFOJcXGd+z64=
+
+Name: system/usr/lib/xtables/libxt_comment.so
+SHA1-Digest-Manifest: 4pIPeTt2twx0pFeyFSw4/vik+zs=
+
+Name: system/etc/mdev/find-touchscreen.sh
+SHA1-Digest-Manifest: SMaGiAlYQRUx0QPbHoM1ii+Q9OY=
+
+Name: system/usr/lib/xtables/libxt_pkttype.so
+SHA1-Digest-Manifest: h3KP9QDRer7FeYaNo5G9dAI6pyo=
+
+Name: system/sbin/usb/compositions/905B
+SHA1-Digest-Manifest: sliZWfpwT864WhYgiVnqTJN3/FU=
+
+Name: system/usr/lib/opkg/alternatives/env
+SHA1-Digest-Manifest: P6bOqJyyw0AW2qz2BVn5iCNzENY=
+
+Name: system/usr/lib/busybox/bin/uuencode
+SHA1-Digest-Manifest: cH0vRLcTaQb2YdOY8qbNvUK2AKc=
+
+Name: system/etc/init.d/cav_initscript
+SHA1-Digest-Manifest: PZ3ehl7h4h9mbbBlZizfeYgR7lw=
+
+Name: system/usr/lib/busybox/bin/smemcap
+SHA1-Digest-Manifest: xRYRyJJnJpjYC62f9YghDHZ8+tQ=
+
+Name: system/usr/bin/dbus-cleanup-sockets
+SHA1-Digest-Manifest: WRt0VjoYWYGuAqQpkr34XhL6rr8=
+
+Name: system/usr/lib/xtables/libxt_helper.so
+SHA1-Digest-Manifest: MJAmHplRYrssYn1o+hq8gtJOdJs=
+
+Name: system/media/cf/__emptyfile__
+SHA1-Digest-Manifest: sYHuzqisps8zStoN/Upev5ytFYc=
+
+Name: system/bin/ping6.iputils
+SHA1-Digest-Manifest: TsVAw0Xm4lY/G9zeDKj7EMMJ8gE=
+
+Name: system/lib/pkgconfig/libavcodec.pc
+SHA1-Digest-Manifest: JpANQOEwY30vSjr+46CpmaiezRU=
+
+Name: system/dev/urandom
+SHA1-Digest-Manifest: 7ErEKNlYjGnHIhkLJFqogNc8OmE=
+
+Name: system/usr/lib/busybox/bin/runsv
+SHA1-Digest-Manifest: sy/EgD56PSnekjFpsA/S+KyJfHI=
+
+Name: system/usr/lib/opkg/alternatives/raidautorun
+SHA1-Digest-Manifest: luiNGJBtgN0oNcrfK7TDvHQSVXY=
+
+Name: system/etc/default/rcS
+SHA1-Digest-Manifest: xraXq3Xft662Ylu84Ml40t+jY4o=
+
+Name: system/usr/lib/libqmi_client_qmux.so.1.0.0
+SHA1-Digest-Manifest: tJ0KIB61pU6hTREOilodRHLKXYY=
+
+Name: system/usr/bin/btsnoop
+SHA1-Digest-Manifest: qjnUulx+vS+HLVjPo7iiMmeZiUs=
+
+Name: system/usr/lib/busybox/sbin/blkid
+SHA1-Digest-Manifest: bnEwZqqGPPd6z8sFsJx7UX5I/HU=
+
+Name: system/etc/terminfo/s/screen-256color
+SHA1-Digest-Manifest: b3UiZkPZCZAjDwhh3j71CPuJCR0=
+
+Name: system/usr/lib/opkg/alternatives/tail
+SHA1-Digest-Manifest: qCtFuYWvi9bNOMg6Tw8MvugSysM=
+
+Name: system/etc/init.d/wlan
+SHA1-Digest-Manifest: 7CNdmp8RBs+VfSBNlnQNYMgNL0c=
+
+Name: system/usr/lib/busybox/sbin/fbset
+SHA1-Digest-Manifest: ew4zaaUJtSjA+cHsgkaLCY20HCc=
+
+Name: system/usr/lib/opkg/alternatives/beep
+SHA1-Digest-Manifest: andF7MNPdYeBQ6amLehLVS2XF78=
+
+Name: system/usr/lib/opkg/alternatives/rev
+SHA1-Digest-Manifest: sXF1MMMlsGA1vs3mJFY7Kc40Znk=
+
+Name: system/usr/lib/opkg/alternatives/gunzip
+SHA1-Digest-Manifest: 6PUq40ixau3qREHEb7Aqan3fbjQ=
+
+Name: system/usr/lib/opkg/alternatives/logger
+SHA1-Digest-Manifest: qbGcTtI3mtAn7XzHlR+Guo4cRCY=
+
+Name: system/usr/lib/perl/5.22.0/IO/Seekable.pm
+SHA1-Digest-Manifest: J5f6RGBJzQUvGcmvu5182A0e2P4=
+
+Name: system/usr/lib/xtables/libxt_connmark.so
+SHA1-Digest-Manifest: A1zy7uTAwoUgzpGht9melBv/tSg=
+
+Name: system/usr/lib/libnl-cli-3.so.200.20.0
+SHA1-Digest-Manifest: Ekdnmg6AxBO36Sku4sibNG5BbNs=
+
+Name: system/sbin/usb/compositions/9049
+SHA1-Digest-Manifest: zbSGBJ1QV8vYZ1FLb7KCK/6Eh84=
+
+Name: system/usr/lib/libdsi_netctrl.so.0.0.0
+SHA1-Digest-Manifest: d9IVeWgpdwkQBQQUuCcjsRKLQhs=
+
+Name: system/usr/lib/busybox/bin/whoami
+SHA1-Digest-Manifest: 2oM0a7MhcVYxRiogM5hKIC986uY=
+
+Name: system/usr/sbin/hostapd_cli
+SHA1-Digest-Manifest: Z12vyB4HUFfEH4BeQ5GUeZMu/qQ=
+
+Name: system/usr/lib/libgobject-2.0.so.0.4400.1
+SHA1-Digest-Manifest: n7AGOJvGC5GN8cCDJhtKl1QR+RQ=
+
+Name: system/usr/lib/libmcmipc.so.0.0.0
+SHA1-Digest-Manifest: IQltXijXWdyC8BM9i2XLLtOSnsQ=
+
+Name: system/usr/lib/perl/5.22.0/Pod/Usage.pm
+SHA1-Digest-Manifest: U9UjBssU5cDMPVffidkr7nLYLVQ=
+
+Name: system/usr/lib/xtables/libip6t_rt.so
+SHA1-Digest-Manifest: dnP2Fwd7qqHppG8PBxMYOYhjos4=
+
+Name: system/usr/lib/libebt_nflog.so
+SHA1-Digest-Manifest: GQdGthDCC0Ma5KDlzyFCFQBt8Ww=
+
+Name: system/usr/lib/busybox/bin/nslookup
+SHA1-Digest-Manifest: 5Z/MWptVG48smNqrALw0lqfV490=
+
+Name: system/dev/null
+SHA1-Digest-Manifest: 0Og7PTJkgRW0VGi8i9QeUs0Emks=
+
+Name: system/usr/lib/libutils.so.0.0.0
+SHA1-Digest-Manifest: Jw+QHedqwHcykix8OtDL6/WA/WE=
+
+Name: system/home/graphics/.profile
+SHA1-Digest-Manifest: BQiRToJasSPn3+ZpDrur+oLGdtc=
+
+Name: system/usr/lib/busybox/bin/flock
+SHA1-Digest-Manifest: RmOT9JQE5zktCUIXeNCmgadEJto=
+
+Name: system/share/udhcpc/default.script
+SHA1-Digest-Manifest: LAOa+NSWH+nsFUB1/QqkDabFoCc=
+
+Name: system/usr/sbin/ubidetach
+SHA1-Digest-Manifest: PDPEt/AGiOXDXXkYb6Y7EPmUxn8=
+
+Name: system/sbin/usb/compositions/9056
+SHA1-Digest-Manifest: /lHgaotXh5cI0k0e4bmvuIpqQKQ=
+
+Name: system/sbin/usb/compositions/9057
+SHA1-Digest-Manifest: EhDA2VJEVR2RFR4kLtMldUqp/M4=
+
+Name: system/sbin/usb/compositions/9059
+SHA1-Digest-Manifest: +NwGK84hkLvEcMAlT5xQ48IMH+Y=
+
+Name: system/usr/lib/libtime_genoff.so.1.0.0
+SHA1-Digest-Manifest: EpPr99kJcMuDALXoeXh1O9ynqhE=
+
+Name: system/WEBSERVER/www/__emptyfile__
+SHA1-Digest-Manifest: Eboozocjfx+9UM/3zN/Mo1mACcQ=
+
+Name: system/usr/lib/xtables/libip6t_LOG.so
+SHA1-Digest-Manifest: YSzvxQcz6NZ+CPuJ//FkoEZc+CE=
+
+Name: system/sbin/usb/compositions/904A
+SHA1-Digest-Manifest: itPzFz3aB5Fs+yV0o98IJ60jvnQ=
+
+Name: system/usr/sbin/dfota_startup.sh
+SHA1-Digest-Manifest: 0thwUjKqXuaf+2cWeYYWKpLXCm0=
+
+Name: system/usr/sbin/wlan_services
+SHA1-Digest-Manifest: jkVuIIfFX12OYH303egtJ08bKGE=
+
+Name: system/lib/libutil-2.22.so
+SHA1-Digest-Manifest: TIVUI4zNsDW0k69bt5FlVoewq5o=
+
+Name: system/usr/bin/setmetamode
+SHA1-Digest-Manifest: 5q3NL0PNhI1QyX0fd7PXOhA310M=
+
+Name: system/usr/lib/opkg/alternatives/openvt
+SHA1-Digest-Manifest: DiElHPJbw2rCVS5cI4GfG9XDP/c=
+
+Name: system/usr/lib/opkg/alternatives/lzcat
+SHA1-Digest-Manifest: tDh6EG3KVhUI93LwjwWicbZDpPE=
+
+Name: system/usr/sbin/lighttpd-angel
+SHA1-Digest-Manifest: jtEWd65lhtkrTr0gDcC7vh4jxPE=
+
+Name: system/usr/lib/opkg/alternatives/users
+SHA1-Digest-Manifest: ZSBjGGwYBpIfyZoOLqJJcNmvs4E=
+
+Name: system/etc/libnl/__emptyfile__
+SHA1-Digest-Manifest: IqlJ42WTZgYZW3+uldrJ4QfOAz4=
+
+Name: system/usr/lib/busybox/bin/lzop
+SHA1-Digest-Manifest: 448NsPVaRDhH4cOhTugGVG+ELGM=
+
+Name: system/usr/lib/xtables/libip6t_hbh.so
+SHA1-Digest-Manifest: U0G5On6iddhXLkQgZs8wHl/tnq4=
+
+Name: system/etc/gps.conf
+SHA1-Digest-Manifest: 54QlV8G2XwLujbtH5B9y44uJOGg=
+
+Name: system/usr/bin/ftmdaemon
+SHA1-Digest-Manifest: ao+8Rl7Q8N1zl/vXtRV7nv6FOI8=
+
+Name: system/usr/lib/xtables/libipt_TTL.so
+SHA1-Digest-Manifest: BeRGdrsoOEjpQlxC0aYcalYC0pc=
+
+Name: system/sbin/halt.sysvinit
+SHA1-Digest-Manifest: 6BIHWIiInmOo/8S84JMWb8G1sLQ=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/input/misc/gpio_o
+ utput.ko
+SHA1-Digest-Manifest: SCAEYQZxfrJorluMD4m+ARkBe28=
+
+Name: system/usr/bin/irsc_util
+SHA1-Digest-Manifest: +pyz3/kDiW3T0X/9IGH48U6eHWA=
+
+Name: system/sbin/usb/compositions/90B1
+SHA1-Digest-Manifest: qaL+Ll529CcxJFAcNBMEMJX0n7g=
+
+Name: system/usr/lib/busybox/bin/sum
+SHA1-Digest-Manifest: yAEf8lrDhG6DPmyAKNg8yeQVBHs=
+
+Name: system/lib/libpthread-2.22.so
+SHA1-Digest-Manifest: JNLY3sKwtrdhdyKvE5XtRmPQzrA=
+
+Name: system/usr/lib/busybox/bin/envuidgid
+SHA1-Digest-Manifest: 8cexR9AdwsIwesRXpqaoY7UmQNI=
+
+Name: system/usr/lib/opkg/alternatives/ifenslave
+SHA1-Digest-Manifest: X6EW84Di2esMLsHzioA6TXG6zyc=
+
+Name: system/usr/bin/socat-chain.sh
+SHA1-Digest-Manifest: 2R79V9VU0g8lzWpKYZHQDY9kkZQ=
+
+Name: system/usr/bin/mapscrn
+SHA1-Digest-Manifest: BlKCZkVkhxtt6i6UwbNWJkvidXI=
+
+Name: system/usr/lib/libloc_base_util.so.1.0.0
+SHA1-Digest-Manifest: BYobz5FHhOPEAq9+jA/Nusqkk7M=
+
+Name: system/usr/bin/openvt.kbd
+SHA1-Digest-Manifest: Y2T9O9MpgK/0MbjrU0qRQdPzvi0=
+
+Name: system/sbin/usb/compositions/90CA
+SHA1-Digest-Manifest: aFURNnIcGfGU8Kx0KgIS7yAhXPY=
+
+Name: system/usr/bin/mbimd
+SHA1-Digest-Manifest: XYB6oden0SUvkpIDcwLl3TixaFY=
+
+Name: system/sbin/usb/compositions/90CD
+SHA1-Digest-Manifest: xFVuoPHZoTi1COd6ir9WwRpdYO4=
+
+Name: system/usr/lib/busybox/sbin/ipaddr
+SHA1-Digest-Manifest: lcL5liCH03iTJxu3ClHy8pxDhaI=
+
+Name: system/sbin/init.sysvinit
+SHA1-Digest-Manifest: XaMkmcGlnLKSk7JmQuzdojir0Cw=
+
+Name: system/usr/lib/modules/4.14.190/__emptyfile__
+SHA1-Digest-Manifest: b/3VdysywmfFcc8XuvBIxaWeFSI=
+
+Name: system/home/sensors/.profile
+SHA1-Digest-Manifest: FeWnMmXT10r11kqhncec8Ja5gLo=
+
+Name: system/usr/lib/libid3tag.so.0.3.0
+SHA1-Digest-Manifest: nrvFfppBavcndlWYeh/QumW46OE=
+
+Name: system/home/qmmfwebsvr/.profile
+SHA1-Digest-Manifest: Nwwq9DeWJM+1hqY0wBIGkAV+TQ8=
+
+Name: system/usr/bin/gdbserver
+SHA1-Digest-Manifest: KYt/0xKl2rBgNJm8IFKUXA+pvO0=
+
+Name: system/usr/lib/busybox/bin/cryptpw
+SHA1-Digest-Manifest: YCgaTQZKNsDg93hCA1QUHsICRio=
+
+Name: system/bin/mountpoint.sysvinit
+SHA1-Digest-Manifest: 4mJApcI8PHqEdlDmdjs7Vs8xwsE=
+
+Name: system/usr/lib/busybox/sbin/dhcprelay
+SHA1-Digest-Manifest: XJe9xpEvINpVBL/2yVB8Li95dAY=
+
+Name: system/usr/lib/opkg/alternatives/time
+SHA1-Digest-Manifest: vwkecPv5Ad+xLoAGud6STTLkxrA=
+
+Name: system/usr/lib/liblocationservice.so.1.0.0
+SHA1-Digest-Manifest: b8woyQ1Z/y5vy9z6clEKCCtxqmA=
+
+Name: system/usr/lib/opkg/alternatives/ipcrm
+SHA1-Digest-Manifest: boI/BD/0klCU1jZVDb5Rm/j9SUM=
+
+Name: system/usr/lib/libebt_vlan.so
+SHA1-Digest-Manifest: LHISX48jp5SiKLVBGZFj9xoOCMg=
+
+Name: system/WEBSERVER/www/QCMAP_IPV4.html
+SHA1-Digest-Manifest: 7UD8lTouGZRm7Jhfks5SQFDTFcg=
+
+Name: system/etc/init.d/modem-shutdown
+SHA1-Digest-Manifest: 0CuBX/xNJqkTSYOAbDJ1xpwjnhg=
+
+Name: system/usr/lib/busybox/bin/date
+SHA1-Digest-Manifest: sulTrDBGB2wvyBYu/0QOAAHuCF8=
+
+Name: system/usr/lib/liblzo2.so.2.0.0
+SHA1-Digest-Manifest: 2modx/vynkBRadMh7SVfc5Osvrk=
+
+Name: system/usr/bin/radish
+SHA1-Digest-Manifest: kuTbC4+t4vDlDfaKWl377IDFkyw=
+
+Name: system/usr/lib/modules/4.14.190/extra/platform_dlkm.ko
+SHA1-Digest-Manifest: FV3imhc0Zm8m0SBf0sLRXi/EMuo=
+
+Name: system/usr/lib/pkgconfig/liblog.pc
+SHA1-Digest-Manifest: Ob3wIMlIolVGLWVh5/jO/jD7LXY=
+
+Name: system/usr/sbin/wpa_supplicant
+SHA1-Digest-Manifest: pjG1hEn8g5wVtU8tsuxbyhZPxnQ=
+
+Name: system/usr/sbin/ubirmvol
+SHA1-Digest-Manifest: QnFV2/9G7b46YTvvBPlf0wVg1bI=
+
+Name: system/usr/bin/MCM_ATCOP_CLI
+SHA1-Digest-Manifest: 0CHiLJ+oAms1AD7ikO/q1WG14pY=
+
+Name: system/usr/lib/busybox/bin/lzma
+SHA1-Digest-Manifest: p5OERVA3lcOuBD6/uYH0UiEsMWg=
+
+Name: system/etc/ppp/options
+SHA1-Digest-Manifest: xxZLNgGsHOkdIaYYNavcOMGZPfY=
+
+Name: system/usr/lib/busybox/bin/unlzop
+SHA1-Digest-Manifest: s8zufDmHnshnwTEMkUT+BkHJrBg=
+
+Name: system/sbin/usb/compositions/90AD
+SHA1-Digest-Manifest: 2pLoX+gKT4KR1w5/qblsCG/Rfy8=
+
+Name: system/etc/default/__emptyfile__
+SHA1-Digest-Manifest: WBeZRMK4PsFb4K8JqZq1VgJyRBQ=
+
+Name: system/usr/lib/busybox/bin/unlink
+SHA1-Digest-Manifest: g5fk6fCb4i+HpLAyCnh/7DCH2jk=
+
+Name: system/usr/lib/busybox/sbin/chat
+SHA1-Digest-Manifest: 9PWnhUr8TpEJVQFSdu1purCnrE8=
+
+Name: system/usr/bin/QCMAP_CLI
+SHA1-Digest-Manifest: CXqEdugUEpNRQMOqyZya4ktpSW8=
+
+Name: system/etc/default/volatiles/00_core
+SHA1-Digest-Manifest: Eldl7D+WtjwaoA7iIR+WVvCEABc=
+
+Name: system/usr/lib/pkgconfig/location-geofence.pc
+SHA1-Digest-Manifest: 0hSg+3GN/2FTgC+JrPcOHQNmBiU=
+
+Name: system/sbin/usb/compositions/90A1
+SHA1-Digest-Manifest: 3prrYOzl3e8SfR3hcj6fRNK7tvg=
+
+Name: system/usr/bin/bdt
+SHA1-Digest-Manifest: mOtTjcAGs1rcx/5WoJBSNWQPx5s=
+
+Name: system/usr/lib/opkg/alternatives/last
+SHA1-Digest-Manifest: SheTHHW/HEmNDQ5fzXGiq9C1v3s=
+
+Name: system/sbin/usb/compositions/90A9
+SHA1-Digest-Manifest: jp0kWCRgzBY/l//FWAKIgsiB3nc=
+
+Name: system/usr/bin/dbus-launch
+SHA1-Digest-Manifest: E+PBOS59DHUN+pCkgAhjSsstMgs=
+
+Name: system/usr/lib/libnetmgr.so.0.0.0
+SHA1-Digest-Manifest: AKdIJ2kbzZtrkcLZCi/4nobyrVs=
+
+Name: system/usr/lib/xtables/libxt_hashlimit.so
+SHA1-Digest-Manifest: 1qJcTEKmFm1U79OZJRlGHfbFRzk=
+
+Name: system/etc/xtwifi.conf
+SHA1-Digest-Manifest: yvMWLczP3ghF6/pxTdC/05Sv8Ks=
+
+Name: system/usr/lib/libqmi.so.1.0.0
+SHA1-Digest-Manifest: lrYi3a9qwGMEg6nxTMxDKXpUu1o=
+
+Name: system/usr/lib/xtables/libxt_TCPMSS.so
+SHA1-Digest-Manifest: IZrKHxVIIwVkncXwN+T+ZAbLnNY=
+
+Name: system/usr/lib/opkg/alternatives/mkpasswd
+SHA1-Digest-Manifest: w1CRTkCyBMEkea/w1CrGjBt4Nk8=
+
+Name: system/usr/lib/opkg/alternatives/depmod
+SHA1-Digest-Manifest: /QIQaOB5b+JEbDtQ8XytrQUDifI=
+
+Name: system/home/system/__emptyfile__
+SHA1-Digest-Manifest: WF42RAdV93c3ocW5r64gQbLK6bE=
+
+Name: system/lib/libcrypto.so.1.0.0
+SHA1-Digest-Manifest: bmpFCei6fS6nXXTidwvUZJ/BCpk=
+
+Name: system/etc/network/__emptyfile__
+SHA1-Digest-Manifest: O7V32VQ9RUJZH3pSzzf5cIbkYHE=
+
+Name: system/etc/init.d/sendsigs
+SHA1-Digest-Manifest: Y3MCKEH/XrTYfi1NWXk6+Qo2jlM=
+
+Name: system/usr/bin/time_daemon
+SHA1-Digest-Manifest: uXHoAtr+oCdu8qC3jW20BJ40Huc=
+
+Name: system/usr/lib/xtables/libxt_socket.so
+SHA1-Digest-Manifest: DbdAD2BxZJ4/zhyzQLuJ+crT9GM=
+
+Name: system/WEBSERVER/www/images/header.jpg
+SHA1-Digest-Manifest: q5z7N5GzLlsC40XV/U/Bm8NMlfg=
+
+Name: system/lib/libnss_mdns.so.2
+SHA1-Digest-Manifest: 4XPGFVzxAcR1+ZrteoXuf+bFLxk=
+
+Name: system/usr/share/avahi/__emptyfile__
+SHA1-Digest-Manifest: sAMozE3XprVetGOQt0XOGFUaXJA=
+
+Name: system/usr/bin/groups.shadow
+SHA1-Digest-Manifest: pOrWh25+Ft+Ryhou9lsj2egY6Nk=
+
+Name: system/usr/lib/libebt_mark.so
+SHA1-Digest-Manifest: TadMLfmshV3uwb1PR14WwepVoUQ=
+
+Name: system/usr/lib/xtables/libxt_state.so
+SHA1-Digest-Manifest: Nm19opWQ9e/Ny7xi5vimfkLazMg=
+
+Name: system/usr/lib/libwpa_client.so
+SHA1-Digest-Manifest: D6rkyikDR/opbkuYFHrCM2gOO7o=
+
+Name: recovery/recovery-from-boot.p
+SHA1-Digest-Manifest: vT8mPhBZjYVDGtCNPOUaG7SZHl0=
+
+Name: system/usr/lib/busybox/bin/mkpasswd
+SHA1-Digest-Manifest: yIZlPZY5lAG3KhxHhU+ph0TpDgk=
+
+Name: system/usr/lib/opkg/alternatives/getopt
+SHA1-Digest-Manifest: 3JG9urgl/MyDqLXuW+l8wlPy9tY=
+
+Name: system/usr/lib/xtables/libipt_SNAT.so
+SHA1-Digest-Manifest: KnuEMSsU38Hrc9cHhQZo2SFyR8g=
+
+Name: system/usr/lib/mod_dirlisting.so
+SHA1-Digest-Manifest: TKJCBlrWPj39M173eCoZlw/a6Hg=
+
+Name: system/etc/terminfo/a/ansi
+SHA1-Digest-Manifest: Cris6JemRDY2PcREPxdzvWZyGgk=
+
+Name: system/usr/bin/arec
+SHA1-Digest-Manifest: vkQzyudwcS7YJ9wgbogzXB1AVKw=
+
+Name: system/etc/dnsmasq.d/__emptyfile__
+SHA1-Digest-Manifest: p9xAEa0bDobXF78jAA3QsEn2O5E=
+
+Name: system/usr/tests/__emptyfile__
+SHA1-Digest-Manifest: DTZ870L+h+CpkQxAuLSflCPt638=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_Taiko_I2S
+SHA1-Digest-Manifest: 8E08stq7KXbsZjUoE2dSqTo0n/g=
+
+Name: system/home/leprop/.profile
+SHA1-Digest-Manifest: FomsZB1/7IopjPqscO0J6roSd0E=
+
+Name: system/usr/lib/busybox/bin/unlzma
+SHA1-Digest-Manifest: pRon7SmGEdZUjp7bHrEvNehMm4Q=
+
+Name: system/usr/lib/opkg/alternatives/resize
+SHA1-Digest-Manifest: LBqEUryyqJ74V4WDpfb1atXlS84=
+
+Name: system/usr/lib/librpmb.so.1.0.0
+SHA1-Digest-Manifest: xefj6dJ/79HD0LjWH6FEWDA7xho=
+
+Name: system/media/net/__emptyfile__
+SHA1-Digest-Manifest: do5M8etp2nTre2oED1aQgsbe2hY=
+
+Name: system/usr/lib/opkg/alternatives/touch
+SHA1-Digest-Manifest: nUA3dqB3oBEngC+n1WxoysIa+1E=
+
+Name: system/usr/share/gdb/syscalls/ppc-linux.xml
+SHA1-Digest-Manifest: a90Z6gkAMz5rqwD2HW6kovwTWx0=
+
+Name: system/etc/init.d/mcmlocserverd
+SHA1-Digest-Manifest: Z0YizWOEegw8RXztR/4OvM/8fqU=
+
+Name: system/usr/lib/perl/5.22.0/auto/POSIX/__emptyfile__
+SHA1-Digest-Manifest: Nm74GIBFAbUfDwHQnLARet0VAm8=
+
+Name: system/usr/lib/opkg/alternatives/chat
+SHA1-Digest-Manifest: 4GhNNCaKCWHbWg64e3BrTWkpjLg=
+
+Name: system/usr/sbin/dhcpcd
+SHA1-Digest-Manifest: 8IbmOHfdBsJ9Th1+I0BZ0UWf2YY=
+
+Name: system/usr/lib/busybox/sbin/sendmail
+SHA1-Digest-Manifest: RyI2s9qL1GpXGI7S4EnL7/DBgC0=
+
+Name: system/usr/lib/opkg/alternatives/modprobe
+SHA1-Digest-Manifest: 9dFBF6gwzavOZs1CUTclhSjaQQ8=
+
+Name: system/usr/lib/opkg/alternatives/ipcalc
+SHA1-Digest-Manifest: dhrYMewRT3wN8xD4gH3+ErRp9XQ=
+
+Name: system/usr/lib/mod_alias.so
+SHA1-Digest-Manifest: z4c/avpVAjLszNx9ptq5EfgIJik=
+
+Name: system/usr/lib/libalsa_intf.so.1.0.0
+SHA1-Digest-Manifest: hVMXceFDqHaxThgw9Uu+WfGAigk=
+
+Name: system/usr/bin/athdiag
+SHA1-Digest-Manifest: lTk6tmAOzguNDUys1Hi+3hQlzgA=
+
+Name: system/usr/bin/qmi_test_service_clnt_test_0001
+SHA1-Digest-Manifest: r73uAjQ0B4ApTtnVBaDdErZZSTo=
+
+Name: system/etc/audio_platform_info_extcodec.xml
+SHA1-Digest-Manifest: /PwEHyKQ2UoVodC3Jrar0VEPcm8=
+
+Name: system/usr/lib/libbt-vendor.so.0.0.0
+SHA1-Digest-Manifest: bbuakAOiadC1EQQFp2b/M3iJVL8=
+
+Name: system/usr/lib/opkg/alternatives/poweroff
+SHA1-Digest-Manifest: +8czmXjNQlMxD+BnTlAwKs5E7uE=
+
+Name: system/usr/lib/libbtnv.so.0.0.0
+SHA1-Digest-Manifest: dXzOO4xV5HovtqHN5phL0oAjW8w=
+
+Name: system/usr/lib/opkg/alternatives/login
+SHA1-Digest-Manifest: OVfHiQYjatQn9aEHLs9cBjUVU+U=
+
+Name: system/usr/bin/hci_qcomm_init
+SHA1-Digest-Manifest: cwOxU6gcpZDiNkz4sDNAHgnBmyM=
+
+Name: system/etc/ppp/ip-up
+SHA1-Digest-Manifest: f09IyK2n0379LsvoW7A9bXED1nI=
+
+Name: system/usr/lib/opkg/alternatives/printenv
+SHA1-Digest-Manifest: M+typHiRWEp5vZGsZTqNdseRzp8=
+
+Name: system/usr/lib/xtables/libxt_statistic.so
+SHA1-Digest-Manifest: fHsqWjkMR8yCoI0rQaAggMvAXo0=
+
+Name: system/usr/lib/busybox/bin/runsvdir
+SHA1-Digest-Manifest: P9DhWf2pS61jbvdOzvFwV1hwHNc=
+
+Name: system/usr/lib/opkg/alternatives/makemime
+SHA1-Digest-Manifest: eka8z5B++aZUE832erRasIcUnqY=
+
+Name: system/usr/lib/busybox/bin/comm
+SHA1-Digest-Manifest: r8I82E/FpQ3FW1GC0NfYUOSk1Jo=
+
+Name: system/etc/init.d/cav_auto_simswap.sh
+SHA1-Digest-Manifest: mBdEkX0CSbgjFLp27xp22YNXFw8=
+
+Name: system/usr/bin/dbus-daemon
+SHA1-Digest-Manifest: RwZYLGRZU1UMtwNDiUAO555u1XM=
+
+Name: system/etc/init.d/start_atfwd_daemon
+SHA1-Digest-Manifest: EbE+wb62OAdeIzJTUf6w7RNBuEQ=
+
+Name: system/usr/lib/libhlos_wrapper_api.so.1.0.0
+SHA1-Digest-Manifest: t1WDnlEHkI9UWqdhjRqN6gSXsl4=
+
+Name: system/usr/bin/debuggerd
+SHA1-Digest-Manifest: A5nG7rLk7JuDQMpRS0MkD324GWk=
+
+Name: system/etc/terminfo/d/dumb
+SHA1-Digest-Manifest: KwdLFNxAQQ6GDClLGbtgGFM8pJc=
+
+Name: system/home/logd/__emptyfile__
+SHA1-Digest-Manifest: 1oXKE3qPGZg8USbIdr4dItpKmfY=
+
+Name: system/etc/init.d/socat
+SHA1-Digest-Manifest: /s/BOL9Y5UfBjYRQKIBMgGbqrcU=
+
+Name: system/usr/lib/libxtwifiserver_protocol.so.1.0.0
+SHA1-Digest-Manifest: /PORBWCOLST2pPOKTbMmrehq7hw=
+
+Name: system/dev/mmcblk0p2
+SHA1-Digest-Manifest: wBCBBT4d0b/dQNqMDhO6+4wvnX8=
+
+Name: system/usr/lib/opkg/alternatives/mesg
+SHA1-Digest-Manifest: ITn2LwCF2z4DqIPwL8vneZpOIDU=
+
+Name: system/dev/mmcblk0p3
+SHA1-Digest-Manifest: F7yRvz6W/hof+BSskO42TDT57UY=
+
+Name: system/usr/lib/liblocationservice_glue.so.1.0.0
+SHA1-Digest-Manifest: rb/4U65gazjNoikw1Hnunn+Clu8=
+
+Name: system/etc/ppp/__emptyfile__
+SHA1-Digest-Manifest: L7bNEBpV+NTJObaHYRe7PD417xg=
+
+Name: system/dev/mmcblk0p1
+SHA1-Digest-Manifest: 4CrXi737ABIC4Fgtve52aVtz8uU=
+
+Name: system/usr/lib/libdataitems.so.1.0.0
+SHA1-Digest-Manifest: ShlS+OWzOafqExzWD0hvkrsbQfU=
+
+Name: system/usr/lib/perl/5.22.0/auto/Sys/__emptyfile__
+SHA1-Digest-Manifest: YzT/Wjho0ayfwl4cLz8BqvCRTqI=
+
+Name: system/dev/mmcblk0p4
+SHA1-Digest-Manifest: a0qLbHAg+hxrlM/GlbRjS5tf/ek=
+
+Name: system/etc/host.conf
+SHA1-Digest-Manifest: q+A5STIzBLk2hqkQe6TysADR9UI=
+
+Name: system/usr/libexec/__emptyfile__
+SHA1-Digest-Manifest: WKsX1Od53EzCUqY5hy33eaPR52s=
+
+Name: system/etc/terminfo/v/__emptyfile__
+SHA1-Digest-Manifest: 48NITyf9h+4s5LtsOPEwSal1hdo=
+
+Name: system/usr/lib/opkg/alternatives/sum
+SHA1-Digest-Manifest: VNDLXheETEGgFgk4GNZECtPZS2o=
+
+Name: system/usr/lib/opkg/alternatives/udhcpc
+SHA1-Digest-Manifest: GClGFl2bvm3pFTipmoJSiFbYNm4=
+
+Name: system/usr/lib/opkg/alternatives/udhcpd
+SHA1-Digest-Manifest: yHTnodDM5F0x2qAqrYgGO8AtUNM=
+
+Name: system/lib/libc-2.22.so
+SHA1-Digest-Manifest: nGekkmihlLmiaVchylwJZBogzuI=
+
+Name: system/usr/lib/busybox/sbin/lsmod
+SHA1-Digest-Manifest: 1fKB0fqOhMiVGyZxw4XMXB0jAB0=
+
+Name: system/usr/lib/libaudioroute.so.0.0.0
+SHA1-Digest-Manifest: o9yVGT2RBUc5w3QEzIfhLghbsBY=
+
+Name: system/usr/bin/diag_mdlog
+SHA1-Digest-Manifest: 9Ozgmq0ZaQ/o/U7XpjGSCju92B4=
+
+Name: system/usr/lib/opkg/alternatives/chvt
+SHA1-Digest-Manifest: qJrDrVtQfm7PN7cNAnfCJvHN6v4=
+
+Name: system/etc/init.d/start_mcm_ril_srv_le
+SHA1-Digest-Manifest: /gJT8IXfIQaXI7SKT0N5sqaFTGQ=
+
+Name: system/usr/lib/modules/4.14.190/modules.builtin.bin
+SHA1-Digest-Manifest: SNlxAoSk3UNc1YsLLlw5rCFJRWs=
+
+Name: system/usr/sbin/xdfota.sh
+SHA1-Digest-Manifest: ZqB403tWAlWHTJNMClYCm7y3Wh4=
+
+Name: system/usr/lib/opkg/alternatives/nbd-client
+SHA1-Digest-Manifest: gL7972x3I2fgtoXsLITBOVRa7rk=
+
+Name: system/usr/bin/eMBMs_TunnelingModule
+SHA1-Digest-Manifest: wesBxcRoGKJ6mHNBB1qXL7Dqxj8=
+
+Name: system/usr/lib/busybox/bin/lpq
+SHA1-Digest-Manifest: 2l73TFAkkIXzY6NSE8DouMBGaWI=
+
+Name: system/usr/lib/mod_indexfile.so
+SHA1-Digest-Manifest: s6zbeNAzYJ2VvXDQ2uoMhsFAYos=
+
+Name: system/usr/lib/busybox/bin/lpr
+SHA1-Digest-Manifest: qkRFbcT47dJbfLuFR9ADS8MRo7w=
+
+Name: system/usr/lib/perl/5.22.0/Exporter.pm
+SHA1-Digest-Manifest: ffP92Tblj8aD8og5JGHWlIGLFb8=
+
+Name: system/usr/lib/perl/5.22.0/Tie/Hash.pm
+SHA1-Digest-Manifest: AEzPb9oCoUR0JTml2xp6Soh7giU=
+
+Name: system/usr/lib/busybox/bin/strings
+SHA1-Digest-Manifest: /wZ5KYZmUieI4TSGKWgJu789zNo=
+
+Name: system/usr/lib/opkg/alternatives/fsync
+SHA1-Digest-Manifest: ovOOcvh7bFuJkR8U6l0V4R+nSMQ=
+
+Name: system/etc/login.defs
+SHA1-Digest-Manifest: GOhu3Enxafji1iuJpFm9V/z0Bj8=
+
+Name: system/usr/lib/busybox/bin/printf
+SHA1-Digest-Manifest: 5iDTAS7eOaN2xRgpYUB/WufUPSg=
+
+Name: system/etc/init.d/populate-volatile.sh
+SHA1-Digest-Manifest: xt4C8G+Hvbor/SDMhQ3uKYOdeJ8=
+
+Name: system/usr/lib/opkg/alternatives/add-shell
+SHA1-Digest-Manifest: bTGowUqcNEokhhgPCUxX0N15wwY=
+
+Name: system/etc/lighttpd.d/__emptyfile__
+SHA1-Digest-Manifest: /NTdraUHa4eI3wepsuDYZub565Q=
+
+Name: system/usr/lib/libqdi.so.0.0.0
+SHA1-Digest-Manifest: /DVDKf9b2hr24ih4Yqvr/3JdZgU=
+
+Name: system/usr/lib/busybox/bin/lsattr
+SHA1-Digest-Manifest: XbwsNuxtsoAAbaVuXnA2JJAo2iI=
+
+Name: system/usr/lib/opkg/alternatives/iptunnel
+SHA1-Digest-Manifest: YkNvjMD75SOxjFf2V9WJalgLoYA=
+
+Name: system/usr/lib/opkg/alternatives/find
+SHA1-Digest-Manifest: p7ssPOcyxbGGA53RiCTkc2xMGOY=
+
+Name: system/usr/lib/libqahw.so
+SHA1-Digest-Manifest: 9/B0+WhIutz2Ym2t6FRcHbk0t+Y=
+
+Name: system/sbin/routef
+SHA1-Digest-Manifest: HSvxoEPOv0cegagMlDEtr6vXg4A=
+
+Name: system/usr/lib/busybox/bin/uptime
+SHA1-Digest-Manifest: /UYuUsSizAYbiaAinFaBzFfoolA=
+
+Name: system/usr/lib/opkg/alternatives/pidof
+SHA1-Digest-Manifest: BpFdWRrm/z+/Sl5loE+w6DLqlx4=
+
+Name: system/sbin/routel
+SHA1-Digest-Manifest: AgDN2Yg9y2MBs2NLXMQM5jm+T0Y=
+
+Name: system/usr/lib/busybox/sbin/dnsd
+SHA1-Digest-Manifest: tfLTb1C6u0+cPgMHuL3bAQgi2oI=
+
+Name: system/usr/lib/opkg/alternatives/sort
+SHA1-Digest-Manifest: aygghxu6qLIGe0l6RuhdCb8GlfQ=
+
+Name: system/usr/lib/busybox/sbin/klogd
+SHA1-Digest-Manifest: Dui3/ZdRVYP9zjfjOQFCwZL73b4=
+
+Name: system/WEBSERVER/www/QCMAP_Firewall_Help.html
+SHA1-Digest-Manifest: yB9v9V3LB5twicNhBrQghlsURRM=
+
+Name: system/usr/bin/openssl
+SHA1-Digest-Manifest: cICs3H7+SvXioPI8Af+7WHcw9cQ=
+
+Name: system/usr/lib/libnl-route-3.so.200.20.0
+SHA1-Digest-Manifest: fU//K+EKlMtsiuaSVCtJiN0hZZk=
+
+Name: system/usr/lib/opkg/alternatives/fgrep
+SHA1-Digest-Manifest: uT3LIHm3Kaw7LvdC/MmqntcCTB4=
+
+Name: system/usr/lib/opkg/alternatives/newgrp
+SHA1-Digest-Manifest: EpGmF4zSvRzG40lYYBfOcAWtnbI=
+
+Name: system/usr/lib/perl/5.22.0/Scalar/Util.pm
+SHA1-Digest-Manifest: sMCgxfxRUCWouxsEbevQ2ND4qG4=
+
+Name: system/usr/bin/qmi_test_service_start_svc
+SHA1-Digest-Manifest: EokDfgXXqXHZFzXrOLEhbKvJfTw=
+
+Name: system/usr/lib/opkg/alternatives/true
+SHA1-Digest-Manifest: Rly4Dp6MQkMD4jW4BDRxKuQx004=
+
+Name: system/usr/lib/busybox/bin/chattr
+SHA1-Digest-Manifest: ArRKPoT4ja78MVvDjhWMWg4+zTk=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_TapanLite
+SHA1-Digest-Manifest: x3QoCEhRs9nwPxiTUenF/VboKNo=
+
+Name: system/usr/lib/libloc_core.so.1.0.0
+SHA1-Digest-Manifest: 6aPJU2kS/IqLKZK+Ga1G1XM890M=
+
+Name: system/usr/share/gdb/syscalls/amd64-linux.xml
+SHA1-Digest-Manifest: Z+3KHL4VbWltYuxO9aycSARQU2k=
+
+Name: system/usr/lib/opkg/alternatives/free
+SHA1-Digest-Manifest: HFC1DvhrqCET6BYRtU4bBjALK0U=
+
+Name: system/usr/lib/opkg/alternatives/ifdown
+SHA1-Digest-Manifest: 6bdax5cID3JKqMRkfzhbIwvnAuA=
+
+Name: system/usr/lib/xtables/libxt_owner.so
+SHA1-Digest-Manifest: F48dijarIPIsUIYNobNA+ALLKdI=
+
+Name: system/usr/sbin/wpa_passphrase
+SHA1-Digest-Manifest: KciICXbesuXC0pLSVCUXEXnj4EM=
+
+Name: system/etc/General_cal.acdb
+SHA1-Digest-Manifest: MGy4G8OtMXpXNjK2zgixk1gNFfI=
+
+Name: system/etc/protocols
+SHA1-Digest-Manifest: a01XjjsuOpoJkTHBCG8tPzmIZ80=
+
+Name: system/usr/lib/opkg/alternatives/lsmod
+SHA1-Digest-Manifest: KeUWbWIKK8uMiMLG/jA2jleCdkk=
+
+Name: system/usr/lib/busybox/sbin/watchdog
+SHA1-Digest-Manifest: XCZbi8JVRxjzlN5p32Ya2QsjKhw=
+
+Name: system/usr/lib/xtables/libxt_connbytes.so
+SHA1-Digest-Manifest: 1BMKRMS5aArJ6FV0ZVLKTO97ySQ=
+
+Name: system/usr/games/__emptyfile__
+SHA1-Digest-Manifest: +uV+nARuZwQerg2oHjR6QBQrDBQ=
+
+Name: system/usr/lib/busybox/bin/showkey
+SHA1-Digest-Manifest: U0gLzFuwIK08eNgAJRzZbm6p+Kg=
+
+Name: system/usr/sbin/ubiattach
+SHA1-Digest-Manifest: 4FO/D1hkrLyZpnY6InUd4C4674I=
+
+Name: system/run/lock/__emptyfile__
+SHA1-Digest-Manifest: aMHX8ZQTWQ/Vz5/9piz3gnDLIp0=
+
+Name: system/usr/lib/opkg/alternatives/xzcat
+SHA1-Digest-Manifest: 0Gfs4+3yWjR1B51UOI65Mj/YEMA=
+
+Name: system/etc/inputrc
+SHA1-Digest-Manifest: 4ZYkBZiG2Qv+BIL9mXqHAvSRUGI=
+
+Name: system/usr/lib/ssl/certs/__emptyfile__
+SHA1-Digest-Manifest: blUfshOhS2xvbcOlA20rNhxuB2M=
+
+Name: system/usr/lib/opkg/alternatives/stat
+SHA1-Digest-Manifest: okF5uT2/DOi5H6ccJIfNs8NDj8I=
+
+Name: system/usr/bin/newgrp.shadow
+SHA1-Digest-Manifest: 7UagS3u1VgAklIBBtSuCiygvkas=
+
+Name: system/usr/bin/PktRspTest
+SHA1-Digest-Manifest: EQ3fF83mMCYWrQs9sxZFXMLDeKw=
+
+Name: system/usr/lib/opkg/alternatives/rmdir
+SHA1-Digest-Manifest: WsFkWXNiwNk4Wicevv27ANJd7Ek=
+
+Name: system/etc/firmware/wcd9310/__emptyfile__
+SHA1-Digest-Manifest: 56dSAcp5ag3eLnOHhm9+LEnfm+w=
+
+Name: system/dev/mem
+SHA1-Digest-Manifest: we8wASzGkrTLjAlR73Hkc4VPJkI=
+
+Name: system/usr/bin/qmi_ip_multiclient
+SHA1-Digest-Manifest: rV2RLQoV5MQJUMD6vyKcdfVSMcY=
+
+Name: system/usr/lib/libgmp.so.10.2.0
+SHA1-Digest-Manifest: ywmq182OlPmnCDAw7OdtEd6p4aM=
+
+Name: system/usr/lib/opkg/alternatives/rdev
+SHA1-Digest-Manifest: Iyx8NAoburJlPIBkR9sS3WAH/LY=
+
+Name: system/usr/lib/opkg/alternatives/blockdev
+SHA1-Digest-Manifest: 8SeyXJj+a5DnKpGs1VGZB3wM4MI=
+
+Name: system/usr/lib/perl/5.22.0/auto/__emptyfile__
+SHA1-Digest-Manifest: /eiyWg6lDF5Ia9eC8XrqSwe+FsU=
+
+Name: system/usr/lib/xtables/libipt_NETMAP.so
+SHA1-Digest-Manifest: Pzam4Sks6IRgzYnyxKsnshqsNDE=
+
+Name: system/usr/lib/opkg/alternatives/httpd
+SHA1-Digest-Manifest: vbUy8WJ30QLni7aEtzBvnPVUsew=
+
+Name: system/usr/lib/gio/__emptyfile__
+SHA1-Digest-Manifest: htEouK03JllLvzJMt5etAsA3M98=
+
+Name: system/usr/lib/busybox/sbin/udhcpd
+SHA1-Digest-Manifest: edVFGwF+Rt/qP4y80KylacUZ/Tg=
+
+Name: system/usr/lib/busybox/sbin/udhcpc
+SHA1-Digest-Manifest: kVQX4llFmmpQv/anPgflaRMHPZs=
+
+Name: system/usr/lib/opkg/alternatives/run-parts
+SHA1-Digest-Manifest: dOL2Xlf2vhaHwIeYm9MYbxBki60=
+
+Name: system/usr/lib/opkg/alternatives/mktemp
+SHA1-Digest-Manifest: v0N0mIIq0p3q9EiBhutG4LLC0hg=
+
+Name: system/usr/lib/busybox/sbin/mdev
+SHA1-Digest-Manifest: tucfNyFbJjFV5pJPJAAn1tBDaGc=
+
+Name: system/etc/izat.conf
+SHA1-Digest-Manifest: cPGqrHScORpni78aaVfQ2zNGJ5Y=
+
+Name: system/usr/lib/xtables/libip6t_eui64.so
+SHA1-Digest-Manifest: bDMwQoj+ifnribhqCGcZEc1xzMk=
+
+Name: system/sbin/usb/compositions/empty
+SHA1-Digest-Manifest: nlovLtFoHdBcUhtC0DFhL/VWhB4=
+
+Name: system/usr/bin/qmi_test_service_clnt_test_3001
+SHA1-Digest-Manifest: RwGZqht80nCd3IorTngHhbgXigs=
+
+Name: system/usr/lib/busybox/bin/mount
+SHA1-Digest-Manifest: cbD/BVvQOzOJoOr59kyP6neteXg=
+
+Name: system/usr/bin/qmi_test_service_clnt_test_3000
+SHA1-Digest-Manifest: s8x7twlLY1SJdPxLp3HiwX1h9Sk=
+
+Name: system/usr/lib/libaudioutils.so.0.0.0
+SHA1-Digest-Manifest: 0okSdCx0M3s4ouqFHk4HGHMyb3M=
+
+Name: system/usr/bin/location_hal_tests
+SHA1-Digest-Manifest: /4uYXEH68muuVE1yO7wFpg6dGGc=
+
+Name: system/usr/lib/busybox/sbin/ifenslave
+SHA1-Digest-Manifest: lSDAlVfJI+VAvPi3G53nNBaI9U8=
+
+Name: system/usr/sbin/mkfs.ubifs
+SHA1-Digest-Manifest: im8+mD9eOSC56LcfqkpULPL4fsQ=
+
+Name: system/etc/inetd.conf
+SHA1-Digest-Manifest: pgNfVdpa/IjSW0SLvXZERR0a+ps=
+
+Name: system/home/input/__emptyfile__
+SHA1-Digest-Manifest: ipoHogfufLXozV7UP1k1Tt53RLc=
+
+Name: system/usr/lib/opkg/alternatives/cksum
+SHA1-Digest-Manifest: 5187mV3M5AUbq4SnAcOLf5cD0kI=
+
+Name: system/usr/lib/opkg/alternatives/udpsvd
+SHA1-Digest-Manifest: 3QInKV6wpY4RENP1Qbo1FZKvnTM=
+
+Name: system/usr/lib/opkg/alternatives/klogd
+SHA1-Digest-Manifest: uPJDOaKVIcpPCPPmIS0cyU4MMTk=
+
+Name: system/usr/lib/xtables/libxt_conntrack.so
+SHA1-Digest-Manifest: uHxjnH5N2cYN3cUP17jmMgrKwlI=
+
+Name: system/usr/lib/opkg/alternatives/sha512sum
+SHA1-Digest-Manifest: vzN38ugNlxQLS2xM20MpL5kYYjk=
+
+Name: system/usr/lib/opkg/alternatives/zcip
+SHA1-Digest-Manifest: 5DX1ECPUjZ4Wgt7UMl8PySQPVQs=
+
+Name: system/usr/sbin/nfnl_osf
+SHA1-Digest-Manifest: XpAZw3jzJXZDQTQm6AIxw7LaNis=
+
+Name: system/usr/sbin/ubinize
+SHA1-Digest-Manifest: LLxGm3ChyHHJjmxT0a8KFn933Cc=
+
+Name: system/usr/bin/pktlogconf
+SHA1-Digest-Manifest: T8KTNcHlKngcGjYLr/1nG59DKOw=
+
+Name: system/var/lib/dbus/__emptyfile__
+SHA1-Digest-Manifest: vCvP7RF6U4R7WtgHygdQzdjcrIw=
+
+Name: system/usr/lib/opkg/alternatives/false
+SHA1-Digest-Manifest: 1AsFQuXeZRTOn3W1tWNYOWLSHyc=
+
+Name: system/usr/lib/opkg/alternatives/fuser
+SHA1-Digest-Manifest: SQ1KZEO12NLx2e3z348nE9ybdhg=
+
+Name: system/usr/lib/busybox/sbin/bootchartd
+SHA1-Digest-Manifest: M2FmKlSQNoxN+voembvyMoIBCO8=
+
+Name: system/etc/init.d/checkroot.sh
+SHA1-Digest-Manifest: zP/H96ERkSRutaBfDtp/40JTfxU=
+
+Name: system/lib/libcap.so.2.24
+SHA1-Digest-Manifest: ImMlxYUeZbijzhJjuV969ukEB2c=
+
+Name: system/etc/init.d/dbus-1
+SHA1-Digest-Manifest: DO9zuBtIJjO62QL6ypGGMdBSeh0=
+
+Name: system/bin/busybox
+SHA1-Digest-Manifest: ceV7CTEdAAR8tR2lYouJqG6k5EI=
+
+Name: system/sbin/usb/__emptyfile__
+SHA1-Digest-Manifest: +FSlrDcSKT6K6LON7j1dNdOBjDA=
+
+Name: system/usr/lib/opkg/alternatives/pipe_progress
+SHA1-Digest-Manifest: 9SZSrFOi0PDaDdKBqnkuYHFaQ10=
+
+Name: boot.img
+SHA1-Digest-Manifest: n+q2Hz86t7mqaNSrFhTQE89C+Hw=
+
+Name: system/etc/ddclient.conf
+SHA1-Digest-Manifest: OnHsewsSu/I0UpY9fgDzEQXNtgE=
+
+Name: system/etc/ethertypes
+SHA1-Digest-Manifest: nNOyzNVzZAsrxmRkrWo1g8U6jF8=
+
+Name: system/etc/group
+SHA1-Digest-Manifest: TPqXJSW3EihmdjJoZRdOX4bF4LA=
+
+Name: system/etc/passwd-
+SHA1-Digest-Manifest: AhhA5U6N/tkGIAVhacMOARRk4dk=
+
+Name: system/home/adb/.profile
+SHA1-Digest-Manifest: a53lgAOX1vSPDXIaerVNr2HuCyU=
+
+Name: system/usr/lib/libperl.so.5.22.0
+SHA1-Digest-Manifest: TbHMl9k/PehPYA+bVnIGv27ajOc=
+
+Name: system/sbin/bridge
+SHA1-Digest-Manifest: FdYuS5dfgqH9eF18mZb/gLOJepY=
+
+Name: system/usr/lib/libtinyalsa.so.1.0.0
+SHA1-Digest-Manifest: f2auY93Nul2G7L5Z8YKvcbZfOWM=
+
+Name: system/usr/lib/xtables/libxt_physdev.so
+SHA1-Digest-Manifest: MQwKcRFmbwCzvBwlg58hv2YhtmA=
+
+Name: system/usr/lib/busybox/bin/bzip2
+SHA1-Digest-Manifest: JB/4P+RnzJQ9Gc/MjgEHP4W+6u8=
+
+Name: system/usr/sbin/nl-class-list
+SHA1-Digest-Manifest: cHiBSj1dpZ5eFNbU6U7O27U0Ebs=
+
+Name: system/etc/init.d/ppp
+SHA1-Digest-Manifest: cYryMeMCqg2RDAvsJ9hBTkkEZS8=
+
+Name: system/usr/lib/modules/4.14.190/modules.alias
+SHA1-Digest-Manifest: Gyy+Lp2/xOaXt9hn0RUjg7Phh6E=
+
+Name: system/usr/lib/opkg/alternatives/dhcprelay
+SHA1-Digest-Manifest: ccC5YSFT31d0rtPJJfY6bKJLeYo=
+
+Name: system/usr/lib/xtables/libxt_tos.so
+SHA1-Digest-Manifest: xA0/FAgm1zCdtMC2IzCnOO962kc=
+
+Name: system/etc/syslog.conf
+SHA1-Digest-Manifest: aG1ft3oqFbeJBUhsdSzD1SjL/DQ=
+
+Name: system/usr/sbin/lighttpd
+SHA1-Digest-Manifest: ly2LujMj37KzazXB0pIbgHVuhTU=
+
+Name: system/lib/ld-2.22.so
+SHA1-Digest-Manifest: y1feVTeeY1ZP3iVlVrvKoR5GzhY=
+
+Name: system/usr/bin/btnvtool
+SHA1-Digest-Manifest: bBi1vc/EIJEtts06kkJ82zCSd4c=
+
+Name: system/usr/lib/busybox/bin/less
+SHA1-Digest-Manifest: M0BSF8JWS0wJEl+Csh+YGP7kNfA=
+
+Name: system/usr/lib/perl/5.22.0/mro.pm
+SHA1-Digest-Manifest: O/cSCJ73uPJLta0qA12puPz/dF8=
+
+Name: system/usr/lib/opkg/alternatives/functions
+SHA1-Digest-Manifest: d1lJxw1nTWMeoyTbLRk0GXO1U6k=
+
+Name: system/bin/bash
+SHA1-Digest-Manifest: KO1ZBqM/VCF5DV2X/JcLeDdGtjQ=
+
+Name: system/usr/bin/nmea_test_app
+SHA1-Digest-Manifest: 4wxOi4OkWDB94MhXxHRfK5CHYHY=
+
+Name: system/usr/lib/opkg/alternatives/md5sum
+SHA1-Digest-Manifest: qsHFiCvx93AFnP39+BR3tPKp4RI=
+
+Name: system/usr/lib/libdrplugin_client.so.1.0.0
+SHA1-Digest-Manifest: ackHBG1USyyKSXrt5F8+8LUeMVE=
+
+Name: system/etc/gshadow-
+SHA1-Digest-Manifest: BBEw1of3RQpv3jLv72AAoc4J40A=
+
+Name: system/usr/lib/perl/5.22.0/auto/Fcntl/__emptyfile__
+SHA1-Digest-Manifest: 5JUM6NW0oHOzx3l9gUdTC9szwVw=
+
+Name: system/etc/systemd/system/chgrp-diag.service.d/chgrp-diag.conf
+SHA1-Digest-Manifest: Q8lV3aEyn/zc+q23qK8d0akuQvA=
+
+Name: system/usr/lib/busybox/sbin/rdate
+SHA1-Digest-Manifest: VJVYA1tfVXdkXNhW7/SAOL/1F3w=
+
+Name: system/usr/lib/busybox/sbin/ntpd
+SHA1-Digest-Manifest: CYKobEvfPF/luIeaeNTKc8Mff/A=
+
+Name: system/usr/lib/libfs_mgr.so.0.0.0
+SHA1-Digest-Manifest: KHIUH5kPL20gcbOvGZOPXEuLy8E=
+
+Name: system/usr/lib/opkg/alternatives/unix2dos
+SHA1-Digest-Manifest: ap8Te/ko1IhBH3FXgRUM+y/e2r4=
+
+Name: system/sbin/powerapp
+SHA1-Digest-Manifest: B6gogUwaYSfsU2pQAvJFm6wp/YA=
+
+Name: system/etc/rc5.d/__emptyfile__
+SHA1-Digest-Manifest: Ltt9B/FTpV0BwDKYs2FaloRQeOM=
+
+Name: system/usr/libexec/dhcpcd-run-hooks
+SHA1-Digest-Manifest: Idzit67v/eGsRr7R4+GIW+cY4P8=
+
+Name: system/etc/rc2.d/__emptyfile__
+SHA1-Digest-Manifest: GCZPSnbyJqR+O1YH2y+40nizVQU=
+
+Name: system/usr/lib/libebt_arp.so
+SHA1-Digest-Manifest: 5kS5FQEoFNAWEQPfhbKC+M9F1kI=
+
+Name: system/usr/lib/opkg/alternatives/test
+SHA1-Digest-Manifest: kWSE0ueJD2SNCOgorbw+ZXx8NBY=
+
+Name: system/etc/init.d/dmesg.sh
+SHA1-Digest-Manifest: dhC8JfoTYkbh78BLYekPmWC2YOs=
+
+Name: system/etc/terminfo/r/__emptyfile__
+SHA1-Digest-Manifest: rYu02vp8/cn5BeLu0thS4GiJHYc=
+
+Name: system/sbin/rtmon
+SHA1-Digest-Manifest: mHPZCR2xxDNcx9vwwIb3eutAlus=
+
+Name: system/usr/sbin/nl-class-add
+SHA1-Digest-Manifest: O2dOXpcpR/cOjDBmLiY9cA4N00U=
+
+Name: system/usr/lib/busybox/bin/softlimit
+SHA1-Digest-Manifest: 8zxpEAJlYr7NYeF4TaUlgnfiQFs=
+
+Name: system/usr/lib/busybox/sbin/remove-shell
+SHA1-Digest-Manifest: 6VLpPTMm1TAKG3xp1RZAkokz4ac=
+
+Name: system/usr/lib/opkg/alternatives/chrt
+SHA1-Digest-Manifest: gN16Lbq+T3bWZ7YjGBTFVuyCA0U=
+
+Name: system/usr/lib/busybox/bin/ping
+SHA1-Digest-Manifest: Jz4IE7N8EYI6mDoqaajHmB/dWDg=
+
+Name: system/usr/lib/busybox/bin/split
+SHA1-Digest-Manifest: rgx1AsghdPDfUSBbpAZlz/cIKwM=
+
+Name: system/usr/lib/opkg/alternatives/uname
+SHA1-Digest-Manifest: Do3TdXQyF/qMGZWzn6alzG5yUgk=
+
+Name: system/etc/version
+SHA1-Digest-Manifest: +12gERiDUKKHPwTaNdLZ7UjoM44=
+
+Name: system/usr/bin/psfxtable
+SHA1-Digest-Manifest: yoRhBYsdmOxbXzoAGB1ZM6T4jNg=
+
+Name: system/usr/lib/perl/5.22.0/SelectSaver.pm
+SHA1-Digest-Manifest: mrsGdITgzFLCNyf5DRVdirZjEbA=
+
+Name: system/etc/syslog.conf.busybox
+SHA1-Digest-Manifest: lYBnve3cbObbhJpmAeVBIYIAvcg=
+
+Name: system/usr/lib/busybox/sbin/nameif
+SHA1-Digest-Manifest: 5hfNq2e5Tr4wTEaPt8X2k7OnH3g=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_Tapan_SKUF
+SHA1-Digest-Manifest: oFe4t9SeQ+xo5Ex9gK/xvgCSVBc=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_8x10_wcd
+SHA1-Digest-Manifest: 6LLC5UNxHkysyagWLWMmYqiTqWU=
+
+Name: system/usr/share/gdb/system-gdbinit/elinos.py
+SHA1-Digest-Manifest: jgSjMhQ9kaXtI2lPZBNX3Bu7g6o=
+
+Name: system/usr/bin/QCMAP_Web_CLIENT
+SHA1-Digest-Manifest: 90SmfCTCYc59F6eoDUqAXx3JNyY=
+
+Name: system/etc/init.d/networking
+SHA1-Digest-Manifest: l8HJ4KrkeJoaTSuGhTk+k999WJQ=
+
+Name: system/home/sensors/.bashrc
+SHA1-Digest-Manifest: HRUBH1bKqT3pBR9TqTz7kHansIU=
+
+Name: system/usr/lib/libvorbisenc.so.2.0.9
+SHA1-Digest-Manifest: 6ERSeol7DACoV/EIzdfpXhPgkDw=
+
+Name: recovery/etc/install-recovery.sh
+SHA1-Digest-Manifest: XdP1O3xHlDk3uU2qvDCwK6PgjOk=
+
+Name: system/usr/lib/libexpat.so.1.6.0
+SHA1-Digest-Manifest: klPG4mtmM7kgt6yxi5S5aWgwq6g=
+
+Name: system/usr/lib/opkg/alternatives/mkfifo
+SHA1-Digest-Manifest: bZI1p1NQNAJLaGYI49buCNsq8Nk=
+
+Name: system/usr/lib/xtables/libipt_ECN.so
+SHA1-Digest-Manifest: fZuVJfPHjTXhG/5JCYDqkHqHKfA=
+
+Name: system/home/locclient/.bashrc
+SHA1-Digest-Manifest: xQloOwfvCpOHmy5o0S+/LTasmbs=
+
+Name: system/usr/sbin/nl-qdisc-add
+SHA1-Digest-Manifest: DLF7UYfqvrZApW9h90Z/Ut0sXuM=
+
+Name: system/usr/bin/gdb
+SHA1-Digest-Manifest: dbxbSS+P6ghS54HDUvKuUVlUSqI=
+
+Name: system/home/camera/.profile
+SHA1-Digest-Manifest: 9ArN94FYdlkGrJ6aVmahcnxkCeI=
+
+Name: system/usr/lib/libasn1c_rtx.so.1.0.0
+SHA1-Digest-Manifest: JjgNcknNaXpeHL1l+Xa6PHQCzw0=
+
+Name: system/etc/avahi/services/__emptyfile__
+SHA1-Digest-Manifest: SgWRmWukAUw1D1cQFA+pTaHGDbc=
+
+Name: system/home/__emptyfile__
+SHA1-Digest-Manifest: e1HV+ChdpfV9lDirAlnULQGaQrs=
+
+Name: system/system/rfs/msm/mpss/__emptyfile__
+SHA1-Digest-Manifest: bLkcWFCc1XGB5nCPiCL9vBy+iE4=
+
+Name: system/sbin/usb/compositions/hsic_next
+SHA1-Digest-Manifest: vJ5nD+A2pGm3oLF5q8Ljsd4JYyA=
+
+Name: system/home/adb/.bashrc
+SHA1-Digest-Manifest: +hXV9FUXEDhlqEkG6KMTzQaM/gc=
+
+Name: system/mnt/sdcard/__emptyfile__
+SHA1-Digest-Manifest: H18X4OsSgCE6zUsavqYFVo2FyOg=
+
+Name: system/usr/lib/xtables/__emptyfile__
+SHA1-Digest-Manifest: UWHbVDbiLYsjFN5Z1wBp6n7Hf/A=
+
+Name: system/bin/ping.iputils
+SHA1-Digest-Manifest: 4A3bof7vbfd/pXrDt6sM8Ac9Uic=
+
+Name: system/dev/mtdblock1
+SHA1-Digest-Manifest: t8Od9SVtAAsdfEsC8X1lMwiqrCU=
+
+Name: system/dev/mtdblock0
+SHA1-Digest-Manifest: DOwKY0HthT3ctf+EQKnp6Nn90CA=
+
+Name: system/usr/lib/busybox/sbin/crond
+SHA1-Digest-Manifest: gsZ7T9Uy2pEjmYn84CEhXbaMTWo=
+
+Name: system/dev/mtdblock5
+SHA1-Digest-Manifest: p8M4Lttj8iFqkQWp1AFniKumM0w=
+
+Name: system/dev/mtdblock4
+SHA1-Digest-Manifest: FWyGbOUs78M2L4r0sC+7mLdHdj4=
+
+Name: system/home/qmmfwebsvr/__emptyfile__
+SHA1-Digest-Manifest: G//ACZnoxnjDkZN/47E0X1CtSkY=
+
+Name: system/dev/mtdblock3
+SHA1-Digest-Manifest: jQxsKs8qFBH8MZdQ6Dc3uJfhI7g=
+
+Name: system/usr/lib/libqmi_ip.so.1.0.0
+SHA1-Digest-Manifest: bpo3UN4ebCXgReg8h4vCALg+KYc=
+
+Name: system/dev/mtdblock2
+SHA1-Digest-Manifest: /K02F2SGo7FtfgTS5ATfEIzjDj4=
+
+Name: system/etc/init.d/start_QCMAP_ConnectionManager_le
+SHA1-Digest-Manifest: LHXRp/TX/TZeTCKHBIzdlWee5IA=
+
+Name: system/usr/lib/xtables/libxt_standard.so
+SHA1-Digest-Manifest: apRufohPyzuWNNR//uZ1CyGgeZY=
+
+Name: system/dev/mtdblock7
+SHA1-Digest-Manifest: U/BBYZWyfm3Vlfa2Dk2lUGYnkHQ=
+
+Name: system/dev/mtdblock6
+SHA1-Digest-Manifest: CM68H24qcpC6ehpyfwACEwEdfTA=
+
+Name: system/usr/lib/busybox/bin/dos2unix
+SHA1-Digest-Manifest: KRgMUOW/J+XOF9YsPtNWX7VDExg=
+
+Name: system/usr/lib/opkg/alternatives/init
+SHA1-Digest-Manifest: pLzJhdjmZ7+SsmB2lCAufn/G3hs=
+
+Name: system/usr/lib/libebt_pkttype.so
+SHA1-Digest-Manifest: FjK6GSEzg0mDrOe84qELgxjjStg=
+
+Name: system/usr/lib/libbase.so.0.0.0
+SHA1-Digest-Manifest: 1KYTTs9TIcTbZ6V42geUhv9TjIw=
+
+Name: system/var/volatile/__emptyfile__
+SHA1-Digest-Manifest: KrvMJ20TSB44TDymcRwCeh/DJA0=
+
+Name: system/usr/lib/opkg/alternatives/ftpget
+SHA1-Digest-Manifest: 3uTiWmfEvAE1ci8XagtFPq2x0EE=
+
+Name: system/etc/avahi/hosts
+SHA1-Digest-Manifest: 8RRePBNladVhcc0KbT0fq4R8SMA=
+
+Name: system/usr/lib/opkg/alternatives/zcat
+SHA1-Digest-Manifest: TgfgcL5tV4n8Lmep7WYJDT9y7Ok=
+
+Name: system/usr/bin/lowi-server
+SHA1-Digest-Manifest: iGobRf+e0vAJuaxlFRlY+Opkv0E=
+
+Name: system/usr/lib/libiptc.so.0.0.0
+SHA1-Digest-Manifest: m3HamsJt401LAByuMzZx2kjs/N8=
+
+Name: system/usr/lib/busybox/bin/crontab
+SHA1-Digest-Manifest: wiaXBAey22yhrSkHJslyQJC9rSc=
+
+Name: system/etc/Handset_cal.acdb
+SHA1-Digest-Manifest: TYc47t8PeUbngVJIj4WiFXuI+ds=
+
+Name: system/usr/share/dbus-1/system-services/org.freedesktop.Avahi.se
+ rvice
+SHA1-Digest-Manifest: xaszKQ25EofbogfmC58+UUZmnKk=
+
+Name: system/usr/lib/mod_compress.so
+SHA1-Digest-Manifest: kLk3HMh30eAOysmQEFrInf98fQs=
+
+Name: system/usr/lib/opkg/alternatives/sysctl
+SHA1-Digest-Manifest: HUKjTVRvROlpyVmdjYZ9jCykIEE=
+
+Name: system/dev/__emptyfile__
+SHA1-Digest-Manifest: NWTNnzOrAIwM/A4Wkiqa7n7F/3A=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/net/__emptyfile__
+SHA1-Digest-Manifest: 7epz3bCqPCAAcy3ESy5O0V2M9eI=
+
+Name: system/etc/default/devpts
+SHA1-Digest-Manifest: TUSUsTEqsib+t7HCklJkRoK+lhk=
+
+Name: system/usr/bin/diag_uart_log
+SHA1-Digest-Manifest: iJZyQzAdikh/5zSsuVePFJ7UisE=
+
+Name: system/usr/lib/opkg/alternatives/dos2unix
+SHA1-Digest-Manifest: bw81E8ywqxBR2931niu6caxrGOE=
+
+Name: system/usr/lib/opkg/alternatives/swapon
+SHA1-Digest-Manifest: 7HMvKh1qUxKmZHqik3+bzY0hlZo=
+
+Name: system/usr/lib/libloc_ds_api.la
+SHA1-Digest-Manifest: Gv/iobGFED5rPVYVZ+UCzi8AAP8=
+
+Name: system/usr/lib/opkg/alternatives/seq
+SHA1-Digest-Manifest: /moup/7oMp3lIGP8nhl957TNbKM=
+
+Name: system/WEBSERVER/www/QCMAP_WLAN.html
+SHA1-Digest-Manifest: QDmD16L5OA+ZRmQg1aJqKos4eDE=
+
+Name: system/lib/libnsl-2.22.so
+SHA1-Digest-Manifest: a+9OAko9jNjOklhjpAD/GN9NExU=
+
+Name: system/home/qmmfwebsvr/.bashrc
+SHA1-Digest-Manifest: FMnm96IN2hFibfnME6p+CqRZEeM=
+
+Name: system/etc/logrotate-dmesg.conf
+SHA1-Digest-Manifest: Wu1ASbbbqo1GeLTCLdXjZyMmlWA=
+
+Name: system/usr/lib/busybox/sbin/adduser
+SHA1-Digest-Manifest: 1+t7cdzyvk/Qfxxo4YXLav1Le1Q=
+
+Name: system/usr/lib/opkg/alternatives/nameif
+SHA1-Digest-Manifest: BeQisv1QrxVGgFnzk5AV7OYIVSU=
+
+Name: system/usr/lib/busybox/bin/top
+SHA1-Digest-Manifest: qIYqO4j0U5iexUABVYRaow5IiVY=
+
+Name: system/usr/lib/xtables/libxt_DSCP.so
+SHA1-Digest-Manifest: f7DMtmpUfeXQ6ex7hgHVyhSI4m8=
+
+Name: system/etc/rc4.d/__emptyfile__
+SHA1-Digest-Manifest: aprPO2b2UQeMgyZ1cSjMndRD0ZA=
+
+Name: system/usr/bin/audio_ftm
+SHA1-Digest-Manifest: CjBuspVmBxHAzEQ5gTkxpOKsRNo=
+
+Name: system/usr/lib/busybox/bin/time
+SHA1-Digest-Manifest: Ji96rL89pwzhQ4d5hXhtGHkH5Ew=
+
+Name: system/usr/lib/opkg/alternatives/groups
+SHA1-Digest-Manifest: mvBFipBgsRKdl1x0d7UrhAOURQY=
+
+Name: system/usr/lib/opkg/alternatives/adjtimex
+SHA1-Digest-Manifest: IUqfqslhB4zY8eR3bySTAFq76Co=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/net/nf_nat_rtsp.k
+ o
+SHA1-Digest-Manifest: LZfe/13ODKJxEZh2jpgAlPRQFfI=
+
+Name: system/usr/lib/opkg/alternatives/mkfs.vfat
+SHA1-Digest-Manifest: x/VL/g4/ykBia07SOusxiNQ17Vs=
+
+Name: system/usr/lib/opkg/alternatives/sed
+SHA1-Digest-Manifest: sNXPnjIzuTdTdseccwdBK9KREXk=
+
+Name: system/usr/sbin/avahi-autoipd
+SHA1-Digest-Manifest: /AKuQrmEz4b02eWgw3OrCpwq+fo=
+
+Name: system/usr/bin/rmnetcli
+SHA1-Digest-Manifest: S3mDPMAqB+lkBXLxue9X/sjwy18=
+
+Name: system/dev/hda4
+SHA1-Digest-Manifest: AufVr1fFvpS8Klz2CzX39oYJR0o=
+
+Name: system/usr/lib/xtables/libipt_CLUSTERIP.so
+SHA1-Digest-Manifest: d2mRPZOaDg96y3n2Xm//a7aRamo=
+
+Name: system/dev/hda3
+SHA1-Digest-Manifest: Ly0KAzeZ/nAh3N365+Pdu/09dUY=
+
+Name: system/usr/lib/opkg/alternatives/rmmod
+SHA1-Digest-Manifest: qbsIZKLo10Z/LpbEkjSqdVM2jM8=
+
+Name: system/dev/hda2
+SHA1-Digest-Manifest: ThHrp/hOIQiGxGnwZoitk3HepII=
+
+Name: system/usr/lib/busybox/bin/wc
+SHA1-Digest-Manifest: jU1ONwTV8+ZtJn7PaPDUJGkjj6I=
+
+Name: system/dev/hda1
+SHA1-Digest-Manifest: WCugdRfolC7FHmh0M0Lq44SQz0k=
+
+Name: system/usr/sbin/conntrackd
+SHA1-Digest-Manifest: jvgey/JgyemU9486KyWrWZR2bKc=
+
+Name: system/usr/lib/busybox/bin/[
+SHA1-Digest-Manifest: ZCvvehSQuoKZSBz6ElCerocuyJQ=
+
+Name: system/usr/lib/libdbus-1.so.3.8.13
+SHA1-Digest-Manifest: l4wQBvo1Fb2CoCCtX+wIzV2zWdY=
+
+Name: system/run/__emptyfile__
+SHA1-Digest-Manifest: 07Ezhes4yShGw2CZqfv9FXvHyIo=
+
+Name: system/usr/lib/opkg/alternatives/expand
+SHA1-Digest-Manifest: K4WLg+dvnNaQR0b4ZexTWDVoIlc=
+
+Name: system/usr/lib/libsensors.so.1.0.0
+SHA1-Digest-Manifest: r2jEQFKeKaHAvkE2Ipb0m/2Y7D8=
+
+Name: system/usr/lib/perl/5.22.0/List/Util.pm
+SHA1-Digest-Manifest: tFsRCKMS2l4fvqjmEEmeDoWw5Oo=
+
+Name: system/sbin/rtpr
+SHA1-Digest-Manifest: rtv0nN3rmMErfEX90NPKfS0amAk=
+
+Name: system/usr/lib/busybox/bin/vi
+SHA1-Digest-Manifest: sOuMHCzbxugko0hijmCpMUcW2Fs=
+
+Name: system/usr/sbin/ubiformat
+SHA1-Digest-Manifest: Sezelmp5eQYhkOxcGSA/t2WJ7Ws=
+
+Name: system/usr/lib/opkg/alternatives/chroot
+SHA1-Digest-Manifest: CRefeCMEZE6u7Ywq+R9x/hj676Q=
+
+Name: system/dev/sda1
+SHA1-Digest-Manifest: +T+ut9pPCtR+ZOHY8U9LKE+w79E=
+
+Name: system/dev/sda4
+SHA1-Digest-Manifest: ZUxXusqDW8ii213lnOQnHDlsd3c=
+
+Name: system/usr/bin/setfont
+SHA1-Digest-Manifest: Bap3lmibtiL8365t2i4b23iAsNA=
+
+Name: system/usr/lib/opkg/alternatives/reboot
+SHA1-Digest-Manifest: ajLhjQ0sHh1SsDIYFoYRaa3Ze6Q=
+
+Name: system/lib/libanl-2.22.so
+SHA1-Digest-Manifest: wB8lS9yytyWPztiBcO8cm9QsALY=
+
+Name: system/usr/lib/busybox/sbin/iprule
+SHA1-Digest-Manifest: /Zj+uh49zqeGfHYSD1t/7Wbn/mE=
+
+Name: system/dev/sda2
+SHA1-Digest-Manifest: E4MMVkitpHUiYmczGgNcqMabznI=
+
+Name: system/dev/sda3
+SHA1-Digest-Manifest: jV+JdLZ6paofjNtcIi45INtbyF0=
+
+Name: system/usr/lib/busybox/sbin/svlogd
+SHA1-Digest-Manifest: kQttyd8oOaGDWIkggBkO6C3Ec7E=
+
+Name: system/usr/lib/busybox/bin/ttysize
+SHA1-Digest-Manifest: BRH8AyWWDF6wPyrGI561t3SLG7o=
+
+Name: system/system/__emptyfile__
+SHA1-Digest-Manifest: WDMzsDw+AcOHuVaK6gkt36jBZZo=
+
+Name: system/usr/lib/busybox/bin/tr
+SHA1-Digest-Manifest: gtc6G80abOS497BHt+LushIaVvE=
+
+Name: system/usr/sbin/ubinfo
+SHA1-Digest-Manifest: JizfIPOKoA/3wa6aU6MTQpiBwCc=
+
+Name: system/usr/share/gdb/syscalls/arm-linux.xml
+SHA1-Digest-Manifest: XQ6t/NHB2x+9OkD+6mc+LZi7aNg=
+
+Name: system/usr/lib/pkgconfig/tinysndfile.pc
+SHA1-Digest-Manifest: 20EQtHQD5fY4n1+YRacvRky3Ki4=
+
+Name: system/etc/systemd/system/__emptyfile__
+SHA1-Digest-Manifest: zF7ia8To52MDbqrkDoNLcqtOhIM=
+
+Name: system/sbin/usb/target
+SHA1-Digest-Manifest: Jdr9R00j5rCm6+xNDGq8lNo7Qxk=
+
+Name: system/lib/libnss_dns-2.22.so
+SHA1-Digest-Manifest: jUbeLIhb8bDw/afHwcqPKYn+K7o=
+
+Name: system/usr/lib/perl/5.22.0/Getopt/Long.pm
+SHA1-Digest-Manifest: NbaD2mYyxdnkJEjzbOZ2ikPbk/s=
+
+Name: system/dev/sdb1
+SHA1-Digest-Manifest: NHx1beQm2Z2pIBOIYjGmbWeRmXU=
+
+Name: system/etc/network/if-down.d/__emptyfile__
+SHA1-Digest-Manifest: 5lbjOpEHnPCF5/BGud8uUd06AD4=
+
+Name: system/usr/lib/opkg/alternatives/__emptyfile__
+SHA1-Digest-Manifest: 72jCvv+JHy2qq4pd6oN7azkE7EM=
+
+Name: system/dev/sdb2
+SHA1-Digest-Manifest: OlVLpcLIEanhyGmMvM0aEyZYQpo=
+
+Name: system/usr/lib/libhogweed.so.4.1
+SHA1-Digest-Manifest: RJDDM+L3UHvzpVrr0EZC6+OE8WQ=
+
+Name: system/usr/lib/opkg/alternatives/uudecode
+SHA1-Digest-Manifest: 2Xcb0Ex4xXd+WPESsxjgS6X8xY8=
+
+Name: system/dev/sdb3
+SHA1-Digest-Manifest: dkH7JJP69JT4V6r/2UhnBbxz5tY=
+
+Name: system/dev/sdb4
+SHA1-Digest-Manifest: tVNSqNvuvmhf6v2kgxln0Mu0qzU=
+
+Name: system/etc/init.d/mountall.sh
+SHA1-Digest-Manifest: 8YEV3OZA3x4N7I2VMzPXCmrszDc=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/input/misc/gpio_e
+ vent.ko
+SHA1-Digest-Manifest: sDTZB42KDpsC42lnJauvrdvy3Q8=
+
+Name: system/home/locclient/__emptyfile__
+SHA1-Digest-Manifest: 5+z6WuNTEvVdgncTs9cUouZ+5Co=
+
+Name: system/usr/lib/libpsm_client.so.0.0.0
+SHA1-Digest-Manifest: D7aRLXe8CNbcTxc3Jup0ZMPsPZU=
+
+Name: system/usr/lib/busybox/sbin/ftpd
+SHA1-Digest-Manifest: 6+l6kWasNlwrTjR2UnrjTXFytko=
+
+Name: system/etc/ppp/ip-up.d/08setupdns
+SHA1-Digest-Manifest: 4VR8pEGWApysuaUUwiMqnT/mRfU=
+
+Name: system/usr/lib/busybox/sbin/pivot_root
+SHA1-Digest-Manifest: xCIre+roobWqIFiTn8oE3UuwYYA=
+
+Name: system/usr/lib/busybox/bin/iostat
+SHA1-Digest-Manifest: GA1X8DOv70U18eYBegF/dQiLCkU=
+
+Name: system/usr/lib/opkg/alternatives/tcpsvd
+SHA1-Digest-Manifest: wXAwjqaw/x8g0LJrRq6/EsR3Xl4=
+
+Name: system/usr/lib/opkg/alternatives/rpm2cpio
+SHA1-Digest-Manifest: VCMWc92ll/Ufg7PIMvn+AMOWTCk=
+
+Name: system/usr/lib/busybox/sbin/fbsplash
+SHA1-Digest-Manifest: nAcx0/94sbr87SaycoKwB36ph9k=
+
+Name: system/usr/lib/busybox/sbin/acpid
+SHA1-Digest-Manifest: z6TEfcHBNWFOK4ZDOaOV6TDDHkk=
+
+Name: system/usr/bin/pon
+SHA1-Digest-Manifest: m8pr0Q6vg/dBRYPuq2t1HYtg1hA=
+
+Name: system/usr/lib/opkg/alternatives/tftp
+SHA1-Digest-Manifest: SlsyQ8hA3VTPrqdN4h7ApUNqEvk=
+
+Name: system/usr/lib/opkg/alternatives/ifup
+SHA1-Digest-Manifest: l5bTQf0XLJaCkimGsnzH2Sj/rZ8=
+
+Name: system/dev/kmem
+SHA1-Digest-Manifest: uU0jmNy7APE47w4l1XAPszmQo1g=
+
+Name: system/usr/sbin/pppd
+SHA1-Digest-Manifest: LCDxg4ak+RHJuR9cLXZ+1NoUEHk=
+
+Name: system/etc/rc.d/__emptyfile__
+SHA1-Digest-Manifest: 0EuUdVFyKkBsdebWhQu2alROaPo=
+
+Name: system/etc/data/qmi_config.xml
+SHA1-Digest-Manifest: QLTiVkK/5E+dehhXl+Vl4e3gAM4=
+
+Name: system/usr/lib/perl/5.22.0/overload.pm
+SHA1-Digest-Manifest: KZTS+NlC4Mu1lLePF8i4w8Tt1UU=
+
+Name: system/usr/lib/libhistory.so.5.2
+SHA1-Digest-Manifest: A0MFfum/TQSZbisVSg3zZxb5Nqw=
+
+Name: system/cavnv/atcmd_config.xml
+SHA1-Digest-Manifest: vCMpe0baHWRRADVAa9NxLvEymX0=
+
+Name: system/usr/bin/MCM_MOBILEAP_CLI
+SHA1-Digest-Manifest: 6Jvm6rFss3FjnH3LU9vdynQ5xac=
+
+Name: system/home/leprop/.bashrc
+SHA1-Digest-Manifest: ZwHaWEZOrJ/9pOtAIrVl93YdzNM=
+
+Name: system/usr/lib/opkg/alternatives/mkdir
+SHA1-Digest-Manifest: mDvG8pVc+KXcZ2o04rcFAullmvo=
+
+Name: system/usr/bin/tinyplay
+SHA1-Digest-Manifest: B07+CC+E9ii/F0AmmbBfxQeKflk=
+
+Name: system/usr/lib/xtables/libipt_SAME.so
+SHA1-Digest-Manifest: MY0JW1k0kW2/64Qk/hktFVT4jSw=
+
+Name: system/usr/lib/busybox/bin/umount
+SHA1-Digest-Manifest: 8s6AVQ6l4IfrB1GJdmZ+Pa0LnNo=
+
+Name: system/usr/lib/libFLAC.so.8.3.0
+SHA1-Digest-Manifest: qs82ZW9JajCl+EK30hrHA+2FRLg=
+
+Name: system/usr/lib/busybox/bin/cpio
+SHA1-Digest-Manifest: soaI+UWoH4m4har05bZwkS7rhN4=
+
+Name: system/sbin/fstab-decode
+SHA1-Digest-Manifest: cqogXOj4QioPJlytfu88P2CJ11g=
+
+Name: system/usr/lib/perl/5.22.0/POSIX.pm
+SHA1-Digest-Manifest: C40PNkWhEQBcpsl6O7RyAsTzuoI=
+
+Name: system/usr/lib/opkg/alternatives/adduser
+SHA1-Digest-Manifest: bwI1DFdTUG34OxWW5Q7oosydQpc=
+
+Name: system/usr/lib/busybox/bin/tty
+SHA1-Digest-Manifest: dya6EBVGVnmKqHmoyy4uDQ2ZIuw=
+
+Name: system/usr/lib/opkg/alternatives/volname
+SHA1-Digest-Manifest: 06t2onVcCblwA/nRYtISVoy+0Kc=
+
+Name: system/usr/lib/busybox/bin/script
+SHA1-Digest-Manifest: yE0otKURwSzp4b+92oWiL2Fp9b8=
+
+Name: system/usr/share/gdb/syscalls/mips-n32-linux.xml
+SHA1-Digest-Manifest: vAwS9fUiYBTMWyaJ7NNH2hg47Os=
+
+Name: system/usr/bin/filan
+SHA1-Digest-Manifest: I+V7maoLiLeXoiOElefyrw/AwIU=
+
+Name: system/usr/lib/busybox/bin/chown
+SHA1-Digest-Manifest: Nlczd5A0mXSqdA+eSU3bS76ugTo=
+
+Name: system/usr/lib/libizat_client_api.so.1.0.0
+SHA1-Digest-Manifest: 0OTro7qoIRAQ5P6v+Sd0zwrtWGI=
+
+Name: system/usr/share/tinyproxy/debug.html
+SHA1-Digest-Manifest: ycXbFeSMnfx8oCGx34ORqCLYHyc=
+
+Name: system/usr/__emptyfile__
+SHA1-Digest-Manifest: Eyymfpxklw2StDJvJat03tF/ZRo=
+
+Name: system/usr/lib/busybox/bin/users
+SHA1-Digest-Manifest: OGDDlc6QUy1UEWunp/SGiaKsHNc=
+
+Name: system/usr/sbin/nl-link-list
+SHA1-Digest-Manifest: SBj3RpII8LA9txK6I0q4wjkHbWA=
+
+Name: system/etc/init.d/__emptyfile__
+SHA1-Digest-Manifest: J12Gmh5Mxzj0xfCxgzpYbcYce80=
+
+Name: system/usr/lib/busybox/bin/renice
+SHA1-Digest-Manifest: 57xUd4NKWGpFuheAo9MV0UdMav8=
+
+Name: system/usr/lib/busybox/sbin/readahead
+SHA1-Digest-Manifest: V2+MqtVJ7Pgnn6DNxjm/vTAP9zY=
+
+Name: system/WEBSERVER/__emptyfile__
+SHA1-Digest-Manifest: vzGaYgYVUChByeBz+qQF1WpOvMU=
+
+Name: system/lib/libnss_compat-2.22.so
+SHA1-Digest-Manifest: 0OU9FE0FSddf3a4j7wz09+xKhOM=
+
+Name: system/usr/lib/busybox/linuxrc
+SHA1-Digest-Manifest: hO1UkxW4Grh0G6ZggP79/qatJMc=
+
+Name: system/usr/lib/modules/4.14.190/extra/wcd9330_dlkm.ko
+SHA1-Digest-Manifest: bKGr6Eh08pLCi/ALWJZjYnYoifk=
+
+Name: system/lib/__emptyfile__
+SHA1-Digest-Manifest: GsQh+g9rBkBtuEGKH4jB2rI9kHs=
+
+Name: system/sbin/iwconfig
+SHA1-Digest-Manifest: S3JNHYyu4/YIR/xUyEAkboOAx+w=
+
+Name: system/usr/lib/opkg/alternatives/iprule
+SHA1-Digest-Manifest: sdmlwPhqqhKLQfMWer8ZNByrS4I=
+
+Name: system/usr/lib/libqmiservices.so.1.0.0
+SHA1-Digest-Manifest: CI8+Yc7OpvElhYz7aVg/Vc1yPVs=
+
+Name: system/usr/lib/modules/4.14.190/kernel/net/__emptyfile__
+SHA1-Digest-Manifest: Y/AuZJkdJJJzhYeHDc8SVxBxTXI=
+
+Name: system/usr/lib/busybox/bin/cut
+SHA1-Digest-Manifest: ABBbm8fV+2JpmR4RhVsc7sEwjrw=
+
+Name: system/usr/lib/busybox/bin/xz
+SHA1-Digest-Manifest: OUUGbD7t160389glCW/lIqQzJqg=
+
+Name: system/WEBSERVER/www/cgi-bin/qcmap_auth
+SHA1-Digest-Manifest: 0YQ02MUBAJ8uuXFY4y6a+j7/nzc=
+
+Name: system/usr/bin/crasher
+SHA1-Digest-Manifest: iyLoKvpuej+FbpUH5UcrO6k7raQ=
+
+Name: system/etc/terminfo/x/xterm-256color
+SHA1-Digest-Manifest: CzEKuzUXSfI1PH7rzw3jMkfkQgA=
+
+Name: system/usr/bin/csm
+SHA1-Digest-Manifest: PHN1gHtn9a1V5IDvUkEVGjncd6o=
+
+Name: system/usr/lib/libebt_802_3.so
+SHA1-Digest-Manifest: 8YxMqz2eGuTDfz4Y8ti+FUQzdIw=
+
+Name: system/usr/lib/libadiertac.so.1.0.0
+SHA1-Digest-Manifest: leiaoouiNqZxVW1qvd8TEksJ2vI=
+
+Name: system/usr/lib/perl/5.22.0/IO/File.pm
+SHA1-Digest-Manifest: kuOR28QI2fUIhPhQYDRNUQs5fFI=
+
+Name: system/usr/lib/opkg/alternatives/netstat
+SHA1-Digest-Manifest: wjXl7QosfDbuoz20k7/zJP1hHdo=
+
+Name: system/www/pages/dav/__emptyfile__
+SHA1-Digest-Manifest: qOYx0ylUlJQqUlpCPgRPo/Z7Sac=
+
+Name: system/etc/avahi/__emptyfile__
+SHA1-Digest-Manifest: tEZeVNH12LLApy4dOT9HkBorZC4=
+
+Name: system/usr/lib/opkg/alternatives/mkswap
+SHA1-Digest-Manifest: h+XjZ2CBWNIIPNeGcnsEZ4aT3Mo=
+
+Name: system/usr/sbin/__emptyfile__
+SHA1-Digest-Manifest: rxbzyHvwRW52jvAscvnXOapmHr0=
+
+Name: system/etc/init.d/tftp_server.sh
+SHA1-Digest-Manifest: laZqOqdmkDSIkWFO60Tnbw+oA3c=
+
+Name: system/usr/lib/opkg/alternatives/which
+SHA1-Digest-Manifest: pIF1fjEM6BmiY/BGkP1poGbEQAo=
+
+Name: system/usr/bin/MCM_MOBILEAP_ConnectionManager
+SHA1-Digest-Manifest: LOTHf4SFw3w+AZyhF/ggtjqzvfQ=
+
+Name: system/usr/lib/libxml2.so.2.9.2
+SHA1-Digest-Manifest: x9zginz0ihaqZWYEXE7UIfZ0+L8=
+
+Name: system/usr/lib/perl/5.22.0/auto/mro/__emptyfile__
+SHA1-Digest-Manifest: +jiIQrCPU8nOHuETPJf3fe8CHcU=
+
+Name: system/etc/cld-hostapd-wlan1.sh
+SHA1-Digest-Manifest: Z1vbBW/UlIj11OfjVm0HazS/iOE=
+
+Name: system/usr/lib/opkg/alternatives/runlevel
+SHA1-Digest-Manifest: Ru1GV39S5PTjnDjNemcdKLBk/u4=
+
+Name: system/usr/lib/busybox/bin/eject
+SHA1-Digest-Manifest: BCRzG6dJ8RKx+ZxHzVIJYqUHkQs=
+
+Name: system/usr/lib/busybox/sbin/ifdown
+SHA1-Digest-Manifest: OhWao+xKTePa7el/zWk66m6LT1s=
+
+Name: system/usr/lib/opkg/alternatives/ifplugd
+SHA1-Digest-Manifest: xMTwHFdsykVjNpxuWkrqWx2eqGY=
+
+Name: system/etc/data/__emptyfile__
+SHA1-Digest-Manifest: E7z0g3GAZsticN+kMEwXdfrCwu0=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/input/misc/__empt
+ yfile__
+SHA1-Digest-Manifest: z50q9p+fCRkb16fX/K/UAXsjbrQ=
+
+Name: system/usr/lib/libogg.so.0.8.2
+SHA1-Digest-Manifest: F9JdJhRu7DNkyV0sgHifRb2py6E=
+
+Name: system/usr/lib/xtables/libxt_osf.so
+SHA1-Digest-Manifest: svk0ynYSmf1wKDtkX3jCclbBayY=
+
+Name: system/usr/lib/busybox/sbin/httpd
+SHA1-Digest-Manifest: tt5kSjBR+ZhaLWs7bPiOPTWJIqY=
+
+Name: system/usr/lib/busybox/bin/od
+SHA1-Digest-Manifest: NP6gmt/7/Re3zTKFnJ67znYdXKQ=
+
+Name: system/lib/libnss_mdns6_minimal.so.2
+SHA1-Digest-Manifest: GquMOEgQ/pPc9bv67tRMaKDbsYQ=
+
+Name: system/usr/lib/opkg/alternatives/fdisk
+SHA1-Digest-Manifest: 4t96CyEU6LCZYs6whlI4KL/H7Hg=
+
+Name: system/etc/rc.d/init.d/__emptyfile__
+SHA1-Digest-Manifest: 1Ujn7QibtM04vLxIUbfd3DwSoOo=
+
+Name: system/usr/lib/opkg/alternatives/delgroup
+SHA1-Digest-Manifest: z1EFnJhsK2gDfYKQs9VySA/gNGs=
+
+Name: system/etc/dbus-1/system.d/__emptyfile__
+SHA1-Digest-Manifest: fuU1CULkuZgDhQ9NIkgdf5l+jJI=
+
+Name: system/usr/lib/opkg/alternatives/mkdosfs
+SHA1-Digest-Manifest: 2bvTGG67F5U/m5TWbDakfYoKv0Y=
+
+Name: system/usr/bin/diagrebootapp
+SHA1-Digest-Manifest: 9mLrG7fNj2OOXTE+RLXIl9Za7i8=
+
+Name: system/usr/lib/opkg/alternatives/hostid
+SHA1-Digest-Manifest: xBHaj7Nf9zZcz2qOykSvbh7Kny0=
+
+Name: system/usr/lib/libavahi-glib.so.1.0.2
+SHA1-Digest-Manifest: 0ufSSpK/J8WiPpbxLkdP5KVktkw=
+
+Name: system/etc/dbus-1/__emptyfile__
+SHA1-Digest-Manifest: pzwVgrDuURB8U+f5u1O6zAcCFd4=
+
+Name: system/usr/lib/modules/4.14.190/extra/embms_kernel.ko
+SHA1-Digest-Manifest: ZPPoRm270xV89QijxnJ9EG47xmo=
+
+Name: system/usr/lib/modules/4.14.190/extra/shortcut-fe-ipv6.ko
+SHA1-Digest-Manifest: ulCSYumW2YDSCwavZR/7LSPmvd4=
+
+Name: system/usr/lib/libip4tc.so.0.0.0
+SHA1-Digest-Manifest: TCTFq9gpYCjOspw7WdxHAVOqois=
+
+Name: system/WEBSERVER/www/js/images/__emptyfile__
+SHA1-Digest-Manifest: vNl8R8XtGh3/7Jgz4CTeIz772Y0=
+
+Name: system/etc/init.d/rc
+SHA1-Digest-Manifest: lhy5YVaVw/aLaLIgJALH/8Unk/I=
+
+Name: system/usr/lib/busybox/bin/reset
+SHA1-Digest-Manifest: 66cCIs/hc4fgkixDYzP+jwzQ8xE=
+
+Name: system/WEBSERVER/www/cgi-bin/__emptyfile__
+SHA1-Digest-Manifest: Bezz5BOIAQD0r6vGogLehNKLqo8=
+
+Name: system/system/rfs/mdm/mpss/readonly/__emptyfile__
+SHA1-Digest-Manifest: apYNfUeIkAmptATJxk7vphFaTcc=
+
+Name: system/usr/lib/busybox/bin/nc
+SHA1-Digest-Manifest: W0rDXyseHrisVmLxyi2zHgkvZsc=
+
+Name: system/usr/lib/libebt_standard.so
+SHA1-Digest-Manifest: xqYMyJRVimHrR55wAuYP91L5C6Q=
+
+Name: system/usr/lib/libglib-2.0.so.0.4400.1
+SHA1-Digest-Manifest: dh5SZMCrbfu7vQynZZJP8b7lbQ0=
+
+Name: system/WEBSERVER/www/QCMAP.html
+SHA1-Digest-Manifest: lBHFVhl7HqFkV8eiUwca2zp69xw=
+
+Name: system/usr/lib/libloc_api_v02.so.1.0.0
+SHA1-Digest-Manifest: ew9aBw+1rSY8eeLB2WK6USoVd0k=
+
+Name: system/usr/lib/busybox/bin/mt
+SHA1-Digest-Manifest: VoE93lnbNE1bZ3W39H05rH0TvSc=
+
+Name: system/etc/avahi/services/multi.service
+SHA1-Digest-Manifest: L6Aqu9NLSDjs9fvDPCeXBdUjNYM=
+
+Name: system/usr/lib/busybox/bin/mv
+SHA1-Digest-Manifest: ue74/rWO6gx1eLCaxubi1C0t+nk=
+
+Name: system/usr/lib/busybox/bin/chgrp
+SHA1-Digest-Manifest: VOBvcCI+Iko/V6DbdkgrBqf9BTM=
+
+Name: system/usr/lib/busybox/bin/ln
+SHA1-Digest-Manifest: I8etD+K6LukagiHgfe/O6ooQzZU=
+
+Name: system/usr/lib/opkg/alternatives/syslog-startup-conf
+SHA1-Digest-Manifest: kIK+YjxcKBakGo18p/+wle4kcaY=
+
+Name: system/usr/lib/libtinysndfile.so.0.0.0
+SHA1-Digest-Manifest: A9DFnzgkEq2yXgN7XTIf5U69uM4=
+
+Name: system/WEBSERVER/www/js/jquery-ui.js
+SHA1-Digest-Manifest: gQmvIwu1Y4ROQOloDPli+VnT5Qg=
+
+Name: system/usr/lib/busybox/bin/mpstat
+SHA1-Digest-Manifest: 9c/OHPiLrbdp4jBFq6qn8ZQ9z4s=
+
+Name: system/usr/lib/libloc_eng_so.so.1.0.0
+SHA1-Digest-Manifest: MqJg6T2faXGW00Awb8Py7bUa4co=
+
+Name: system/home/graphics/__emptyfile__
+SHA1-Digest-Manifest: Wu5WzjuumE5aT4Wn33gb0yJTQL0=
+
+Name: system/usr/sbin/conntrack
+SHA1-Digest-Manifest: KyUy2J5cbogicLkjmUnzQwlx648=
+
+Name: system/usr/lib/perl/__emptyfile__
+SHA1-Digest-Manifest: IcraeHg+vH7Ycxqv3bKmVQUxD+Q=
+
+Name: system/lib/libavcodec.so.55.69.100
+SHA1-Digest-Manifest: MAULgFKDGD1mjto0sdb2JSqZMkk=
+
+Name: system/usr/lib/busybox/bin/ls
+SHA1-Digest-Manifest: yugtsHL18TCR3T4aOFJQMT/wQxY=
+
+Name: system/usr/lib/liblogwrap.so.0.0.0
+SHA1-Digest-Manifest: 6TW62q+hTN8QJUrTUNfOBLbT6QI=
+
+Name: system/usr/lib/libqcmaputils.so.1.0.0
+SHA1-Digest-Manifest: Te0srmGKRdAkJi8RJIvS2ySbh00=
+
+Name: system/usr/lib/ssl/openssl.cnf
+SHA1-Digest-Manifest: AOYMytgljjcfj+uMlv2vxTj5+qk=
+
+Name: system/usr/lib/libloc_ds_api.so.1.0.0
+SHA1-Digest-Manifest: 4GpO473xKd0xYrJleUFwesgc8lI=
+
+Name: system/usr/lib/busybox/bin/su
+SHA1-Digest-Manifest: a+h2yW7DvqKISxBPHWYxHrIr2is=
+
+Name: system/usr/lib/busybox/bin/sv
+SHA1-Digest-Manifest: CIybZvGo75U8zJCp/epU8pqCulk=
+
+Name: system/etc/Speaker_cal.acdb
+SHA1-Digest-Manifest: 53HaDeeAVDoQbNs5/ZX7qtaNABo=
+
+Name: system/usr/lib/busybox/bin/yes
+SHA1-Digest-Manifest: qapIT834GyTSPNk7SR2xI3DJdG4=
+
+Name: system/usr/lib/busybox/sbin/halt
+SHA1-Digest-Manifest: YnNeeaYulJSmqaGYeUa5EKoIWoo=
+
+Name: system/usr/bin/qmi_simple_ril_test
+SHA1-Digest-Manifest: Aoptj/YqHlWnNqdgezOda2lUdY8=
+
+Name: system/usr/lib/busybox/bin/ionice
+SHA1-Digest-Manifest: CTx5wytG0DWSogI137hI9T+KG9M=
+
+Name: system/usr/lib/libqcompostprocbundle.so
+SHA1-Digest-Manifest: GsflUQb0FrwDNZ3O+BK7bZWVFUg=
+
+Name: system/usr/lib/busybox/bin/rpm2cpio
+SHA1-Digest-Manifest: Miy8embu0b9P1kY+hr9hHWbXtSQ=
+
+Name: system/usr/lib/opkg/alternatives/wget
+SHA1-Digest-Manifest: 6oXdo/8c5/4K43GgNZMZ5PaY0aU=
+
+Name: system/usr/bin/netmgrd
+SHA1-Digest-Manifest: OIQR8btgYqDKtBJ7RY65x/pLMBc=
+
+Name: system/usr/lib/busybox/bin/telnet
+SHA1-Digest-Manifest: d8c69E5Ai1kTnm2PJtitcuyqa0A=
+
+Name: system/var/backups/__emptyfile__
+SHA1-Digest-Manifest: Y+U1aelX2w7QCU3JZuKiGhu5bJY=
+
+Name: system/usr/lib/busybox/bin/ping6
+SHA1-Digest-Manifest: tPBLaZBZsPPOIqLWGsirGrRDwG0=
+
+Name: system/usr/lib/perl/5.22.0/auto/Socket/__emptyfile__
+SHA1-Digest-Manifest: F9vOYTjbXUd4evo5PvKEOfDP6DI=
+
+Name: system/usr/lib/busybox/bin/envdir
+SHA1-Digest-Manifest: HtMCotoyizAs9PtZXnPmIENAstM=
+
+Name: system/WEBSERVER/www/QCMAP_Account.html
+SHA1-Digest-Manifest: fvvzoBwoRNmmA3vPDJiCh4SfJEo=
+
+Name: system/usr/lib/opkg/alternatives/who
+SHA1-Digest-Manifest: QqXM7XoteahfsdwNi4RIEq6DCzw=
+
+Name: system/usr/bin/QCMAP_ConnectionManager
+SHA1-Digest-Manifest: xyTiaf0rSsoMHXd/WRSTtI4dK60=
+
+Name: system/usr/lib/busybox/bin/rm
+SHA1-Digest-Manifest: 7wz2gNTDLDV284Gv41oL4jL10Rs=
+
+Name: system/usr/lib/opkg/alternatives/nice
+SHA1-Digest-Manifest: gP6aV1rMiU8yJMYbvxToWBImhug=
+
+Name: system/home/adb/__emptyfile__
+SHA1-Digest-Manifest: rTO/KqneNlFnSgf041w61BMwY3Y=
+
+Name: system/etc/terminfo/v/vt52
+SHA1-Digest-Manifest: Dnm6UzL+vp18QCFIwkKG3hO0tog=
+
+Name: system/usr/libexec/dhcpcd-hooks/10-mtu
+SHA1-Digest-Manifest: CCyhUKrTrlDeMpeFaDs/4N8KxBM=
+
+Name: system/usr/lib/opkg/alternatives/powertop
+SHA1-Digest-Manifest: jM1EQp1byWNgj/zak3fmGmavfUU=
+
+Name: system/usr/lib/busybox/bin/sh
+SHA1-Digest-Manifest: VW1mz1WDzPrNvU2Dm0dTWdf3Y+0=
+
+Name: system/usr/lib/opkg/alternatives/vlock
+SHA1-Digest-Manifest: Y85FAN5oTRqAo65kSlZHk1H81cs=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/media/__emptyfile
+ __
+SHA1-Digest-Manifest: gb3pmje13ZDPGaqunbLnNNlYehk=
+
+Name: system/usr/lib/xtables/libip6t_dst.so
+SHA1-Digest-Manifest: Yh9iGHMnXeaYIl84GTOgk0vAiEY=
+
+Name: system/etc/init.d/mount_data.sh
+SHA1-Digest-Manifest: 0bULqgORkCwgY8WglR8WN/WEzJc=
+
+Name: system/usr/bin/hal_rec_test
+SHA1-Digest-Manifest: m5wn/YyqXQkNx91gEntuymcHgqI=
+
+Name: system/usr/lib/busybox/bin/rx
+SHA1-Digest-Manifest: iqwIomISytC/HVrNrvMXvgxYDpA=
+
+Name: system/usr/lib/xtables/libip6t_ah.so
+SHA1-Digest-Manifest: 6+JQy3Pkxq+aVBgW4Rsqpb/VUNM=
+
+Name: system/usr/lib/modules/4.14.190/kernel/net/netfilter/xt_physdev.
+ ko
+SHA1-Digest-Manifest: mRdWMtF40AGglSdZcnwA2ksj9m0=
+
+Name: system/usr/lib/opkg/alternatives/hexdump
+SHA1-Digest-Manifest: qN2W1TwMM8KptpCBmbHolnSTe6c=
+
+Name: system/etc/init.d/bootlogd
+SHA1-Digest-Manifest: 1E84slPvQpc7XgFwu0W6+kRlTno=
+
+Name: system/usr/lib/libxml.so.0.0.0
+SHA1-Digest-Manifest: lDlKou9ySHqZbjV8+sA2qyJ8lk8=
+
+Name: system/usr/bin/lowi-test
+SHA1-Digest-Manifest: 05iK6U7cbl5kwsU2vtwDPjR/V40=
+
+Name: system/sbin/__emptyfile__
+SHA1-Digest-Manifest: poqmJRUC9Y93qKnJDqE+7//8OwA=
+
+Name: system/usr/lib/libqmi_cci.so.1.0.0
+SHA1-Digest-Manifest: S2gkRwvTMw/KoARs68UIczEt94c=
+
+Name: system/lib/libcrypt-2.22.so
+SHA1-Digest-Manifest: xCISqN0d/RZ+Eo6BkDfKhH8McfA=
+
+Name: system/usr/bin/port_bridge
+SHA1-Digest-Manifest: 5/XPLJcxVekF2Fof0dqzY3ci7hc=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/media/rc/__emptyf
+ ile__
+SHA1-Digest-Manifest: vyvQnReyE4vzzWOrYZ8hWRn4EEk=
+
+Name: system/usr/lib/busybox/bin/ps
+SHA1-Digest-Manifest: yW/G/Qy7Ox0Gf1paPDRVpZDOpvc=
+
+Name: system/usr/sbin/nl-qdisc-list
+SHA1-Digest-Manifest: x81XP/niuBgjI8D9Xq0rUV811O8=
+
+Name: system/var/lib/misc/__emptyfile__
+SHA1-Digest-Manifest: p39XE4bPDz6+80hu9ESMbi0Q98k=
+
+Name: system/home/qmmfsvr/__emptyfile__
+SHA1-Digest-Manifest: 2FNgQV72J6NfvNqRX0j2BRx1Sno=
+
+Name: system/usr/bin/qmi_test_service_test
+SHA1-Digest-Manifest: FFpBrokIydprBl8F/EkczGEJbU0=
+
+Name: system/usr/libexec/dhcpcd-hooks/20-resolv.conf
+SHA1-Digest-Manifest: jrl6LTI3rTTHxybFLsqycsSFAmg=
+
+Name: system/usr/lib/busybox/bin/setarch
+SHA1-Digest-Manifest: HmlltMUtg7W6F47BANXzL6syqWE=
+
+Name: system/usr/lib/opkg/alternatives/setuidgid
+SHA1-Digest-Manifest: qFeUC8jZbW9+s9RKSB+II2HOIZk=
+
+Name: system/usr/lib/busybox/bin/pwd
+SHA1-Digest-Manifest: YxW991xu0PbFKlwuFi6dmri5rZk=
+
+Name: system/usr/bin/tinycap
+SHA1-Digest-Manifest: v6Yo4aKxjVdqDBsg5SVmfotGNxg=
+
+Name: system/usr/lib/opkg/alternatives/reformime
+SHA1-Digest-Manifest: FNYg2cj+7pBzG81FcqgdlRb8BSQ=
+
+Name: system/usr/lib/opkg/alternatives/split
+SHA1-Digest-Manifest: OYLE5pDLUptPj6IzatVBBeQNgJ4=
+
+Name: system/etc/ppp/ip-down.d/92removedns
+SHA1-Digest-Manifest: 9eyJRv+O+o5cmdEZoOUk/SGR2TE=
+
+Name: system/usr/lib/libqmi_common_so.so.1.0.0
+SHA1-Digest-Manifest: v7DhhAlQ/q4/RfRXd9rp+xbxZWY=
+
+Name: system/usr/lib/modules/4.14.190/extra/__emptyfile__
+SHA1-Digest-Manifest: 4y6wiDI3lINVVoyNjT99Y41Dv+M=
+
+Name: system/home/apps/__emptyfile__
+SHA1-Digest-Manifest: 8MmTHKTpLBheW2LER9owGO4VXRk=
+
+Name: system/usr/lib/perl/5.22.0/Getopt/__emptyfile__
+SHA1-Digest-Manifest: 5thBEPfgEB+rlOpMfwfo1h895tc=
+
+Name: system/usr/lib/libacdbloader.so
+SHA1-Digest-Manifest: YI/IDASDmdw00kG1UjuM7iFc5Vo=
+
+Name: system/usr/lib/opkg/alternatives/dc
+SHA1-Digest-Manifest: uLwsa3exBbgQrJO7cETHl9mDb7I=
+
+Name: system/usr/lib/opkg/alternatives/makedevs
+SHA1-Digest-Manifest: ok4ihupK3GJyMqrJrXPV4viDbck=
+
+Name: system/usr/bin/kbdrate
+SHA1-Digest-Manifest: 1WWfUFn3FFGOW17lowq3yNodwdI=
+
+Name: system/usr/lib/opkg/alternatives/df
+SHA1-Digest-Manifest: l7lv9uKAc6CRBRFnog/myapnQUc=
+
+Name: system/dev/mtd0
+SHA1-Digest-Manifest: yCORw1HmtmqaZsz2rAaRwHLKNgw=
+
+Name: system/dev/mtd1
+SHA1-Digest-Manifest: h5s6omjgxIC22ky9W5TgtNMEv2Y=
+
+Name: system/usr/lib/libxtables.so.7.0.0
+SHA1-Digest-Manifest: kweBwLz0ezmf5U8T7XpXH6+kOHA=
+
+Name: system/usr/lib/opkg/alternatives/dd
+SHA1-Digest-Manifest: K9H1NvsPDbixECPz/qnmxhlr6n4=
+
+Name: system/dev/mtd2
+SHA1-Digest-Manifest: IPioUmImtLznvUn+jn7LtVdzFmM=
+
+Name: system/dev/mtd3
+SHA1-Digest-Manifest: b2qkndX760kRTlo1LjqcxJ4oUjw=
+
+Name: system/dev/mtd4
+SHA1-Digest-Manifest: 8pXQrptAgzBncAKR4BvLrJOGdT8=
+
+Name: system/usr/lib/busybox/bin/fsync
+SHA1-Digest-Manifest: UemGvmMAm+CylXsLFI3mQn5mMGI=
+
+Name: system/dev/mtd5
+SHA1-Digest-Manifest: gd0vzWhHCKjJlY+kQKiSsRd+xg4=
+
+Name: system/usr/lib/busybox/sbin/telnetd
+SHA1-Digest-Manifest: ++suE6nCZU8Cz91v1KzlP5t3QJs=
+
+Name: system/dev/mtd6
+SHA1-Digest-Manifest: ZSNIPhWnsiH+5c3014WuyoSUCL8=
+
+Name: system/sbin/usb/compositions/__emptyfile__
+SHA1-Digest-Manifest: oyJIRh1ftUIcU6cIxlR6BuW33Zw=
+
+Name: system/dev/mtd7
+SHA1-Digest-Manifest: eXrZxiyXZ6I1GA26nO6d6AhzsxU=
+
+Name: system/usr/lib/libloc_mcm_qmi_test_shim.so.1.0.0
+SHA1-Digest-Manifest: G5Q7QOTxWe7bJAFtz5usSKNUJPo=
+
+Name: system/etc/init.d/sysfs.sh
+SHA1-Digest-Manifest: AVkRgOCAgg76T54Uj9RtzsHY69U=
+
+Name: system/media/mmc1/__emptyfile__
+SHA1-Digest-Manifest: lYg5lEneeA3uVrZrSoKBY7CgyxY=
+
+Name: system/sbin/sys_reboot
+SHA1-Digest-Manifest: jcQ81bsH67ds273RoiRYniwpOc4=
+
+Name: system/usr/lib/opkg/alternatives/printf
+SHA1-Digest-Manifest: KoX9kZPiiuE9cz6DMk9rckHbVns=
+
+Name: system/etc/init.d/start_qti_le
+SHA1-Digest-Manifest: IzLLm3fEJAn+WxwHDzqJEjIUBwA=
+
+Name: system/usr/lib/opkg/alternatives/cp
+SHA1-Digest-Manifest: kQn1ktHzpfx0ArVjFRU/ePpHKqA=
+
+Name: system/usr/lib/opkg/alternatives/fsck
+SHA1-Digest-Manifest: F7GwpEr3r/CkSHf4xUjsguqYnFk=
+
+Name: system/usr/lib/opkg/alternatives/expr
+SHA1-Digest-Manifest: 1ax8XgBzNh/6l+slwzt39UynLbA=
+
+Name: system/usr/lib/opkg/alternatives/cut
+SHA1-Digest-Manifest: mfBizZgk/CwMfccPSO/zJVz9C7w=
+
+Name: system/usr/lib/opkg/alternatives/bootchartd
+SHA1-Digest-Manifest: USFhOlX4h+OaH2wxNY93DTHSYoo=
+
+Name: system/usr/lib/xtables/libxt_sctp.so
+SHA1-Digest-Manifest: xP7t7L9lmU0uqA3p5wSU2otHW5Y=
+
+Name: system/etc/default/volatiles/__emptyfile__
+SHA1-Digest-Manifest: 3NMfSouwF/RSkjQgGlRvtjxib7I=
+
+Name: system/etc/init.d/alignment.sh
+SHA1-Digest-Manifest: eVM/inRla7/LKyVhGJZB5QVjuLA=
+
+Name: system/usr/lib/busybox/bin/printenv
+SHA1-Digest-Manifest: QTMQrk16AwvKBa/nCkFS5vQwy2I=
+
+Name: system/usr/lib/modules/4.14.190/modules.dep
+SHA1-Digest-Manifest: DkYlH+aklWsQpZs8EvsAPqkSrW4=
+
+Name: system/usr/lib/opkg/alternatives/brctl
+SHA1-Digest-Manifest: FoGpbHd4laxvHaneN4bHkm4YRHA=
+
+Name: system/usr/lib/pkgconfig/loc-net-iface.pc
+SHA1-Digest-Manifest: ftDESpvgMq119Eo2jwUkPc/rNco=
+
+Name: system/usr/share/glib-2.0/schemas/__emptyfile__
+SHA1-Digest-Manifest: /xwS17pR/+Nih9qeHw5SABRtA4w=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/input/misc/gpio_i
+ nput.ko
+SHA1-Digest-Manifest: +BXSVlmNphV4AxjznKKi3Fzq9nI=
+
+Name: system/usr/lib/opkg/alternatives/ftpput
+SHA1-Digest-Manifest: D8xlIL9uam52HylFS7Gt5v8qwnw=
+
+Name: system/usr/lib/busybox/bin/makemime
+SHA1-Digest-Manifest: Zj/wfqIG6+cQlDNi5tV5k1J6T0s=
+
+Name: system/usr/lib/busybox/sbin/devmem
+SHA1-Digest-Manifest: pCDcJItSYHeuTVTn1ksXRoWd/Uk=
+
+Name: system/usr/lib/modules/4.14.190/modules.dep.bin
+SHA1-Digest-Manifest: 5hq86tGKqZOkf7HtONZRoHI9o1Q=
+
+Name: system/usr/bin/qrtr-cfg
+SHA1-Digest-Manifest: 23df3fS+mAOJtSUIhlc10unNgOA=
+
+Name: system/usr/lib/busybox/bin/usleep
+SHA1-Digest-Manifest: NbHkHH8bEf6YLywWl/7c+dvLt/Q=
+
+Name: system/usr/lib/opkg/alternatives/fstrim
+SHA1-Digest-Manifest: BL8LrACDw7TsN4vORc6EpInwmOs=
+
+Name: system/usr/sbin/nl-pktloc-lookup
+SHA1-Digest-Manifest: H+H0x7qU1fU5K46O67HTpC3HIlk=
+
+Name: system/usr/lib/busybox/bin/uname
+SHA1-Digest-Manifest: K2+tM6L8lOYt3nfLteLzgl52cro=
+
+Name: system/etc/init.d/syslog.busybox
+SHA1-Digest-Manifest: e7r94/eg6ZeGiSpUjPzTox9WYBI=
+
+Name: system/usr/lib/xtables/libxt_cluster.so
+SHA1-Digest-Manifest: W7DMa9JSQkzgnr8hDgtT88g6tB8=
+
+Name: system/usr/bin/poff
+SHA1-Digest-Manifest: rZ1r3NL1OdI/hgjIBFYOfYF3eDk=
+
+Name: system/usr/lib/libnl-nf-3.so.200.20.0
+SHA1-Digest-Manifest: ilhuueNPkGslH5coQSxvpkoYX7s=
+
+Name: system/etc/init.d/halt
+SHA1-Digest-Manifest: 6/i5R3bcAfdqGebZeg2izMMMTZI=
+
+Name: system/etc/init.d/power_config
+SHA1-Digest-Manifest: ALzlZ/MhsjybNHTXg/hZsw5Fvs0=
+
+Name: system/usr/lib/xtables/libxt_SET.so
+SHA1-Digest-Manifest: KDcyAa7J+IQ7UbzkMJepGYs9ff0=
+
+Name: system/usr/lib/opkg/alternatives/nmeter
+SHA1-Digest-Manifest: pq/bq6oXhHc3DhXQChD5gI1Y2O4=
+
+Name: system/usr/lib/opkg/alternatives/dmesg
+SHA1-Digest-Manifest: SUwvE3RlyLnsMQh2YGXEjqxtJ/A=
+
+Name: system/lib/firmware/wlan/qca_cld/__emptyfile__
+SHA1-Digest-Manifest: O4KCmQ36nyaRC3i+LU7MnGsJ+3g=
+
+Name: system/lib/libattr.so.1.1.0
+SHA1-Digest-Manifest: 5sbHC20ieev6UiXfT2R/7/gR71s=
+
+Name: system/usr/lib/busybox/bin/fgrep
+SHA1-Digest-Manifest: R70u6KqhcxOQHvQC2rCZBBjKbLg=
+
+Name: system/usr/lib/opkg/alternatives/rtcwake
+SHA1-Digest-Manifest: Ovk4CXXVhrySvKn51DIJjSWzzNE=
+
+Name: system/usr/lib/opkg/alternatives/uptime
+SHA1-Digest-Manifest: Lx2RhdoHw0jD3dAeumPGUarpAUg=
+
+Name: system/home/bluetooth/.profile
+SHA1-Digest-Manifest: OlClAlTgXb4zQ+lN14E1uAkmImE=
+
+Name: system/home/camera/.bashrc
+SHA1-Digest-Manifest: oazwB+ypvo/ZhL2wydMFn5xH4Qc=
+
+Name: system/lib/libpcre.so.1.2.6
+SHA1-Digest-Manifest: 5mA9310IOBVd91TRnHD6IJ3jY/4=
+
+Name: system/usr/lib/opkg/alternatives/ar
+SHA1-Digest-Manifest: qfczjAGKAPyKoBbGdYN1frVwO+8=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/input/misc/gpio_a
+ xis.ko
+SHA1-Digest-Manifest: mYldN2DwNXJojKNEIPCI/mkbHkA=
+
+Name: system/usr/lib/xtables/libip6t_frag.so
+SHA1-Digest-Manifest: gFGnV62Cf/2q0I7VqngykYkecdc=
+
+Name: system/usr/lib/busybox/bin/rmdir
+SHA1-Digest-Manifest: Q5jJZ+aEdMOnSR0Be0uAuWc3/J0=
+
+Name: system/usr/lib/busybox/sbin/ip
+SHA1-Digest-Manifest: 3hbQ4Qi1boZZ9EQjigv1EPLIdDs=
+
+Name: system/usr/lib/opkg/alternatives/killall5
+SHA1-Digest-Manifest: sYVbo3jNBg+jcfJGr3iFAk0Mfhk=
+
+Name: system/usr/lib/opkg/alternatives/freeramdisk
+SHA1-Digest-Manifest: ZcQA/FP56C/gP0p7wICCo9ApEvg=
+
+Name: system/usr/lib/busybox/bin/test
+SHA1-Digest-Manifest: oGdXi2zwweaCLaPt8piVNXHSADU=
+
+Name: system/usr/lib/xtables/libxt_string.so
+SHA1-Digest-Manifest: 2eqDxeQMgIusK9ho7tk8GzoMi4c=
+
+Name: system/usr/lib/libloc_net_iface.so.1.0.0
+SHA1-Digest-Manifest: X9dBx44oSI6PMMI7YGDB2MFlmx8=
+
+Name: system/system/rfs/__emptyfile__
+SHA1-Digest-Manifest: V1UgseKiAOSafF1urcUCo6CP8sY=
+
+Name: system/usr/lib/opkg/alternatives/xargs
+SHA1-Digest-Manifest: pxUn2+7Kd+4AMpP1oWr8y467CAU=
+
+Name: system/usr/lib/busybox/bin/pidof
+SHA1-Digest-Manifest: 4KKxRPkx99DpDynD+G/qW+tDxi8=
+
+Name: system/usr/lib/libdsutils.so.1.0.0
+SHA1-Digest-Manifest: l6B3tJEYzHOakYyFycMhDHBK+nE=
+
+Name: system/usr/lib/libizat_core.so.1.0.0
+SHA1-Digest-Manifest: RNdToxetwn1C6JzWIA9TuCYB7dw=
+
+Name: system/usr/sbin/avahi-daemon
+SHA1-Digest-Manifest: Rp696Ab8iFfwGwoWIcJf7eJ7OsE=
+
+Name: system/usr/lib/opkg/alternatives/bzcat
+SHA1-Digest-Manifest: OQWRgtWfwcEIHF8qJLYCGcjbWNs=
+
+Name: system/etc/snd_soc_msm/__emptyfile__
+SHA1-Digest-Manifest: 80Zn2q1kaG5w+Xwc8eyf5RShaUk=
+
+Name: system/usr/bin/mcm_ril_service
+SHA1-Digest-Manifest: KhEPOn/SBz6wF0noSvwqByqspQ0=
+
+Name: system/usr/bin/dbus-run-session
+SHA1-Digest-Manifest: SuzJkDpSQqXbSmHI1Ta5lB+QvTw=
+
+Name: system/WEBSERVER/www/images/delete.png
+SHA1-Digest-Manifest: +I2QFyEUnJqg2q9UR13yKQKrVZA=
+
+Name: system/usr/lib/libloc_mq_client.so.1.0.0
+SHA1-Digest-Manifest: c6TsYqGYRoRnriHO6bEAgvEvQ8M=
+
+Name: system/usr/lib/opkg/alternatives/chmod
+SHA1-Digest-Manifest: Qa4AUnh/ggg+k9gO9cpr0tdywWk=
+
+Name: system/etc/init.d/busybox-cron
+SHA1-Digest-Manifest: zA8BSYueKPznX3wP4DwkSQC/cEc=
+
+Name: system/usr/lib/opkg/alternatives/yes
+SHA1-Digest-Manifest: ejYE6eWFjpHorGbYDdkrsY2GprU=
+
+Name: system/usr/lib/libqsocket.so.1.0.0
+SHA1-Digest-Manifest: FIeN/xUI7WX0KVR8zjrmYDfQL9I=
+
+Name: system/usr/bin/garden_app
+SHA1-Digest-Manifest: n3wiiZsVqn2OzsKGj7JYBypsLzc=
+
+Name: system/usr/sbin/ubiblock
+SHA1-Digest-Manifest: n+Eb9SFwfo5S1+FqfJuSWcrbvCk=
+
+Name: system/usr/lib/pkgconfig/__emptyfile__
+SHA1-Digest-Manifest: TY2h/BYxyQKXk31gwMCSJ4ME87k=
+
+Name: system/usr/sbin/tcpdump
+SHA1-Digest-Manifest: Lc/ryjFMiRcmYNQbCHmuXdDBxl4=
+
+Name: system/etc/init.d/hostname.sh
+SHA1-Digest-Manifest: bFScKAXDtRvgXBRsGDY33/MM8E4=
+
+Name: system/usr/lib/opkg/alternatives/uuencode
+SHA1-Digest-Manifest: byIn3PXzkrlomGZ2a7pVZantnck=
+
+Name: system/usr/bin/showconsolefont
+SHA1-Digest-Manifest: +TgrP75g1F5qzPTpxiLWewJfP/8=
+
+Name: system/usr/lib/busybox/bin/hostid
+SHA1-Digest-Manifest: nnk9Ow2yOmcvCtI/lDw08TPsHdo=
+
+Name: system/usr/bin/cnss_diag
+SHA1-Digest-Manifest: 8CvSp6PTYe4RTVNpaDzMoK8uuFM=
+
+Name: system/usr/lib/perl/5.22.0/auto/Sys/Hostname/__emptyfile__
+SHA1-Digest-Manifest: eiOYCdlNlp3/oRZjcKGeByDJd2Y=
+
+Name: system/system/rfs/msm/adsp/__emptyfile__
+SHA1-Digest-Manifest: WoVFQObEHbO8N995EAMd+Hkg+xI=
+
+Name: system/usr/lib/busybox/sbin/fstrim
+SHA1-Digest-Manifest: efZLWhHIn+dY4Cn05pMMYPqzoVw=
+
+Name: system/usr/share/gdb/syscalls/s390-linux.xml
+SHA1-Digest-Manifest: yAniOHscp5Az0cF+2LCD5ki0s3w=
+
+Name: system/dev/ram2
+SHA1-Digest-Manifest: R1bIXlUZnOMAIUV+vNw06X/c8m4=
+
+Name: system/usr/lib/busybox/bin/tail
+SHA1-Digest-Manifest: 0ndPL+BUXX+JOBZCscuSRV+wKks=
+
+Name: system/dev/ram3
+SHA1-Digest-Manifest: qUiSTOd7DqTan+nNn5/Fq8Bnuew=
+
+Name: system/dev/ram0
+SHA1-Digest-Manifest: 7S1oTsLBXVs+THeFK8CAfQ0wZok=
+
+Name: system/dev/ram1
+SHA1-Digest-Manifest: CASNOtWvhwjMq+uaL33nGI58/Gw=
+
+Name: system/usr/lib/xtables/libxt_cpu.so
+SHA1-Digest-Manifest: Lg3/9Lc2acSLD0ok36BRjSSwqyA=
+
+Name: system/usr/lib/busybox/bin/uudecode
+SHA1-Digest-Manifest: XLOIeCVDFdik8H+h+bDWBuxSUk0=
+
+Name: system/usr/lib/libgmodule-2.0.so.0.4400.1
+SHA1-Digest-Manifest: X7R+u387PQhRHCU/LKUCZGsh7TI=
+
+Name: system/usr/lib/libDRPlugin.so.1.0.0
+SHA1-Digest-Manifest: vSt+sFoJ4Bk4Ggcwfyutp0oOGw4=
+
+Name: system/usr/lib/opkg/alternatives/devmem
+SHA1-Digest-Manifest: 5klp5YiLL218vUYquBUf+ee9hdw=
+
+Name: system/www/__emptyfile__
+SHA1-Digest-Manifest: C/VijiJdyjYJg4V59wFPjukG5tc=
+
+Name: system/etc/securetty
+SHA1-Digest-Manifest: H0INzgkp1nXeHKBt/pmDzk8mVB4=
+
+Name: system/usr/lib/xtables/libxt_u32.so
+SHA1-Digest-Manifest: VUGqh/hZsT1b+4tsaZRuZn1a9RE=
+
+Name: system/usr/lib/opkg/alternatives/smemcap
+SHA1-Digest-Manifest: 9+SOCCZYIFQANzBQ1dDjv8E8GP4=
+
+Name: system/usr/lib/xtables/libipt_REJECT.so
+SHA1-Digest-Manifest: hn217rtNoNfIO+kh1EfKFyjiBnU=
+
+Name: system/usr/bin/update-alternatives
+SHA1-Digest-Manifest: Kqq8DM3vFP1MqgKEWc6ZHpI681k=
+
+Name: system/etc/rc6.d/__emptyfile__
+SHA1-Digest-Manifest: q2KgTVTBciF506wv2E0HNmD76GA=
+
+Name: system/home/apps/.bashrc
+SHA1-Digest-Manifest: +FJPSwWKkvDGW/GrB9Gl5YTAO8g=
+
+Name: system/usr/lib/opkg/alternatives/echo
+SHA1-Digest-Manifest: 6/P4h+79IfyQc+aSKE0VEh7+TOo=
+
+Name: system/etc/rc0.d/__emptyfile__
+SHA1-Digest-Manifest: vfxLdzmtv/Z77sR3myiaJJH3Iz0=
+
+Name: system/usr/lib/opkg/alternatives/popmaildir
+SHA1-Digest-Manifest: MT4jH72fMuS14Y4Y2mZ0laMFLNc=
+
+Name: system/etc/init.d/start_subsystem_ramdump
+SHA1-Digest-Manifest: yAE45QFeiYV8hN4MRkV9pJtp5O4=
+
+Name: system/usr/lib/busybox/bin/beep
+SHA1-Digest-Manifest: EFO4fueKxzSDpNKaTQbBA0Y2ZFY=
+
+Name: system/usr/lib/busybox/bin/mktemp
+SHA1-Digest-Manifest: Iu8OiQinmr10l8YjGR73nh3Xi4Y=
+
+Name: system/usr/lib/modules/4.14.190/kernel/crypto/__emptyfile__
+SHA1-Digest-Manifest: PzSeGNajui23vUYlxkXIB7trowQ=
+
+Name: system/usr/lib/xtables/libxt_dscp.so
+SHA1-Digest-Manifest: aduBrU+q4y23XN8oi6lEQa8wlp8=
+
+Name: system/etc/init.d/cav_disable_core_dump.sh
+SHA1-Digest-Manifest: 4VFEiaV/OfDAoC8DMVxBaVOTqfc=
+
+Name: system/usr/lib/opkg/alternatives/dumpleases
+SHA1-Digest-Manifest: 25NJD+amHV2cLl7Ej3WZcQ1kMfQ=
+
+Name: system/WEBSERVER/www/js/images/ui-icons_888888_256x240.png
+SHA1-Digest-Manifest: W+mxpxKma+x/IQBccfvWREYZGlY=
+
+Name: system/usr/bin/dnsmasq
+SHA1-Digest-Manifest: c66Jo0pbMF99rIqhMc+VesBw/8s=
+
+Name: system/usr/lib/opkg/alternatives/unzip
+SHA1-Digest-Manifest: l6xw+jtkI9UlWh1rSHbgHWz5CtY=
+
+Name: system/usr/lib/pkgconfig/acdbloader.pc
+SHA1-Digest-Manifest: X6LARxL3qpSNRMkS+c1LZiIhr9E=
+
+Name: system/etc/Headset_cal.acdb
+SHA1-Digest-Manifest: 4qmHZbzNvq8zM25+yW0pF+EcFoI=
+
+Name: system/usr/sbin/genl-ctrl-list
+SHA1-Digest-Manifest: yJqZ+AHMDuQNY3lvHhjt58NB++U=
+
+Name: system/usr/lib/xtables/libxt_TPROXY.so
+SHA1-Digest-Manifest: ooOtsNzM19ofHqxrDLnuGwoNJps=
+
+Name: system/usr/lib/busybox/bin/xzcat
+SHA1-Digest-Manifest: p20CGkjrtsWqXQUOQtp6xCsqFMs=
+
+Name: system/WEBSERVER/www/QCMAP_WWAN.html
+SHA1-Digest-Manifest: Lb6n8Jmf2C2tJdSlcUbd/mTtYrs=
+
+Name: system/usr/lib/busybox/bin/lzopcat
+SHA1-Digest-Manifest: nIfG9dzpUeanBaNeRq3WNJSFZuQ=
+
+Name: system/usr/lib/modules/4.14.190/modules.builtin
+SHA1-Digest-Manifest: qQITrj6XS3a1sij2IsQwjROH2SY=
+
+Name: system/etc/skel/.profile
+SHA1-Digest-Manifest: CcXD2De7Lh7Vism0QPatIH+4Hp4=
+
+Name: system/usr/lib/opkg/alternatives/fbsplash
+SHA1-Digest-Manifest: POmXHMyvUeoLjV/j7SZU2zHX40A=
+
+Name: system/usr/lib/libnettle.so.6.1
+SHA1-Digest-Manifest: 5cUFO+Ku13EVCGqouqVd6y1PrwE=
+
+Name: system/usr/lib/opkg/alternatives/mountpoint
+SHA1-Digest-Manifest: rQGev5MqyRV1cqszeU7OxTVAins=
+
+Name: system/usr/lib/busybox/bin/mesg
+SHA1-Digest-Manifest: WbHW1Q2JAgmKaURvdIfDAp/JsA8=
+
+Name: system/usr/lib/busybox/bin/base64
+SHA1-Digest-Manifest: YQ/0VLMqKqmx7n8iR11BBHnFUEI=
+
+Name: system/usr/lib/perl/5.22.0/vars.pm
+SHA1-Digest-Manifest: QEkAcGhZLMmhY2BnpfMGIfMxsVM=
+
+Name: system/usr/lib/busybox/bin/ipcalc
+SHA1-Digest-Manifest: XVsjuk0mSSxrcbOk64VGihSWNEk=
+
+Name: system/usr/lib/opkg/alternatives/ln
+SHA1-Digest-Manifest: fUSvcOvRXulWRBdP7aXK83taq9k=
+
+Name: system/usr/lib/perl/5.22.0/auto/Fcntl/Fcntl.so
+SHA1-Digest-Manifest: +4Fq0qVsivnkc4HEfUTi+5fZKmI=
+
+Name: system/usr/sbin/nl-cls-add
+SHA1-Digest-Manifest: jyzYa/GLGQXhctI4hh6wtPni4lY=
+
+Name: system/usr/lib/perl/5.22.0/Text/__emptyfile__
+SHA1-Digest-Manifest: 2kh8xSa58ZNekm7p50wq+J89h2I=
+
+Name: system/usr/lib/libdiag.so.1.0.0
+SHA1-Digest-Manifest: JDi2UkuNAoFIRdcQapZmh1uRmys=
+
+Name: system/usr/sbin/ubirsvol
+SHA1-Digest-Manifest: GvAgcQvhIjkpO01riFfGX8A+N0I=
+
+Name: system/usr/lib/libebtc.so
+SHA1-Digest-Manifest: AoRGFebxLMCBRTD3QbJNRjpGMd8=
+
+Name: system/usr/lib/busybox/sbin/fdisk
+SHA1-Digest-Manifest: S5xCVt0NYCp1rDTurmJp9vFdiQU=
+
+Name: system/usr/lib/perl/5.22.0/warnings/__emptyfile__
+SHA1-Digest-Manifest: t39hcHlM1Gk0hupmlhwmLEUpxBE=
+
+Name: system/usr/sbin/miniupnpd
+SHA1-Digest-Manifest: 1N+Pv1AvQfTQ4KN2/ENEZm7Mnbo=
+
+Name: system/usr/lib/perl/5.22.0/Text/ParseWords.pm
+SHA1-Digest-Manifest: fEwoTAJlv4QhxrVHYsqhDENox2g=
+
+Name: system/usr/lib/modules/4.14.190/extra/shortcut-fe.ko
+SHA1-Digest-Manifest: 5LItiz0jiA4ZjaZ53yzqVA6XrNE=
+
+Name: system/usr/lib/busybox/sbin/tunctl
+SHA1-Digest-Manifest: WJLWsrPJJzOgkq/xWFYvxMZPtpM=
+
+Name: system/usr/lib/opkg/alternatives/cmp
+SHA1-Digest-Manifest: DQh9KerypzjY5DViSLsPXDfILMY=
+
+Name: system/usr/lib/busybox/__emptyfile__
+SHA1-Digest-Manifest: iKkC2ilgIlCx0UWSLpQpVPzSckM=
+
+Name: system/usr/lib/busybox/bin/find
+SHA1-Digest-Manifest: klIng/Wzfq8uGOk/zgWmdlIw+Xg=
+
+Name: system/etc/inittab
+SHA1-Digest-Manifest: 7Dr81xh7xzNPy4BeEaOwr70NuBs=
+
+Name: system/usr/lib/pkgconfig/logwrapper.pc
+SHA1-Digest-Manifest: 2k5WKehr6fSwvBAReks9LnawgSw=
+
+Name: system/usr/lib/busybox/sbin/adjtimex
+SHA1-Digest-Manifest: TCSFQEJUtsskCyX38j/HL2Rvizg=
+
+Name: system/usr/lib/xtables/libxt_TCPOPTSTRIP.so
+SHA1-Digest-Manifest: 2Ur5NQSdT87PbSHxOqxpMX8Q7Jo=
+
+Name: system/usr/lib/xtables/libxt_RATEEST.so
+SHA1-Digest-Manifest: 25mIP0Flqyma5ExdZqdj1qmqzME=
+
+Name: system/usr/lib/opkg/alternatives/top
+SHA1-Digest-Manifest: c3/FIn47W9Hi4aIxYgU673ewn1I=
+
+Name: system/data/__emptyfile__
+SHA1-Digest-Manifest: r9w04MIab8PuklmzrMP+0YrkpXA=
+
+Name: system/usr/lib/busybox/bin/rev
+SHA1-Digest-Manifest: 0ZZvvi3pYbvV7XIUM7KwpVjt+kU=
+
+Name: system/usr/lib/opkg/alternatives/nslookup
+SHA1-Digest-Manifest: /JpVgmkTuuRkj5OXa59H6dAjnNk=
+
+Name: system/etc/network/if-pre-up.d/nfsroot
+SHA1-Digest-Manifest: bln8/QgL3OcIBf717+jgn7sijmI=
+
+Name: system/usr/lib/busybox/bin/which
+SHA1-Digest-Manifest: NZkZkRdPEBye6MzZa668G8H7SFo=
+
+Name: system/var/cache/opkg/__emptyfile__
+SHA1-Digest-Manifest: 5gtWkt23FoWsycOCKdKTLYw2f54=
+
+Name: system/usr/bin/bspatch
+SHA1-Digest-Manifest: 8A6pXj0lxOWnbBh/p4hUnQLv+sQ=
+
+Name: system/usr/lib/opkg/alternatives/fdformat
+SHA1-Digest-Manifest: rXHrcB0ck8jG2jIqVrJ/4D/jU84=
+
+Name: system/usr/lib/tc/m_xt.so
+SHA1-Digest-Manifest: EDCdiKIm8TTMYc5W5Fru2/DAIas=
+
+Name: system/persist/__emptyfile__
+SHA1-Digest-Manifest: gCOf30/G44sbusXDMacMYYofj8E=
+
+Name: system/usr/lib/opkg/alternatives/traceroute6
+SHA1-Digest-Manifest: j52Eq3XHQWB5EZ0h+5MzG6DyP8k=
+
+Name: system/usr/lib/modules/__emptyfile__
+SHA1-Digest-Manifest: 36b00SYjX4XDDMR12VtG0nnlMV8=
+
+Name: system/usr/lib/busybox/sbin/nbd-client
+SHA1-Digest-Manifest: 7wYF7+eCc9vfx3gerChkj5IaX70=
+
+Name: system/usr/lib/opkg/alternatives/tftpd
+SHA1-Digest-Manifest: 8F8cfNpkz6nrNzwAzWkT0oCME3k=
+
+Name: system/usr/lib/perl/5.22.0/integer.pm
+SHA1-Digest-Manifest: uH5+Ms9ZOaFvNui0bJSJRO9yQEE=
+
+Name: system/usr/lib/opkg/alternatives/readprofile
+SHA1-Digest-Manifest: Zz3hcL1PzAIjyFm2RXcC3Fpuw90=
+
+Name: system/usr/lib/libqcmap_client.so.1.0.0
+SHA1-Digest-Manifest: lz/YYyDvbW8JU+AE5NC4rPKCTgU=
+
+Name: system/usr/lib/busybox/sbin/loadkmap
+SHA1-Digest-Manifest: ELZscSuu7biBKkY1dv6vnHvnmfY=
+
+Name: system/usr/lib/opkg/alternatives/ip
+SHA1-Digest-Manifest: AWH2gcSTeC+tkpiwjb5uAZO25OI=
+
+Name: system/usr/lib/opkg/alternatives/stty
+SHA1-Digest-Manifest: HxZtiqKzl6aUy2VHLEuQ/XERPo4=
+
+Name: system/lib/firmware/__emptyfile__
+SHA1-Digest-Manifest: JO5NnxuNkpw+nlCdx8s/Is44oLQ=
+
+Name: system/usr/lib/libsparse.so.0.0.0
+SHA1-Digest-Manifest: HjV0V5VkKGYEtGppcBW+LsmHq/8=
+
+Name: system/usr/lib/opkg/alternatives/umount
+SHA1-Digest-Manifest: EEoUaqrW23m4wsEIXGrYa7YasS4=
+
+Name: system/etc/libnl/pktloc
+SHA1-Digest-Manifest: ++zGffD0rujm4zdAzRzN2TP8Wmk=
+
+Name: system/usr/lib/libbluetoothdefault.so.0.0.0
+SHA1-Digest-Manifest: z+lV5yzX4uqP5f6tthBISN9HmLQ=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_2x_Fusion3
+SHA1-Digest-Manifest: NwlaPR3d1Lxc1cckfxV7FJj1llE=
+
+Name: system/usr/lib/libacdbmapper.so.1.0.0
+SHA1-Digest-Manifest: hnz9Hp/pjE/226CcXBnuuvDnwQA=
+
+Name: system/usr/lib/libvorbisfile.so.3.3.5
+SHA1-Digest-Manifest: +F893chL+LlGfqpWdrTo2OwLft8=
+
+Name: system/usr/lib/opkg/alternatives/chattr
+SHA1-Digest-Manifest: mKa5t2PalYEmTX+0GUivMbdCweU=
+
+Name: system/usr/lib/busybox/bin/sort
+SHA1-Digest-Manifest: Ofxay4xxU68LZGj3xoS3sgQSWxY=
+
+Name: system/usr/lib/pkgconfig/libbacktrace.pc
+SHA1-Digest-Manifest: DEsofB9FKX4ieVs4MEk8jDpkw+k=
+
+Name: system/usr/lib/libebt_ulog.so
+SHA1-Digest-Manifest: GQcAPDUhx52dmFjBx89XusOgjz4=
+
+Name: system/usr/lib/opkg/alternatives/id
+SHA1-Digest-Manifest: 6FDbHTGGDVSflYinmOrXJzI65UU=
+
+Name: system/system/rfs/mdm/mpss/__emptyfile__
+SHA1-Digest-Manifest: r01Wc7zIJMM0MBPG5+z9L9aXI4Y=
+
+Name: system/usr/lib/libip6tc.so.0.0.0
+SHA1-Digest-Manifest: IzCt2BUUZeOCovd+mlvqRrNP4dU=
+
+Name: system/sbin/tftp_server
+SHA1-Digest-Manifest: /JoQLFgtDaGPTHi4njSIRgIVYvY=
+
+Name: system/dev/kmsg
+SHA1-Digest-Manifest: gM5BgJlok63DGb5MX41VMO8BxeA=
+
+Name: system/usr/bin/curl
+SHA1-Digest-Manifest: 7gUlaA0aKpjruUYDbjNIL4fmCTA=
+
+Name: system/usr/lib/busybox/bin/true
+SHA1-Digest-Manifest: ShbuHm7x08NnHI3Rm9Do7YnOmv4=
+
+Name: system/etc/mdev/iio.sh
+SHA1-Digest-Manifest: q54BHXMkB/N+hVJWK+KGC145s44=
+
+Name: system/lib/libavutil.so.52.92.100
+SHA1-Digest-Manifest: uIkFAPiEpZj8oF24SVaar1MCQ58=
+
+Name: system/usr/lib/opkg/alternatives/lsattr
+SHA1-Digest-Manifest: ED5JBoPxc/T+Oj5j8eaoYzpMMuU=
+
+Name: system/usr/lib/libgio-2.0.so.0.4400.1
+SHA1-Digest-Manifest: 433x3fVoaT9zzxztW5D75kiZ7Vs=
+
+Name: system/usr/sbin/minidlnad
+SHA1-Digest-Manifest: vkXSLDRJ/5J3DTmQazyTG4ubg+o=
+
+Name: system/share/__emptyfile__
+SHA1-Digest-Manifest: memq+S+PHPiMrjo69vku2nFRyo4=
+
+Name: system/usr/lib/libnfnetlink.so.0.2.0
+SHA1-Digest-Manifest: tMMo6bbXc+LASK90P6jbFIFz6wU=
+
+Name: system/usr/lib/libtinycompress.so.0.0.0
+SHA1-Digest-Manifest: NVPKPSNHbMRJ+etS+d+CCYR4NkY=
+
+Name: system/usr/lib/opkg/alternatives/dnsdomainname
+SHA1-Digest-Manifest: PblnUapfXWeeNDfBoOJd1AtFpbM=
+
+Name: system/usr/lib/libion.so.0.0.0
+SHA1-Digest-Manifest: RaVqfE3GwIIjcbXpoLW2PNhtKwQ=
+
+Name: system/usr/lib/busybox/sbin/hdparm
+SHA1-Digest-Manifest: hrfezwzQ+NfVZed51B4sFYEhmo0=
+
+Name: system/usr/lib/busybox/sbin/ifplugd
+SHA1-Digest-Manifest: Yxbw4zCEV/CmctkS7E9oqWEmXr0=
+
+Name: system/usr/lib/mod_staticfile.so
+SHA1-Digest-Manifest: YFeCDLwSmLan7DUSldn0347ZaWo=
+
+Name: system/usr/lib/busybox/sbin/swapon
+SHA1-Digest-Manifest: E9qqzx73FrNEh8tpez4YHVBAQsc=
+
+Name: system/usr/bin/atfwd_daemon
+SHA1-Digest-Manifest: GaKaM4QVohB9kn3xhs7sRRzcOGY=
+
+Name: system/usr/lib/busybox/bin/dirname
+SHA1-Digest-Manifest: ItJ1fKEBJFnWclCKaA++QCAA3dM=
+
+Name: system/usr/lib/opkg/alternatives/hd
+SHA1-Digest-Manifest: 3KW0eKhOgcJvQSGnXi06DTe+Lck=
+
+Name: system/etc/init.d/start_embms_le
+SHA1-Digest-Manifest: /soL8am3OLuNdUO0Tm/m4+brWk0=
+
+Name: system/usr/lib/perl/5.22.0/auto/Cwd/Cwd.so
+SHA1-Digest-Manifest: tLOdITzdHj64kyctKqNbUMpm7x0=
+
+Name: system/usr/lib/opkg/alternatives/uniq
+SHA1-Digest-Manifest: zhcVqrQLdzdLFvcGgtUzU6Kj8a8=
+
+Name: system/etc/services
+SHA1-Digest-Manifest: RLhmI3gaQjrgdqZfw2gyxTeOLRg=
+
+Name: system/etc/init.d/save-rtc.sh
+SHA1-Digest-Manifest: Jrve0d6M/kgisZQJ5rUjd2jNImo=
+
+Name: system/cavnv/cavli/mbn/apac_reliance_swmcfg.mbn
+SHA1-Digest-Manifest: smwNKF3GsLOMlBiC+3Al1qmZ6Zs=
+
+Name: system/usr/sbin/nl-class-delete
+SHA1-Digest-Manifest: xAZG3vXV/XrZZ0whJimfa5E6qzE=
+
+Name: system/etc/ppp/ppp_on_boot
+SHA1-Digest-Manifest: E4xH0qVA8L6Q2MhFtpGqMxEuslg=
+
+Name: system/usr/lib/libloc_mcm_type_conv.so.1.0.0
+SHA1-Digest-Manifest: rUrxbQeoPytjb3SJ4WAbyjtWBKM=
+
+Name: system/usr/share/dbus-1/services/__emptyfile__
+SHA1-Digest-Manifest: UoIc8WjteAjdlYEP3fCFx51tXtU=
+
+Name: system/usr/bin/psmd
+SHA1-Digest-Manifest: EkK0vEklqNfBP6pYFtQKxnjYgPo=
+
+Name: system/usr/lib/opkg/alternatives/tty
+SHA1-Digest-Manifest: +5CJTcgZqYqY0WslxqJuvTJP124=
+
+Name: system/lib/libm-2.22.so
+SHA1-Digest-Manifest: cKZsXriiFMajRaaYhLoc3rTuUxY=
+
+Name: system/usr/lib/busybox/bin/chrt
+SHA1-Digest-Manifest: LlUK8mFqvlesYYeVEjFyv61SvAQ=
+
+Name: system/usr/lib/liblowi_client.so.1.0.0
+SHA1-Digest-Manifest: pC1kUO10v4DpOw/JQwRZV4DhLS0=
+
+Name: system/usr/lib/libebt_nat.so
+SHA1-Digest-Manifest: E8b/2SPIj7cU5c0I+EB3RvJhk+s=
+
+Name: system/usr/lib/xtables/libxt_tcpmss.so
+SHA1-Digest-Manifest: ZWmoqZCuXvys3DzhIE2NIwnpfSo=
+
+Name: system/usr/lib/xtables/libxt_TRACE.so
+SHA1-Digest-Manifest: qMrFeshDXr/XngzMSvr8FuCunhM=
+
+Name: system/dev/random
+SHA1-Digest-Manifest: C3MAfMo8o1N7hv0ib+S9anq0xzE=
+
+Name: system/usr/lib/busybox/bin/realpath
+SHA1-Digest-Manifest: FHmM18wZdqXTfQN0Ae64qpwgJ+Q=
+
+Name: system/usr/lib/busybox/sbin/slattach
+SHA1-Digest-Manifest: MV0v6qw9TZ0/KUsofyLKA7j8Sbw=
+
+Name: system/usr/lib/opkg/alternatives/ttysize
+SHA1-Digest-Manifest: 9zVODodatwGVZkEx2O/H50Gjo1o=
+
+Name: system/lib/libnss_mdns6.so.2
+SHA1-Digest-Manifest: +x4Hez68j2NwU2Vs/Q2KO6FbLQc=
+
+Name: system/usr/lib/perl/5.22.0/auto/Socket/Socket.so
+SHA1-Digest-Manifest: FZGUHFpjMjJQUVILY7RbtrDbkT8=
+
+Name: system/etc/init.d/find_partitions.sh
+SHA1-Digest-Manifest: lk+cqqC6dJbHA9BKCiaO5/edBhE=
+
+Name: system/usr/lib/librmnetctl.so.0.0.0
+SHA1-Digest-Manifest: 6xfG/kT5h5x4UZyazlnF1uiwZiM=
+
+Name: system/usr/lib/libnl-genl-3.so.200.20.0
+SHA1-Digest-Manifest: 6qkjysjo6YpUa5mnveY6jLep65g=
+
+Name: system/var/local/__emptyfile__
+SHA1-Digest-Manifest: Fcfbvplm4ooovPWRCzX9ngJpJyU=
+
+Name: system/usr/lib/busybox/bin/getopt
+SHA1-Digest-Manifest: 4tnm/4YlVrg5JM7dt+PlFYr9FYY=
+
+Name: system/usr/lib/busybox/sbin/rmmod
+SHA1-Digest-Manifest: nfIgV8xURfBSYV1F5vpVHGFrREw=
+
+Name: system/usr/lib/busybox/bin/env
+SHA1-Digest-Manifest: HBR0ZMlGGTYkrQlFMMelOT2cHMk=
+
+Name: system/usr/lib/opkg/alternatives/gzip
+SHA1-Digest-Manifest: BZpw2VRQ/7CUmL+c/qpeo8NAVlA=
+
+Name: system/usr/bin/gtp-ap-le-os-agent
+SHA1-Digest-Manifest: AesRXBnNia8sI6i5+C8cr1I0S+s=
+
+Name: system/cavnv/cavli/__emptyfile__
+SHA1-Digest-Manifest: gUPtCMwtMmpj4DKJZzzNlMc6TBA=
+
+Name: system/etc/motd
+SHA1-Digest-Manifest: PJ3dFY9QUSVaDptChblvfsW6laQ=
+
+Name: system/etc/ppp/pap-secrets
+SHA1-Digest-Manifest: i/xsviQCep3e3n/mX9rbdm+Z0Ts=
+
+Name: system/usr/lib/libebt_log.so
+SHA1-Digest-Manifest: Wz9Y5MxNY3Hp3HbM1hX9azb4QBg=
+
+Name: system/system/rfs/msm/__emptyfile__
+SHA1-Digest-Manifest: cVCweIkB0Bo4IcaBA4wj4PSaiWY=
+
+Name: system/usr/lib/opkg/alternatives/watch
+SHA1-Digest-Manifest: kOCRvrVFe7ZM9Ofn7Y7mvh5Ln0w=
+
+Name: system/usr/lib/busybox/bin/vlock
+SHA1-Digest-Manifest: UnIfgW84q2jKaXnjFgsqfNal+n0=
+
+Name: system/usr/lib/modules/4.14.190/modules.devname
+SHA1-Digest-Manifest: IBNbjkQCMkPZ8pwMFZQ/wXgyiG0=
+
+Name: system/usr/bin/utmpdump.sysvinit
+SHA1-Digest-Manifest: 2Q95YN6u3+w2KoK0XOOmtZi6ckg=
+
+Name: system/usr/lib/perl/5.22.0/auto/List/Util/Util.so
+SHA1-Digest-Manifest: gpOMb+eVh4AXR5eHH5IY9DsVRrQ=
+
+Name: system/usr/lib/libcutils.so.0.0.0
+SHA1-Digest-Manifest: 7jIoaV70QEX/jsWJXkrVO9kOejs=
+
+Name: system/usr/lib/busybox/bin/zcat
+SHA1-Digest-Manifest: A5fi3bq4H0gbxJmkbCm8Oq1hO9Y=
+
+Name: system/usr/bin/usb_composition_switch
+SHA1-Digest-Manifest: FKaImqco1DMFF1cE5T+FQK3i5b0=
+
+Name: system/usr/sbin/ubicrc32
+SHA1-Digest-Manifest: vOm7p5284ee+/h/5hsMlixZ1muQ=
+
+Name: system/usr/lib/modules/4.14.190/extra/wlan.ko
+SHA1-Digest-Manifest: Ie6YoOR8LuPB15A/soerMHV7wLY=
+
+Name: system/usr/lib/opkg/alternatives/cryptpw
+SHA1-Digest-Manifest: W9j449WKAUgqK6/C7HjgSQF4A+Q=
+
+Name: system/WEBSERVER/www/QCMAP_UPNP_DLNA_MDNS.html
+SHA1-Digest-Manifest: /ZW4lBDEDDZEjYk3ZyhN5hGnByU=
+
+Name: system/usr/lib/opkg/alternatives/ed
+SHA1-Digest-Manifest: 5XRlgQ2mlKh+g6BPrCk6HPJj9JM=
+
+Name: system/etc/ftm_test_config
+SHA1-Digest-Manifest: Sm+EXneESeYw2drNEzBer1mypfs=
+
+Name: system/etc/hostname
+SHA1-Digest-Manifest: LjWlPYMVz/pcbx4nfrSFiUWu+bM=
+
+Name: system/usr/lib/perl/5.22.0/Config.pm
+SHA1-Digest-Manifest: 5EEK1RlSlAUPGP/JeR577M+wYz4=
+
+Name: system/usr/bin/ptt_socket_app
+SHA1-Digest-Manifest: WD+UqdUo0Bfdg04D1pMSIo1fetE=
+
+Name: system/etc/init.d/inetd.busybox
+SHA1-Digest-Manifest: YpcejsABnPiWKaLF+L7IFmdikAU=
+
+Name: system/usr/lib/opkg/alternatives/passwd
+SHA1-Digest-Manifest: 27JnX6x/0UBMLBs+0yiHndMN0Jw=
+
+Name: system/usr/lib/pkgconfig/fs_mgr.pc
+SHA1-Digest-Manifest: Lxbt8g5Jqmt62NirXjxX2o756RE=
+
+Name: system/usr/lib/opkg/alternatives/du
+SHA1-Digest-Manifest: V6mhKzEpETBbT6fmnT5cmlJ++0U=
+
+Name: system/usr/lib/perl/5.22.0/auto/IO/__emptyfile__
+SHA1-Digest-Manifest: 7lZKh0/+EYGPQgicZ0rpQn0Zvfw=
+
+Name: system/usr/lib/modules/4.14.190/modules.symbols.bin
+SHA1-Digest-Manifest: W2S9ySM6Mc7CilII3dmVIt+1q8w=
+
+Name: system/usr/lib/opkg/alternatives/setconsole
+SHA1-Digest-Manifest: OqEx1Nd9l8m+fkoMMfgadVqZAjM=
+
+Name: system/etc/ebtables/__emptyfile__
+SHA1-Digest-Manifest: APjBlxFDenz2NvY61s1cZ25eCDo=
+
+Name: system/usr/lib/perl/5.22.0/Sys/Hostname.pm
+SHA1-Digest-Manifest: PGz8deyycpaeqA23EOUKubE98WU=
+
+Name: system/target
+SHA1-Digest-Manifest: 3RtEAL71wILe0axeWlLd+jgJIGo=
+
+Name: system/usr/lib/busybox/bin/man
+SHA1-Digest-Manifest: mGIpgp8Eu298epUlipV2VX5VQM8=
+
+Name: system/etc/terminfo/v/vt200
+SHA1-Digest-Manifest: 1F41mmr2nbf/BAf59SPg8nPz1zQ=
+
+Name: system/usr/lib/opkg/alternatives/renice
+SHA1-Digest-Manifest: Yz5bJ7JM2RQ1rie09GK+/EQd5hI=
+
+Name: system/usr/lib/libflp.so.1.0.0
+SHA1-Digest-Manifest: dX+Q1txjgM5R/BMc5JwbzDOpFn8=
+
+Name: system/usr/lib/opkg/alternatives/fold
+SHA1-Digest-Manifest: oEBY/7/B3uwi61FJWSFCHtV9B6M=
+
+Name: system/usr/tests/mcm_data_test
+SHA1-Digest-Manifest: x4Tp8P8HF9kky5gbP5ufKe+Fltc=
+
+Name: system/etc/rc1.d/__emptyfile__
+SHA1-Digest-Manifest: zFQP40R4nu+8ngtYL7bgWw/BA+M=
+
+Name: system/WEBSERVER/www/QCMAP_Help.html
+SHA1-Digest-Manifest: gdbiW2hJHigSAehiNxTr5eh8+kw=
+
+Name: system/usr/lib/perl/5.22.0/Cwd.pm
+SHA1-Digest-Manifest: QNi75pPdVQXJpa47wfY1GjvQOKs=
+
+Name: system/usr/lib/opkg/alternatives/linuxrc
+SHA1-Digest-Manifest: n8V6E0J1+ItvQ7sVu0Z4HuKb3+M=
+
+Name: system/usr/lib/busybox/bin/groups
+SHA1-Digest-Manifest: 2xh5wzVEgUgJth3lvW82YQb4Djg=
+
+Name: system/usr/lib/opkg/alternatives/fbset
+SHA1-Digest-Manifest: P06K2bEkL4Jrq9+h+eEXl0WBncU=
+
+Name: system/home/bluetooth/__emptyfile__
+SHA1-Digest-Manifest: SPRB3SJkV06Bt4VC64nWQf1npeI=
+
+Name: system/usr/lib/perl/5.22.0/__emptyfile__
+SHA1-Digest-Manifest: 94MEyH33rFzV3rMWy4PFaHJ1ZCQ=
+
+Name: system/usr/bin/dbus-uuidgen
+SHA1-Digest-Manifest: 9zoL5gurSzWJPdPVxgFvVa8887E=
+
+Name: system/usr/lib/opkg/alternatives/lsusb
+SHA1-Digest-Manifest: BG98mBE4qWynaKEUJ9ntnGBIMTs=
+
+Name: system/etc/gshadow
+SHA1-Digest-Manifest: yqMYrav/qiMWfID7dJ/QYWaT8t4=
+
+Name: system/usr/lib/busybox/sbin/loadfont
+SHA1-Digest-Manifest: ZsjlK+se0R6fUIdybkYgFI5gIc0=
+
+Name: system/etc/init.d/misc-daemon
+SHA1-Digest-Manifest: Aoc/VH+/RsDUYGLRiAyXUWuJVf0=
+
+Name: system/usr/lib/opkg/alternatives/sha256sum
+SHA1-Digest-Manifest: sATKfhuYZuz39qNJSPXWFh42fHk=
+
+Name: system/usr/lib/libavahi-core.so.7.0.2
+SHA1-Digest-Manifest: Xtzw4wlWUB7uy/NVokUZCQO/Y0k=
+
+Name: system/system/rfs/msm/adsp/readonly/__emptyfile__
+SHA1-Digest-Manifest: dgo7fFkG1n7bQ0CbYorSw6trgDA=
+
+Name: system/usr/lib/opkg/alternatives/ipcs
+SHA1-Digest-Manifest: Q6ocZH/m5lwLrrAIPmsrXGA4NuA=
+
+Name: system/usr/lib/busybox/bin/scriptreplay
+SHA1-Digest-Manifest: fy6ZTxb6Vlu5lV5lthai5WwSyWU=
+
+Name: system/usr/lib/mod_cgi.so
+SHA1-Digest-Manifest: PwlRSsF9a7tstIXd1b0/+7Ka4P0=
+
+Name: system/system/rfs/mdm/adsp/readonly/__emptyfile__
+SHA1-Digest-Manifest: l7L6PDcrvP3hhYr196WKXeHZMLs=
+
+Name: system/usr/lib/busybox/bin/volname
+SHA1-Digest-Manifest: CkxXn77dAeKExxSOIt4WHhpGo8s=
+
+Name: system/dev/fb0
+SHA1-Digest-Manifest: i3O/FyUYwsZTU8bfgUVq37lR1rY=
+
+Name: system/etc/Bluetooth_cal.acdb
+SHA1-Digest-Manifest: aTOyey3Sltql9VVJKOj1rHuX7vw=
+
+Name: system/usr/lib/opkg/alternatives/shuf
+SHA1-Digest-Manifest: lMcf1T8t1iXONbSKUf9hCxuhP1k=
+
+Name: system/lib/libgcc_s.so.1
+SHA1-Digest-Manifest: AOvsY0uwLGs6AVrM5dX6Q26k5sc=
+
+Name: system/sbin/usb_composition
+SHA1-Digest-Manifest: wkKvM6QcfEgpRSxNRltD3imp8Vw=
+
+Name: system/usr/lib/opkg/alternatives/clear
+SHA1-Digest-Manifest: iWQHr0rFAhXs5O5kwJrrVNV7y5Y=
+
+Name: system/var/cache/__emptyfile__
+SHA1-Digest-Manifest: 4IY4/5rObmeoQE0YqmsjOMhJL2o=
+
+Name: system/WEBSERVER/www/QCMAP_Firewall.html
+SHA1-Digest-Manifest: /Yx+2CFIL/8ygcJREvAN1VFLyGI=
+
+Name: system/lib/libthread_db-1.0.so
+SHA1-Digest-Manifest: IpgbmdCiGPVIzEIZrWf+8CZrvQU=
+
+Name: system/usr/lib/busybox/bin/sha1sum
+SHA1-Digest-Manifest: uUTx+Plxy3gZ1JyofG7is3rV2Kc=
+
+Name: system/usr/bin/last.sysvinit
+SHA1-Digest-Manifest: /oqw61nGUzdIz7R2RVyXltxcMwM=
+
+Name: system/home/locclient/.profile
+SHA1-Digest-Manifest: tfU9t0y6q+38FC+M2H99avGJkq8=
+
+Name: system/WEBSERVER/www/QCMAP_WLAN_Help.html
+SHA1-Digest-Manifest: 7H+gqeqXDK3zHd1fXksnIBINUW8=
+
+Name: system/usr/lib/libebt_ip6.so
+SHA1-Digest-Manifest: +FPP6l1sd1PMvLdRoFLuPTsNe68=
+
+Name: system/usr/lib/libqdp.so.0.0.0
+SHA1-Digest-Manifest: JeZm7tjRz+BTemu8XNNFkpe3+dQ=
+
+Name: system/usr/bin/cfrtool
+SHA1-Digest-Manifest: 9Z2uJn+ifivuBJPPaiNa+uXaCCc=
+
+Name: system/etc/mixer_paths_wcd9330_i2s.xml
+SHA1-Digest-Manifest: 7zgmQWECV4qzbagT1a+f/J9fo34=
+
+Name: system/etc/init.d/avahi-daemon
+SHA1-Digest-Manifest: hunstEfNSehrucQC0BEJbBno/hQ=
+
+Name: system/usr/lib/sound_trigger_primary_default.so
+SHA1-Digest-Manifest: siaUOOF9cPRtw5KT/mV8F8mIkIE=
+
+Name: system/usr/lib/perl/5.22.0/Pod/__emptyfile__
+SHA1-Digest-Manifest: FX4ayGEe2MANOaITKwHUGLRMIJ0=
+
+Name: system/usr/lib/modules/4.14.190/extra/q6_dlkm.ko
+SHA1-Digest-Manifest: e7lrzvmxuRb7N4/8yHcpR0UsQEo=
+
+Name: system/sys/__emptyfile__
+SHA1-Digest-Manifest: SLN+EE92yMiivJDRuXXyGXNxSmQ=
+
+Name: system/usr/lib/modules/4.14.190/extra/wcd_core_dlkm.ko
+SHA1-Digest-Manifest: +Cl8xMPnwGzuLZX/dUs9rdQCi/E=
+
+Name: system/usr/lib/opkg/alternatives/tee
+SHA1-Digest-Manifest: U7AThm8g4I85AJJ10J1yzkiURbE=
+
+Name: system/etc/ppp/ip-down.d/__emptyfile__
+SHA1-Digest-Manifest: phJvXil/QYG30aaQWj79AlTe07Q=
+
+Name: system/usr/lib/xtables/libxt_policy.so
+SHA1-Digest-Manifest: +aysAccgOR+9eywkRPA8AYQlOI8=
+
+Name: system/etc/default/volatiles/01_bootlogd
+SHA1-Digest-Manifest: F/SODDIuuLN7on47ZrKT7RHR9tY=
+
+Name: system/usr/lib/xtables/libipt_ttl.so
+SHA1-Digest-Manifest: ytO8RVcNkoAdQClMmkZeBzKn/WQ=
+
+Name: system/usr/lib/busybox/bin/free
+SHA1-Digest-Manifest: IcQPhF/MWyuDLoBmG10kDP5pIOs=
+
+Name: system/lib/libexif.so.12.3.3
+SHA1-Digest-Manifest: pWanioJLIubnwExEQ1cuzh52HRs=
+
+Name: system/usr/lib/opkg/alternatives/whoami
+SHA1-Digest-Manifest: 2L4m1tAdbIGvjcmNyxmiU7MP0d0=
+
+Name: system/etc/init.d/functions.initscripts
+SHA1-Digest-Manifest: +SN3YVxlZtrAbEx2z96ZqonDbQI=
+
+Name: system/etc/udev/rules.d/__emptyfile__
+SHA1-Digest-Manifest: BAmKLUOhh79KmcK4Oldx6FF2JGg=
+
+Name: system/etc/init.d/qmuxd
+SHA1-Digest-Manifest: ZDEBbT5Ok8SW19DmDQZKIK902Gg=
+
+Name: system/usr/libexec/dhcpcd-hooks/29-lookup-hostname
+SHA1-Digest-Manifest: oxuPeUqZdpkdf97JJP+TaVfWXvs=
+
+Name: system/usr/lib/opkg/alternatives/syslog-conf
+SHA1-Digest-Manifest: T+u/+pQmwzUTrR88z9gkM2k/BRA=
+
+Name: system/etc/skel/__emptyfile__
+SHA1-Digest-Manifest: d0HwbUHM/xSkkX/L8NFENvwCkPw=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_I2S
+SHA1-Digest-Manifest: T3bSBW3gxOWfTj61iRyZ88CaCUs=
+
+Name: system/usr/lib/perl/config.sh
+SHA1-Digest-Manifest: Now/6q8Yjrh1AwHnWEndBRXu6jY=
+
+Name: system/usr/lib/busybox/sbin/start-stop-daemon
+SHA1-Digest-Manifest: 2EZUMB/G/lLhta6XjP+AqaKXitY=
+
+Name: system/usr/share/info/__emptyfile__
+SHA1-Digest-Manifest: R3v+gbblacxvymiSCadnFpXG2kA=
+
+Name: system/usr/sbin/ebtables
+SHA1-Digest-Manifest: WeRXX/nyft3p1ELhc+EswT8k6kA=
+
+Name: system/usr/lib/busybox/bin/stat
+SHA1-Digest-Manifest: tHYBvccc9EDvnYj+8C4Hmos4V64=
+
+Name: system/usr/lib/busybox/bin/linux64
+SHA1-Digest-Manifest: 1U74r6xWgs/zzcaxj46MWzLnqas=
+
+Name: system/usr/lib/opkg/alternatives/setlogcons
+SHA1-Digest-Manifest: nUUM12KjacNOtixYTkk6hLgMtFM=
+
+Name: system/media/realroot/__emptyfile__
+SHA1-Digest-Manifest: pBZSXVVNbqR4focRvg5rc5t5/+M=
+
+Name: system/usr/lib/libunwind.so.0.0.0
+SHA1-Digest-Manifest: TWg9xFZbRxrsfJU2iVyav78pjXs=
+
+Name: system/usr/lib/perl/5.22.0/IO/Socket/UNIX.pm
+SHA1-Digest-Manifest: grA5VSSiLY/fZG3M+6Di2J5Davg=
+
+Name: system/lib/firmware/wlan/qca_cld/WCNSS_qcom_cfg.ini
+SHA1-Digest-Manifest: l/SAc75hzEsrNkFxqwDj7dR6pUQ=
+
+Name: system/usr/share/gdb/system-gdbinit/__emptyfile__
+SHA1-Digest-Manifest: fo/ZwM4gQUKLe0q//+FqHVCKf4U=
+
+Name: system/usr/lib/opkg/alternatives/swapoff
+SHA1-Digest-Manifest: 0rR+uiB/vsIkzkDdbMsBXYpiz+U=
+
+Name: system/usr/lib/perl/5.22.0/IO.pm
+SHA1-Digest-Manifest: Xg9NKaYEc+0NI6aZFdT0N9Bb8lc=
+
+Name: system/sbin/usb/compositions/F000
+SHA1-Digest-Manifest: 2M/MOdhifpe6hAvtqr2oaTA8HU0=
+
+Name: system/usr/lib/xtables/libxt_esp.so
+SHA1-Digest-Manifest: CiBZ9Tuf5DN9rtiE9vqyyZIabJQ=
+
+Name: system/usr/lib/modules/4.14.190/extra/stub_dlkm.ko
+SHA1-Digest-Manifest: HFiMg6ntuZzCbvKqTtB1X4KwRL0=
+
+Name: system/usr/lib/modules/4.14.190/modules.order
+SHA1-Digest-Manifest: KE+cQ8UbWFhpEdVxv6u/rYvY2Gk=
+
+Name: system/usr/lib/busybox/sbin/delgroup
+SHA1-Digest-Manifest: zpEBziKOO7qGj1sHE0iz6cgo3KU=
+
+Name: system/usr/libexec/dhcpcd-hooks/__emptyfile__
+SHA1-Digest-Manifest: +bmjpH7coUBOhQH+fMGrQeJP1c0=
+
+Name: system/usr/lib/busybox/bin/linux32
+SHA1-Digest-Manifest: KxidqqwbMtMMuLQMzBK4JzRErNI=
+
+Name: system/etc/rpc
+SHA1-Digest-Manifest: pAE/DByWae4+cQK9BviEon4xeg8=
+
+Name: system/usr/lib/busybox/bin/timeout
+SHA1-Digest-Manifest: OWXFSAJy9RYyDC02FaupVPxEp+8=
+
+Name: system/usr/lib/busybox/sbin/inetd
+SHA1-Digest-Manifest: ztWSFGjIlZugejLFtJ08vP+WJDE=
+
+Name: system/usr/bin/DS_MUX
+SHA1-Digest-Manifest: TiI5loy8nMloPK7R8No+DKbfAgc=
+
+Name: system/usr/bin/mem-monitor.sh
+SHA1-Digest-Manifest: LeSvAMZi5YVOiQe6rF1bq0QCm8Y=
+
+Name: system/usr/bin/setleds
+SHA1-Digest-Manifest: VLQrErW9wOK8m0QleTGz98m9T50=
+
+Name: system/usr/lib/libizat_core.la
+SHA1-Digest-Manifest: DZO03MFRhlBedTR+DbruvxEtyaI=
+
+Name: system/sbin/tc
+SHA1-Digest-Manifest: o1yUqNh5YArKExqPtEWe3/1PTSA=
+
+Name: system/usr/lib/busybox/sbin/freeramdisk
+SHA1-Digest-Manifest: aYlpoVDiRJ1u+v1nePElFqijQlw=
+
+Name: system/usr/lib/busybox/bin/mkdir
+SHA1-Digest-Manifest: iIR+78igAatDmswekZtyCCW/es0=
+
+Name: system/etc/init.d/csdserver
+SHA1-Digest-Manifest: laOXGzoiP0NqzviInYOwEjN9y9c=
+
+Name: system/usr/lib/busybox/bin/cksum
+SHA1-Digest-Manifest: paQ0o6woVyo0ALhZfX0SlQVZqk8=
+
+Name: system/cavnv/__emptyfile__
+SHA1-Digest-Manifest: 8JSrvaiqgeHjcKy0nlQ7d5IW/3s=
+
+Name: system/etc/filesystems
+SHA1-Digest-Manifest: wvVWT5RqAHfI8+MVpQyB8xUHfC4=
+
+Name: system/usr/lib/busybox/bin/unexpand
+SHA1-Digest-Manifest: GAa7ZbtJYirgec74+/1bSJdE2nI=
+
+Name: system/usr/lib/opkg/alternatives/scriptreplay
+SHA1-Digest-Manifest: jacDpg2/hNKbbAhc2ihIrXruK44=
+
+Name: system/usr/lib/busybox/bin/sha256sum
+SHA1-Digest-Manifest: fJ1SAKCM6yejF2HuogOwCgrogRQ=
+
+Name: system/usr/lib/busybox/sbin/arp
+SHA1-Digest-Manifest: t8kd/fWq/jOOY4BhJwlIcPltmWQ=
+
+Name: system/usr/lib/opkg/alternatives/diff
+SHA1-Digest-Manifest: VX8Xxnfcjb8EgY7lI1ailW8AHdM=
+
+Name: system/etc/terminfo/v/vt220
+SHA1-Digest-Manifest: FUFE7N/gBlQsp7Idx6S5/PC4BPw=
+
+Name: system/usr/lib/opkg/alternatives/hush
+SHA1-Digest-Manifest: Kcg+/62epeBXp+sbZ7KpK/ppNug=
+
+Name: system/etc/terminfo/__emptyfile__
+SHA1-Digest-Manifest: YChfFXqPh/Df4vwWnLTo0fNJMZU=
+
+Name: system/usr/lib/busybox/sbin/readprofile
+SHA1-Digest-Manifest: 4hH9oVvWwm0+fhqA0VcpjMzLUgI=
+
+Name: system/lib/libresolv-2.22.so
+SHA1-Digest-Manifest: Zka1QErIAJZXG9SmI7gCBB95Gnc=
+
+Name: system/etc/ppp/ip-down
+SHA1-Digest-Manifest: shCPC+/0p2xwlDL9ecVyajhwf20=
+
+Name: system/etc/init.d/umountfs
+SHA1-Digest-Manifest: TCYjtLz/P4JHnMtSNYPrAcqnah0=
+
+Name: system/usr/share/gdb/__emptyfile__
+SHA1-Digest-Manifest: Udk8r8kmwgUyS00jovjE/C2LVLo=
+
+Name: system/etc/passwd
+SHA1-Digest-Manifest: q+wF+DLejo+lMEUbmaCLu2RoNNU=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/spi/__emptyfile__
+SHA1-Digest-Manifest: 0HtI3XVNHrwNnN0MvPHreKoEPRw=
+
+Name: system/usr/lib/opkg/alternatives/slattach
+SHA1-Digest-Manifest: yNAoxa/lfZXLqPBI0rNxfkw+q5Y=
+
+Name: system/dev/sda
+SHA1-Digest-Manifest: v38B4YEUEZLfhvAyaCouzy+g/is=
+
+Name: system/dev/sdb
+SHA1-Digest-Manifest: +ojiLVEoNsQyhZfLJQnv9YlRQVU=
+
+Name: system/usr/lib/busybox/sbin/killall5
+SHA1-Digest-Manifest: MYRzY0zuYI7POVkdsGL2JytgUkk=
+
+Name: system/usr/lib/libpugixml.so.1.0.0
+SHA1-Digest-Manifest: MW2rhiPKolBKicvBm5zRFVuoXhI=
+
+Name: system/usr/lib/busybox/sbin/fakeidentd
+SHA1-Digest-Manifest: aSDEo1juTho6kN6QQIA/NsbEijY=
+
+Name: system/usr/lib/libdaemon.so.0.5.0
+SHA1-Digest-Manifest: 2jUyJw2hpER3EfV/4TLxvstZU4s=
+
+Name: system/etc/init.d/start_stop_qmi_ip_multiclient
+SHA1-Digest-Manifest: mqH9FIMF9YLLwPr6cDk4o8WUAOY=
+
+Name: system/usr/lib/libaudcal.so.1.0.0
+SHA1-Digest-Manifest: osZzQHWEBQP+GgiTnKX/F/CJDYo=
+
+Name: system/usr/lib/perl/5.22.0/IO/__emptyfile__
+SHA1-Digest-Manifest: ENnwheVjl0h3aXZyLMkwMyUVyyc=
+
+Name: system/bin/su.shadow
+SHA1-Digest-Manifest: E4rsM8JzvOUJG/0NiYa9BCS6aj4=
+
+Name: system/usr/share/tinyproxy/__emptyfile__
+SHA1-Digest-Manifest: KX5gSdpf6/gqO/9nPbG47cDEm7A=
+
+Name: system/usr/lib/xtables/libip6t_ipv6header.so
+SHA1-Digest-Manifest: tBxMNHmK5kLoCbw9OC+RUh0rkDI=
+
+Name: system/usr/share/misc/__emptyfile__
+SHA1-Digest-Manifest: aMNOqfGUv/KkbnUCvfYdGLkdl60=
+
+Name: system/usr/lib/opkg/alternatives/unexpand
+SHA1-Digest-Manifest: 7lVQ6zeW2GxiUW2gVMClpySp3f8=
+
+Name: system/etc/ebtables/ebtables-config
+SHA1-Digest-Manifest: 3FLfEzoZlZrCetXiNiJ+hh9mpJU=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/mmc/core/mmc_test
+ .ko
+SHA1-Digest-Manifest: 87PqcTI5/Z1JXnBNpMIyM9LtRmQ=
+
+Name: system/usr/sbin/nl-cls-list
+SHA1-Digest-Manifest: MW17WCsa4Q4cPuR6nG86vqoZBC0=
+
+Name: system/etc/init.d/start_audio_le
+SHA1-Digest-Manifest: OlJ81B9roddqhOyZ3iZlk9uauPk=
+
+Name: system/etc/init.d/shutdown
+SHA1-Digest-Manifest: HWo0xGzJd0sSJy15D+tRYdxflZ8=
+
+Name: system/usr/lib/opkg/alternatives/[[
+SHA1-Digest-Manifest: QN9kZcUlAPtE5iucSOdAdYk91QU=
+
+Name: system/dev/tty2
+SHA1-Digest-Manifest: gIypUaVxkfG0+bebyadu+ZmUCGQ=
+
+Name: system/dev/tty1
+SHA1-Digest-Manifest: C9XOGCOopv+I6CsNhktXe0SN3XE=
+
+Name: system/etc/nsswitch.conf
+SHA1-Digest-Manifest: O1lJsSmCYyB/FpHvf0zuMTSE86o=
+
+Name: system/usr/lib/libdrmfs.so.1.0.0
+SHA1-Digest-Manifest: qMqApt61ywckFP01ILYZ/XLxLVg=
+
+Name: system/dev/tty0
+SHA1-Digest-Manifest: 5kGCOoHdc88o4y3gnPKtprgv02E=
+
+Name: system/usr/lib/busybox/bin/md5sum
+SHA1-Digest-Manifest: sEr0ejCoO8I1BhYY+RnRRHADGBI=
+
+Name: system/dev/tty6
+SHA1-Digest-Manifest: LlTEUf3EVOnNBKFzQgLozefBQ68=
+
+Name: system/dev/tty5
+SHA1-Digest-Manifest: t530hHL3ABl0ZZ4lFWKcnY2KGSk=
+
+Name: system/dev/tty4
+SHA1-Digest-Manifest: PGlzEPDoeDXmguBIxtdriVUaGTs=
+
+Name: system/dev/tty3
+SHA1-Digest-Manifest: jpjMmECX5Sg6sRFq9ee+osDHgMo=
+
+Name: system/dev/tty7
+SHA1-Digest-Manifest: TG8s4Tt1TTRF9fxpYV+GQ9GHChA=
+
+Name: system/usr/lib/xtables/libipt_addrtype.so
+SHA1-Digest-Manifest: o4V7TAKXcZyhCkJeLV0luUbj590=
+
+Name: system/usr/bin/wcnssfilter
+SHA1-Digest-Manifest: xPWVtpmt1pOHYDERzoq5IQJs37A=
+
+Name: system/usr/lib/opkg/alternatives/grep
+SHA1-Digest-Manifest: TM+kRsw1NtpafN7DiJg/3krZb+I=
+
+Name: system/usr/lib/busybox/bin/fuser
+SHA1-Digest-Manifest: KDXq1Q8s8OCAD6CjOS+9I9jhsrw=
+
+Name: system/etc/systemd/system/chgrp-diag.service.d/__emptyfile__
+SHA1-Digest-Manifest: v8UL/zW0iW38p9yuk5zNvaYhcpY=
+
+Name: system/lib/pkgconfig/libavutil.pc
+SHA1-Digest-Manifest: WUpI2oBYlaUkxAiQbVCteIjIOX0=
+
+Name: system/etc/mdev/automountsdcard.sh
+SHA1-Digest-Manifest: ayK+OyJYUip+I6afJOQriZ7Rxdo=
+
+Name: system/usr/lib/busybox/bin/false
+SHA1-Digest-Manifest: LlETyjAsNaPG3gQqu0eajp0H1OQ=
+
+Name: system/home/input/.bashrc
+SHA1-Digest-Manifest: vOypTxsb/6CYqPdMJu+jEMbjirE=
+
+Name: system/usr/bin/unicode_stop
+SHA1-Digest-Manifest: XX1FR3iLzwzaa4FBEx/2Zz0+V+k=
+
+Name: system/etc/terminfo/x/xterm-color
+SHA1-Digest-Manifest: zGXx7Q0FszoC56sxFMM+ANvag74=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/mmc/core/__emptyf
+ ile__
+SHA1-Digest-Manifest: gjY7mLguByc+ad4InJLszN8ehD8=
+
+Name: system/etc/udev/__emptyfile__
+SHA1-Digest-Manifest: xgQ3T1XA8aPqzqBzEJDecJWdi/8=
+
+Name: system/usr/lib/busybox/sbin/swapoff
+SHA1-Digest-Manifest: ViNIBsTSr340ahl85RgGir6g7F4=
+
+Name: system/usr/bin/dbus-monitor
+SHA1-Digest-Manifest: g0ZjzL/yX76URx7NjjJZ/mmToFU=
+
+Name: system/etc/dbus-1/session.d/__emptyfile__
+SHA1-Digest-Manifest: VO51qbvcyx/TPXGNHmMRsV0R6/Y=
+
+Name: system/usr/lib/libaudioalsa.so.1.0.0
+SHA1-Digest-Manifest: HBeUK1iPCle9rqRlzF2JFt6CqDI=
+
+Name: system/etc/init.d/hwclock.sh
+SHA1-Digest-Manifest: +LOBMrI+cfy1vIgYGBd0x6cnz78=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_8x10_wcd_skuaa
+SHA1-Digest-Manifest: H1uMv9CrUIKLycpERv2IVvuxivE=
+
+Name: system/media/ram/__emptyfile__
+SHA1-Digest-Manifest: tYUbJ8NmbPue0T3BABJev/jM7k4=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_8x10_wcd_skuab
+SHA1-Digest-Manifest: PhMTxi/rMmpbo+Ym0/rkzRLhzuw=
+
+Name: system/usr/lib/mod_accesslog.so
+SHA1-Digest-Manifest: nwgR0JohWcVhAjY4Huk4u38e260=
+
+Name: system/usr/lib/opkg/alternatives/ifconfig
+SHA1-Digest-Manifest: TfwmUCUZ8peuArkzJr+L8wbKu1o=
+
+Name: system/usr/lib/modules/4.14.190/modules.alias.bin
+SHA1-Digest-Manifest: KOZ2brZPbthjt6JTdeY/HttHe4k=
+
+Name: system/etc/network/if-post-down.d/__emptyfile__
+SHA1-Digest-Manifest: Z5buXpSjktKJqCdGxltb7LxrYIU=
+
+Name: META-INF/com/android/otacert
+SHA1-Digest-Manifest: QW7yPFUPbhU0tUYKW4i2EdneCnw=
+
+Name: system/usr/lib/opkg/alternatives/sync
+SHA1-Digest-Manifest: BvygfxqEzWSI/Umk3DG2yGMnLiU=
+
+Name: system/usr/lib/busybox/sbin/mkswap
+SHA1-Digest-Manifest: au4CVgmwbRauy+A03YMhGG7nYEs=
+
+Name: system/usr/lib/perl/5.22.0/IO/Socket/__emptyfile__
+SHA1-Digest-Manifest: Zo/AG18whoESP9qadxKUnXxqScE=
+
+Name: system/usr/bin/test_diag
+SHA1-Digest-Manifest: KyGKVKK3Fc2H8hePHPc+0LQzUIk=
+
+Name: system/usr/lib/libevent_observer.so.1.0.0
+SHA1-Digest-Manifest: U70KGM///pJhUEoeRtJzJQeRetY=
+
+Name: system/usr/bin/qmi_test_service_clnt_test_2000
+SHA1-Digest-Manifest: yooaQ/jqrhkWsRsvT50BFS/V9fo=
+
+Name: system/usr/lib/perl/5.22.0/Symbol.pm
+SHA1-Digest-Manifest: FuWwvjiR4TckdoerCCNUMunxi+4=
+
+Name: system/usr/lib/busybox/bin/wget
+SHA1-Digest-Manifest: Q2+fCj7stlPEhWMCdzoP27zPK7c=
+
+Name: system/usr/sbin/ubirename
+SHA1-Digest-Manifest: sagZL0ZgO1M5or2uAyIGN3AqddI=
+
+Name: system/sbin/usb/debuger/__emptyfile__
+SHA1-Digest-Manifest: elyZOaakXmufGe0Yzkwa0bKS54k=
+
+Name: system/etc/init.d/start_wlan_services
+SHA1-Digest-Manifest: lMP0WptmdyGywovvY3LaK8tQzak=
+
+Name: system/usr/lib/libsqlite3.so.0.8.6
+SHA1-Digest-Manifest: tclrzCuPY+0AVM+6ps8Wxa746ok=
+
+Name: system/home/graphics/.bashrc
+SHA1-Digest-Manifest: YveyS2VNeyGKsKLwZPe7w0RSf6Y=
+
+Name: system/usr/lib/libssl.so.1.0.0
+SHA1-Digest-Manifest: c6Nxcw4JczIpxI7GsEFhtl29TeU=
+
+Name: system/usr/lib/opkg/alternatives/bunzip2
+SHA1-Digest-Manifest: 3kyD1ola+6EYrQLsO6mv4y8SpIc=
+
+Name: system/usr/lib/busybox/bin/nice
+SHA1-Digest-Manifest: V0wbJV7dIf619ReKym/cMHeDD84=
+
+Name: system/usr/lib/libgnsspps.so.1.0.0
+SHA1-Digest-Manifest: VsCdKWXGueQYg7mL7DjK2Cn7UAQ=
+
+Name: META-INF/com/android/metadata
+SHA1-Digest-Manifest: Mm3X31AMLPCGiwLaRpUBImt9W6w=
+
+Name: system/etc/init.d/miniupnpd
+SHA1-Digest-Manifest: QVt+DjlM1Grsvr205aYNSYFSAyU=
+
+Name: system/usr/lib/dbus/dbus-daemon-launch-helper
+SHA1-Digest-Manifest: 4fziA7zX+lDfQvX9asdnxNDPTzA=
+
+Name: system/etc/ppp/chap-secrets
+SHA1-Digest-Manifest: tgSUNapi8/ZiPtSv1AOLFPLVPvI=
+
+Name: system/usr/bin/IoEConsoleClient
+SHA1-Digest-Manifest: PHGHK4HbothdH6I3g4KxjnHer0g=
+
+Name: system/usr/lib/opkg/alternatives/crond
+SHA1-Digest-Manifest: kKuePhhqWOb/9rRjHEoV+gdwUhc=
+
+Name: system/usr/bin/setkeycodes
+SHA1-Digest-Manifest: Lf0d01QmRqLS5Q3/JvU9f1Qer+U=
+
+Name: system/usr/lib/opkg/alternatives/usleep
+SHA1-Digest-Manifest: 1r565nM+js4XXJQxAaej9kGC++k=
+
+Name: system/etc/init.d/mdev
+SHA1-Digest-Manifest: k+XnXeTjpiofQqXhbOQh7q3X1AI=
+
+Name: system/usr/lib/busybox/bin/passwd
+SHA1-Digest-Manifest: oAmmcTCVc03OkD5Tqf4oIu6ibrg=
+
+Name: system/usr/lib/opkg/alternatives/more
+SHA1-Digest-Manifest: 54RsSsvXh8EuLEScyT6CKcxq4YQ=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: JASyHdZCaPNJ8KgucgR1yyRVfQc=
+
+Name: system/WEBSERVER/www/QCMAP_IPV4_Help.html
+SHA1-Digest-Manifest: zJf6NNPTC8rPMq/s4VG4JWOA7lQ=
+
+Name: system/usr/lib/opkg/alternatives/unxz
+SHA1-Digest-Manifest: CkxPsVu7gBpZ+3Rafp2lhVA+ew4=
+
+Name: system/usr/lib/opkg/alternatives/tunctl
+SHA1-Digest-Manifest: FWc2s4qc426d2j2ZD2NqfSnmZ6s=
+
+Name: system/etc/csm.conf
+SHA1-Digest-Manifest: 0BCjywPvkfAWlYrpIkFydHbJeik=
+
+Name: system/usr/lib/opkg/alternatives/runsvdir
+SHA1-Digest-Manifest: 2+cCAakTzZKfLwAAbvrNPGZkOHE=
+
+Name: system/etc/timestamp
+SHA1-Digest-Manifest: SgCtR4ykOparRgHW/wZ5BuDYGOE=
+
+Name: system/sbin/shutdown.sysvinit
+SHA1-Digest-Manifest: E8d0vlAweE8Z3G1nrDP8ZOitJUE=
+
+Name: system/usr/bin/qti_ppp
+SHA1-Digest-Manifest: 4n6NGDFv7AgHvkU6U+RlfJ+sLV4=
+
+Name: system/usr/lib/opkg/alternatives/cal
+SHA1-Digest-Manifest: uu8y3OyzWeAyUSrfl78OaYHJgy0=
+
+Name: system/WEBSERVER/www/js/jquery-ui.css
+SHA1-Digest-Manifest: GawJx73q7CGngeHdTsxbhra5yvc=
+
+Name: system/usr/lib/opkg/alternatives/kill
+SHA1-Digest-Manifest: 1OlAQcaNJxLBPbS1aRdkk57Y5nk=
+
+Name: system/usr/bin/qrtr-lookup
+SHA1-Digest-Manifest: BvLw4w7WqX5E9knVFeydQDbKuBY=
+
+Name: system/usr/lib/opkg/alternatives/catv
+SHA1-Digest-Manifest: CPQHBLF+Vt3qUbpi2oOBiJZEzEk=
+
+Name: system/usr/lib/busybox/bin/setsid
+SHA1-Digest-Manifest: ggXIa5Wb5Kon4hBTYf7ZNgBcXcY=
+
+Name: system/usr/lib/opkg/alternatives/fgconsole
+SHA1-Digest-Manifest: +5i62hHXv/kjcr44XBQG50L7qjQ=
+
+Name: system/usr/lib/opkg/alternatives/cat
+SHA1-Digest-Manifest: 7IZL3Rc4WqoUiXkJItEPmzOOZ5I=
+
+Name: system/usr/lib/perl/5.22.0/DynaLoader.pm
+SHA1-Digest-Manifest: OJNnotop9ry94ZmlZOcqaZ/NoFs=
+
+Name: system/etc/terminfo/a/__emptyfile__
+SHA1-Digest-Manifest: arDmNXSDPbWRdOVB/9/PmC3UDdU=
+
+Name: system/usr/share/tinyproxy/default.html
+SHA1-Digest-Manifest: /mnPTMim+vUrgYlnfWwl+XpsWOE=
+
+Name: system/etc/init.d/mem-monitor
+SHA1-Digest-Manifest: 4kXq+La6OIrwzo2EJ1sFKac78uw=
+
+Name: system/etc/issue
+SHA1-Digest-Manifest: D84S7Mh0b7rTzglJbR1lE74Ed1Q=
+
+Name: system/usr/lib/opkg/alternatives/tar
+SHA1-Digest-Manifest: gbaJ5KH8wx8jkxHiTqbO3MynezQ=
+
+Name: system/usr/lib/libcurl.so.4.4.0
+SHA1-Digest-Manifest: 3S29H1BJdbwMmLLBDoO8urxJMcg=
+
+Name: system/usr/bin/wall.sysvinit
+SHA1-Digest-Manifest: JioX4gXFB6TZXyzuG1NI7foJmWk=
+
+Name: system/usr/lib/opkg/alternatives/svlogd
+SHA1-Digest-Manifest: E7+VANtVeGYo5BgSdJrn1EWnchg=
+
+Name: system/home/gps/.profile
+SHA1-Digest-Manifest: /5LtcKcoj2/7IL+92weNkYY5tX8=
+
+Name: system/cache/__emptyfile__
+SHA1-Digest-Manifest: 983wYgN0JMPTJnzg0QGhySw8TE0=
+
+Name: system/usr/lib/opkg/alternatives/dirname
+SHA1-Digest-Manifest: 1t8ack2M2SDT2kEKo66gFjhpK/A=
+
+Name: system/usr/lib/busybox/sbin/reboot
+SHA1-Digest-Manifest: I3bOaWQ/JmZVdp4rIaBMgZXLCe0=
+
+Name: system/dev/console
+SHA1-Digest-Manifest: ewW+InSLoO1yUwdCSlRxHsSGP+M=
+
+Name: system/lib/librt-2.22.so
+SHA1-Digest-Manifest: v1ONfocDh1t6CbJt7leMgB4DE2g=
+
+Name: system/etc/init.d/umountnfs.sh
+SHA1-Digest-Manifest: czAqydCz96hmKcCWNg5w7xDPY+w=
+
+Name: system/etc/terminfo/r/rxvt
+SHA1-Digest-Manifest: NsMxD1/Ntvgr6hVdazLoG6y8vn4=
+
+Name: system/lib/pkgconfig/__emptyfile__
+SHA1-Digest-Manifest: EsFWRyp9ZTWDP/JkZRnycUAZcis=
+
+Name: system/etc/init.d/modutils.sh
+SHA1-Digest-Manifest: o8M3nZJmiK0dLYMsn7y1dpQMVJM=
+
+Name: system/etc/udhcpc.d/udhcpc.script
+SHA1-Digest-Manifest: fhcJ1v589a0TpUJvRCfCP8zjCSg=
+
+Name: system/usr/lib/xtables/libxt_SECMARK.so
+SHA1-Digest-Manifest: oJbMtN3TLEXHLO1KCwFPsfVMJ4M=
+
+Name: system/usr/lib/libloc_core.la
+SHA1-Digest-Manifest: zohDy9JaDMy2V053eiAyryQoa7k=
+
+Name: system/home/qmmfsvr/.bashrc
+SHA1-Digest-Manifest: yrvdc695FdynJbx61iVWjagJbOo=
+
+Name: system/usr/lib/opkg/alternatives/tac
+SHA1-Digest-Manifest: G548B7C/abVODUcXtUUH1BfxY+c=
+
+Name: system/usr/share/gdb/syscalls/ppc64-linux.xml
+SHA1-Digest-Manifest: 6sQ0JLuyxGc4Y3l4l8cg1FRsSqo=
+
+Name: system/usr/lib/opkg/alternatives/rdate
+SHA1-Digest-Manifest: w3TmcmRKMJiPWDq102Q6SnSOhAQ=
+
+Name: system/sbin/killall5
+SHA1-Digest-Manifest: eMXgzzGOfX6OrxhnW8uD71Dp7qg=
+
+Name: system/usr/share/gdb/system-gdbinit/wrs-linux.py
+SHA1-Digest-Manifest: AYXlxX+22RveH7LHLr2rfSehFOg=
+
+Name: system/usr/lib/busybox/bin/watch
+SHA1-Digest-Manifest: q4J+spwQzOB0T3gl3vIwbElSKo0=
+
+Name: system/usr/lib/pkgconfig/libutils.pc
+SHA1-Digest-Manifest: wU7IriLS192o3kDq6M1sJo4YFw8=
+
+Name: system/usr/lib/libxtwifi_tile.so.1.0.0
+SHA1-Digest-Manifest: zn03TNJVmTgeKvIXODQuWkUU8gw=
+
+Name: system/usr/lib/libebtable_broute.so
+SHA1-Digest-Manifest: xZ0cFZIOxGoti28J9RHYee05kHM=
+
+Name: system/usr/lib/opkg/alternatives/microcom
+SHA1-Digest-Manifest: HLSnY1gOcftpBp2GxJH5gRp63JY=
+
+Name: system/bin/login.shadow
+SHA1-Digest-Manifest: AlfSpa93lGtTzOwYFc6J5EmsdbM=
+
+Name: system/usr/lib/opkg/alternatives/lastb
+SHA1-Digest-Manifest: Idq8krQMsJBpvHYmDqXnOgAqBss=
+
+Name: system/lib/libtinfo.so.5.9
+SHA1-Digest-Manifest: yLeNQL26i8UbKUPravz4HbjaGII=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/net/nf_conntrack_
+ rtsp.ko
+SHA1-Digest-Manifest: dn7SJkhxbk01dCsmI/C3PsK45hY=
+
+Name: system/usr/lib/opkg/alternatives/lbracket
+SHA1-Digest-Manifest: oG0+CxqXyCFaqYzNXPwrzD6rsSQ=
+
+Name: system/etc/mdev/usb.sh
+SHA1-Digest-Manifest: p0WR37Q/tXWtdH2JWWWxlvxB+xo=
+
+Name: system/usr/bin/gcore
+SHA1-Digest-Manifest: k+iYp5L6puBbJ9ET9EjaJGHKxFg=
+
+Name: system/usr/bin/setvtrgb
+SHA1-Digest-Manifest: cJ24nfXdaZRBhKC07OMxDrAYpHk=
+
+Name: system/usr/lib/opkg/alternatives/getty
+SHA1-Digest-Manifest: zHG5wGUNFg950RE2T3nDWtplW2c=
+
+Name: system/etc/ppp/ipv6-up
+SHA1-Digest-Manifest: yCYf+jA0pwk6Y3Ta3+2plMSVQrI=
+
+Name: system/usr/lib/xtables/libxt_length.so
+SHA1-Digest-Manifest: Z6jmlPB3Mp27/qOxxdyL8m+hqR8=
+
+Name: system/home/sensors/__emptyfile__
+SHA1-Digest-Manifest: IfCMVRzHLbUpXLcTPAmE8V8OEdg=
+
+Name: system/usr/bin/atcmd
+SHA1-Digest-Manifest: 1z0FPHHWRQBfLyrfM3+ikScuGnA=
+
+Name: system/usr/lib/busybox/sbin/arping
+SHA1-Digest-Manifest: bj0HfX75LiJ7+iQuTxSPr183IR0=
+
+Name: system/usr/bin/perl5.22.0
+SHA1-Digest-Manifest: eUdmYjSYm/a0oh72Ec76KhyWCvk=
+
+Name: system/usr/lib/libloc_stub.so.1.0.0
+SHA1-Digest-Manifest: asKIYUG4BJw3A9fK9+Az9ULsMaE=
+
+Name: system/usr/lib/opkg/alternatives/head
+SHA1-Digest-Manifest: AlvMg0boXPjBVsPM4Fzd0IfQjgk=
+
+Name: system/usr/lib/opkg/alternatives/iproute
+SHA1-Digest-Manifest: keIZBUrOFy3qvDl/Y8Yw9P6btKg=
+
+Name: system/home/audio/__emptyfile__
+SHA1-Digest-Manifest: Zk34deFPJBzaL79YEZLTDD0UDpM=
+
+Name: system/usr/lib/perl/5.22.0/Exporter/Heavy.pm
+SHA1-Digest-Manifest: 1HzV11of7vHBTbmeQl4IgiGIp/c=
+
+Name: system/usr/lib/xtables/libxt_time.so
+SHA1-Digest-Manifest: O+xoRpiNF6KgEfisPayTXYu2ahE=
+
+Name: system/usr/lib/opkg/alternatives/basename
+SHA1-Digest-Manifest: BFBAPMmlQ9WfNRVIa9vozQoo+Do=
+
+Name: system/etc/firmware/__emptyfile__
+SHA1-Digest-Manifest: 0lYiEM7nWNErN2Ctycw4IVPffU0=
+
+Name: system/home/logd/.profile
+SHA1-Digest-Manifest: f8e16+MQmqMmrNGKD2vMvUdZCcM=
+
+Name: system/usr/lib/opkg/alternatives/deluser
+SHA1-Digest-Manifest: gvfcRMZlA0An1s74PmNU9Ej48PA=
+
+Name: system/home/logd/.bashrc
+SHA1-Digest-Manifest: FaQuXeWQFreSSxHeYkl2TD7hlk0=
+
+Name: system/usr/lib/busybox/bin/stty
+SHA1-Digest-Manifest: Nx9aL+v/FHvOVhR6Ga96/7HvXdg=
+
+Name: system/usr/lib/busybox/bin/fgconsole
+SHA1-Digest-Manifest: T3MfgyS7upIDn6xnaDJIjuuXDXg=
+
+Name: system/usr/libexec/dhcpcd-hooks/01-test
+SHA1-Digest-Manifest: k7cGtaIn2T6OOEu5zI0grSakn6E=
+
+Name: system/usr/lib/mod_redirect.so
+SHA1-Digest-Manifest: CKnMlXbd21n5w8KMjkw3JSkYqfo=
+
+Name: system/lib/libnss_mdns4_minimal.so.2
+SHA1-Digest-Manifest: eoC8x21H+3PcBmw2t/6zb9q6+8A=
+
+Name: system/usr/lib/busybox/sbin/ifup
+SHA1-Digest-Manifest: 5/DeNVhwG95PiaoXi3Pbhf8BpPo=
+
+Name: system/usr/lib/libjpeg.so.8.0.2
+SHA1-Digest-Manifest: 4dIt6/U+N0Txh3ew6AsaDgOVrIA=
+
+Name: system/var/lib/arpd/__emptyfile__
+SHA1-Digest-Manifest: RUJ6keFoQ8luxLCvNyeiOrC5JG4=
+
+Name: system/etc/udev/rules.d/50-log.rules
+SHA1-Digest-Manifest: gY3f/qyOx0ClG2UPxxCXhm6GoKc=
+
+Name: system/usr/bin/btapp
+SHA1-Digest-Manifest: D6jx5M2mJy38IdVOYDrwN1/938k=
+
+Name: system/usr/lib/busybox/bin/sha512sum
+SHA1-Digest-Manifest: jcVj32TBzeXTTP4Swxt+LHOsx7Y=
+
+Name: system/usr/lib/busybox/bin/ftpput
+SHA1-Digest-Manifest: dqOPzX1FOvgyBURzrUuLiFlqPYA=
+
+Name: system/usr/lib/opkg/alternatives/chpst
+SHA1-Digest-Manifest: VIaizP7TFfwe6U4HPpCp3cLMnGs=
+
+Name: system/etc/terminfo/s/sun
+SHA1-Digest-Manifest: lB6zIV1z1cYPwUZX3f65STw5ZeQ=
+
+Name: system/usr/share/glib-2.0/schemas/gschema.dtd
+SHA1-Digest-Manifest: U1lDA2eqSkqkWmCX082N0OxaJQM=
+
+Name: system/usr/sbin/ebtables-save
+SHA1-Digest-Manifest: QBKuAoZpq6z9xV6ic6GlRUyZA5A=
+
+Name: system/WEBSERVER/www/QCMAP_login.html
+SHA1-Digest-Manifest: gzs9wZ80QL2jUPZDAQcmQfrkvmQ=
+
+Name: system/usr/lib/xtables/libip6t_mh.so
+SHA1-Digest-Manifest: b5ZzRK4SeQ+/GjAKvDc4SLqz/so=
+
+Name: system/WEBSERVER/www/QCMAP_UPNP_DLNA_MDNS_Help.html
+SHA1-Digest-Manifest: KgMAr6q7LTTSmsHlfMidy8535bc=
+
+Name: system/usr/bin/nettle-pbkdf2
+SHA1-Digest-Manifest: YU/rD57JYUjUO9Gce2f/k5NJeIg=
+
+Name: system/etc/rcS.d/__emptyfile__
+SHA1-Digest-Manifest: DUMlPZ4tFy93oYMZAGhMHP7kZPg=
+
+Name: system/usr/lib/opkg/alternatives/mpstat
+SHA1-Digest-Manifest: LZTt65itRc1Sic/V8PNFyEVi1KU=
+
+Name: system/usr/lib/busybox/bin/who
+SHA1-Digest-Manifest: 1p5g41mnQAY6an68eB5ByIYQRtc=
+
+Name: system/usr/lib/libdrmtime.so.1.0.0
+SHA1-Digest-Manifest: Kmc2rEk9kmyFQNtfs0COPnwV4ug=
+
+Name: system/usr/bin/nettle-hash
+SHA1-Digest-Manifest: LEK7z6H9yLgqvGlWbZ2KTAYCPiY=
+
+Name: system/usr/lib/busybox/sbin/sysctl
+SHA1-Digest-Manifest: igUDW7/AAvTk2u1IGH5/GUKVIvg=
+
+Name: system/usr/lib/perl/5.22.0/auto/Sys/Hostname/Hostname.so
+SHA1-Digest-Manifest: 0MoYHPxEe28GPCvVtgad4kZa1t0=
+
+Name: system/usr/lib/xtables/libxt_IDLETIMER.so
+SHA1-Digest-Manifest: bxpIbrO1AzSKPh54Sge6vFkL7A0=
+
+Name: system/usr/sbin/pimd
+SHA1-Digest-Manifest: fqCDvLkuN+hCVsuXOvnleigUdWE=
+
+Name: system/usr/bin/thermal-engine
+SHA1-Digest-Manifest: xRG3LBCgi+0vmCHvqsMBnc2G8mY=
+
+Name: system/usr/lib/busybox/bin/dmesg
+SHA1-Digest-Manifest: NlztfOnof/65kGOyOw2/3AzozCo=
+
+Name: system/usr/lib/perl/5.22.0/warnings/register.pm
+SHA1-Digest-Manifest: vZ5Be6DJ4uh9Vwr4r2yiT2kpMBE=
+
+Name: system/usr/bin/qmi_test_mt_client_init_instance
+SHA1-Digest-Manifest: d/ocEbIW4Fbyn42AetLZxznK8r0=
+
+Name: system/usr/lib/busybox/bin/tftp
+SHA1-Digest-Manifest: MyeaNJogvhpqrFWjCSlkHcxN8ok=
+
+Name: system/usr/lib/busybox/bin/xargs
+SHA1-Digest-Manifest: D7PathtO+chNi9UIFCB0idMOa+4=
+
+Name: system/usr/lib/xtables/libipt_MIRROR.so
+SHA1-Digest-Manifest: KWS3E9Uuw0syJeCRWj5oCgUKifA=
+
+Name: system/usr/lib/libadbd.so.0.0.0
+SHA1-Digest-Manifest: 065odVhKMnTA4EV8cNoM1X975Z0=
+
+Name: system/usr/lib/opkg/alternatives/egrep
+SHA1-Digest-Manifest: ePnzjROiQZeC+f7jY59ih7zP2FY=
+
+Name: system/usr/lib/busybox/sbin/getty
+SHA1-Digest-Manifest: NFCuGw7cSpDVHkgZ2JRrCRHinBQ=
+
+Name: system/usr/lib/xtables/libxt_iprange.so
+SHA1-Digest-Manifest: dOrDoADfYIfJQ1VIGitzlEBD9kI=
+
+Name: system/usr/sbin/xtables-multi
+SHA1-Digest-Manifest: fzrkR7SMVQHik+/oI/dbHRpJ8Ig=
+
+Name: system/usr/lib/libqmi_client_helper.so.1.0.0
+SHA1-Digest-Manifest: mumEOSNTzOYmdfhHa6UWpORycZI=
+
+Name: system/usr/lib/perl/5.22.0/Socket.pm
+SHA1-Digest-Manifest: gU5waVK+qHR8hW3R86CLi+DrgjM=
+
+Name: system/share/udhcpc/__emptyfile__
+SHA1-Digest-Manifest: b0LCBKDazL8a9ou99JFZfqEUUN0=
+
+Name: system/usr/lib/perl/5.22.0/List/__emptyfile__
+SHA1-Digest-Manifest: gsl5ZuJ/a/55PBH9lN6V4X7VIPE=
+
+Name: system/usr/libexec/dhcpcd-hooks/50-dhcpcd-compat
+SHA1-Digest-Manifest: rrfX3H8e5JSn0rP0OyxI7zL6iD0=
+
+Name: system/sbin/fs-scrub-daemon
+SHA1-Digest-Manifest: msgbrq9o3ZCiyix7iipL3yCM5LQ=
+
+Name: system/usr/lib/busybox/bin/pkill
+SHA1-Digest-Manifest: kSiZWJzd5V5wUGPa0AXJgqkv6SY=
+
+Name: system/usr/lib/opkg/alternatives/sulogin
+SHA1-Digest-Manifest: 9mdnk0O3TbY/5bGiHYvqSO1aBPY=
+
+Name: system/usr/sbin/iw
+SHA1-Digest-Manifest: HXEWMf3sMe3RKgE81OAjxQRgle8=
+
+Name: system/etc/terminfo/s/screen
+SHA1-Digest-Manifest: JTiCQ5Qi4a8SMJ+oIkVQ/JPBm8k=
+
+Name: system/usr/bin/qcbtdaemon
+SHA1-Digest-Manifest: vdzD6pE9r+4EbeEoWJofkQnyqDo=
+
+Name: system/etc/cld-hostapd-wlan0.sh
+SHA1-Digest-Manifest: dX1JksIfQrUjOlRnUAQcusS8HyY=
+
+Name: system/etc/init.d/adbd
+SHA1-Digest-Manifest: trbjs9UnHZU32o6j4P/7PcNzvUc=
+
+Name: system/mnt/__emptyfile__
+SHA1-Digest-Manifest: oeQip2DqaGN3Qnsl9MSmafeUoqA=
+
+Name: system/usr/bin/fgconsole.kbd
+SHA1-Digest-Manifest: 83bg+r10tmPiignhf++AWohRgcM=
+
+Name: system/usr/lib/libgeofence.so.1.0.0
+SHA1-Digest-Manifest: FtCK2tJM4GlRFsTtetuedqh+Y70=
+
+Name: system/usr/lib/perl/5.22.0/IO/Handle.pm
+SHA1-Digest-Manifest: vhC5pk4LFp3P4q5awEy6wWR7/bY=
+
+Name: system/usr/lib/opkg/alternatives/logread
+SHA1-Digest-Manifest: ycK2CE4Uwf+ezh4fPcPhDqsMZN4=
+
+Name: system/usr/lib/opkg/alternatives/lzopcat
+SHA1-Digest-Manifest: n4SE+5XVlnPjtdyMHW4Kf34F83U=
+
+Name: system/usr/lib/perl/5.22.0/auto/List/__emptyfile__
+SHA1-Digest-Manifest: HIWSKX57p90m5Vej3N0HddA4ygo=
+
+Name: system/usr/lib/libgeofence.la
+SHA1-Digest-Manifest: v++b9jvSJSCYl2d2Oek4e7n/Dr8=
+
+Name: system/usr/lib/libbacktrace.so.0.0.0
+SHA1-Digest-Manifest: /nPFA0/C3AW2vkqOq0JcyrKjPdk=
+
+Name: system/usr/lib/xtables/libxt_limit.so
+SHA1-Digest-Manifest: G4DI7TbEWkf2l++nB718tIHr0Sk=
+
+Name: system/usr/lib/perl/5.22.0/constant.pm
+SHA1-Digest-Manifest: vPgixBQ6Nfea3LqOcLa3ADEEvKg=
+
+Name: system/etc/hosts
+SHA1-Digest-Manifest: h7UnNBw9fyjuXMyRVEfgNb/Oupg=
+
+Name: system/usr/sbin/wpa_cli
+SHA1-Digest-Manifest: jShkzK8d/iZ+mUXRwqzS+wajlQM=
+
+Name: system/usr/lib/busybox/sbin/logread
+SHA1-Digest-Manifest: unTEQjOlnUTGgB8TFg0gaLcVlDI=
+
+Name: system/usr/lib/xtables/libxt_MARK.so
+SHA1-Digest-Manifest: ZG+ucvAoOD7LTwPWLRnhZ76/R0s=
+
+Name: system/usr/lib/busybox/sbin/iproute
+SHA1-Digest-Manifest: Eu1dUyQ2gBGlgRy43f2YR5Ak7v4=
+
+Name: system/usr/lib/xtables/libipt_ah.so
+SHA1-Digest-Manifest: dujnUaDOw4ayQRsDoctCnId0bHc=
+
+Name: system/usr/lib/xtables/libxt_NFLOG.so
+SHA1-Digest-Manifest: PmcEJmHVYu0wk8EWBJsTR2R71sU=
+
+Name: system/usr/lib/opkg/alternatives/patch
+SHA1-Digest-Manifest: pbJ0oOfhKgP3l4adEkQ9VOg41Lk=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/mmc/__emptyfile__
+SHA1-Digest-Manifest: 4ON8HmdMEosBCBIMiK9gsCWb4IA=
+
+Name: system/usr/lib/libloc_hal_test_shim.so.1.0.0
+SHA1-Digest-Manifest: ma+Zk76JQmJCtXnoGQIhzTgMRwU=
+
+Name: system/etc/mdev/mdev-mount.sh
+SHA1-Digest-Manifest: rvd82oIlTzMuXX5UK/0QM5xCIG0=
+
+Name: system/usr/lib/opkg/alternatives/dumpkmap
+SHA1-Digest-Manifest: HmEgh6VQrytJgnHQfWmjB0j+WCY=
+
+Name: system/usr/lib/opkg/alternatives/mknod
+SHA1-Digest-Manifest: A+FgbCcHb03htoDduKoBKFxeers=
+
+Name: system/usr/bin/dumpkeys
+SHA1-Digest-Manifest: V2UeBp+WE4a7g70riPz7BVXceC0=
+
+Name: system/etc/udhcpc.d/50default
+SHA1-Digest-Manifest: p6m8Sj5+mQlfzqALS9zTFW2KX9E=
+
+Name: system/var/lib/opkg/__emptyfile__
+SHA1-Digest-Manifest: qiiAoeshHv1jCpR2aGoLLfCKxmQ=
+
+Name: system/usr/lib/opkg/alternatives/shutdown
+SHA1-Digest-Manifest: 9wf+V7zlVIsedBnG+W0Mq7hysmA=
+
+Name: system/usr/lib/busybox/bin/seq
+SHA1-Digest-Manifest: jpPy77oqnPtgbqOIaAkmsWmA/HU=
+
+Name: system/usr/lib/busybox/bin/expr
+SHA1-Digest-Manifest: 01hvhaQ1izYvFki5A+v6gs7SjKc=
+
+Name: system/usr/lib/liblbs_core.so.1.0.0
+SHA1-Digest-Manifest: kcASxtW1YHyc+DxHzCye1vx4HUE=
+
+Name: system/usr/lib/busybox/bin/sed
+SHA1-Digest-Manifest: FKGu/RgX3vWjlFf9ZISFnCYbKNs=
+
+Name: system/WEBSERVER/www/QCMAP_Account_Help.html
+SHA1-Digest-Manifest: P5yQnyApAUKaOhhTAIN/rp4Dpw8=
+
+Name: system/usr/sbin/tinyproxy
+SHA1-Digest-Manifest: dGLt9Ex9NXrTbOu48s7dbSO7Irk=
+
+Name: system/sbin/usb/debuger/help
+SHA1-Digest-Manifest: OhioqNge8NzebFCyVoT14SoH82k=
+
+Name: system/usr/lib/libmcm.so.0.0.0
+SHA1-Digest-Manifest: RZDxfytN06BIbUI4D5NuwkBhDY0=
+
+Name: system/usr/lib/busybox/sbin/popmaildir
+SHA1-Digest-Manifest: wBxyCD9JQtuZCWmDIoGDVRKW62Y=
+
+Name: system/usr/share/gdb/syscalls/sparc-linux.xml
+SHA1-Digest-Manifest: 1Zvrjt2CBjmTvRNC3ZmuEZYi/iY=
+
+Name: system/etc/init.d/single
+SHA1-Digest-Manifest: dBAOlthiY1Ca4C1lTe5cN6S3A7k=
+
+Name: system/home/radio/.bashrc
+SHA1-Digest-Manifest: k+RKclJ/6lAQ26zcP3S5e3r6fe8=
+
+Name: system/usr/lib/libebt_redirect.so
+SHA1-Digest-Manifest: IYGgWUpOTkj3CPMoQpWG8dIsDmY=
+
+Name: system/usr/lib/busybox/bin/netstat
+SHA1-Digest-Manifest: l4jfyP8rCR9aNgzHrx4zQLAMizg=
+
+Name: system/usr/lib/libloc_api_v02.la
+SHA1-Digest-Manifest: 3nLUeN64WxqPR2cFrchEu6PAm6Q=
+
+Name: system/usr/lib/modules/4.14.190/kernel/__emptyfile__
+SHA1-Digest-Manifest: Y32iCgTPfgP9zw6sBlq8tDmzI7o=
+
+Name: system/etc/init.d/reset_reboot_cookie
+SHA1-Digest-Manifest: OhFY5zXiK5KZNdOlsLa/Abt+uOM=
+
+Name: system/usr/lib/busybox/bin/cttyhack
+SHA1-Digest-Manifest: WmBRq+V5v015l0CtJ6kk/n2c+tg=
+
+Name: system/usr/bin/qti
+SHA1-Digest-Manifest: rPZCzzEK8H6Wfoc+CGmnZB9QPds=
+
+Name: system/usr/lib/opkg/alternatives/man
+SHA1-Digest-Manifest: fnmkc8ZWgjcQogz6rr4feGfUVxQ=
+
+Name: system/usr/lib/libqcmap_cm.so.1.0.0
+SHA1-Digest-Manifest: NDOnyIH3vKaqElwV9VulCoDg7g8=
+
+Name: system/etc/init.d/atcminitd
+SHA1-Digest-Manifest: CMukgTR816dsRdY/xD16NN2AfbY=
+
+Name: system/home/audio/.profile
+SHA1-Digest-Manifest: WCbyyUvPayaNHjuS6JxI72gakjg=
+
+Name: system/usr/lib/busybox/bin/bzcat
+SHA1-Digest-Manifest: FSFEMmTQ6f1Bx2nvUF9WfwvmDTM=
+
+Name: system/usr/lib/busybox/bin/chmod
+SHA1-Digest-Manifest: yNsiqJXSlwB0eRVIrzzVMoh5WRU=
+
+Name: system/usr/lib/opkg/alternatives/loadfont
+SHA1-Digest-Manifest: 993rWBoo0TpS0NSvblNvuVm3Iww=
+
+Name: system/usr/lib/busybox/bin/kbd_mode
+SHA1-Digest-Manifest: aNqTszwB1qacWGKJw7MSlCfnmI4=
+
+Name: system/usr/lib/busybox/bin/nohup
+SHA1-Digest-Manifest: wMxcU6sr5MfISMS5MUcIswbA/lQ=
+
+Name: system/etc/terminfo/x/xterm-xfree86
+SHA1-Digest-Manifest: GruqW+qAmrItOu25apD8nbrVD28=
+
+Name: system/usr/lib/xtables/libxt_quota.so
+SHA1-Digest-Manifest: DuZjvCi60xSwNFpo0Xxv0tTtIC0=
+
+Name: system/usr/lib/perl/5.22.0/warnings.pm
+SHA1-Digest-Manifest: Cpnlhz83FsVwqyBSWHGQ03OQdBs=
+
+Name: system/usr/lib/perl/5.22.0/XSLoader.pm
+SHA1-Digest-Manifest: jG9W77wWl18Id6rqs50PnW2vxVo=
+
+Name: system/lib/libz.so.1.2.8
+SHA1-Digest-Manifest: nE83wu0XWpN/AxUpQ39riuqdb2U=
+
+Name: system/usr/lib/libsysutils.so.0.0.0
+SHA1-Digest-Manifest: dl5NW04Ow6rrfleyBfRTllRaGsA=
+
+Name: system/lib/libBrokenLocale-2.22.so
+SHA1-Digest-Manifest: XPLmkbjO5PkDjqZTagJj/Srcxfk=
+
+Name: system/usr/bin/kbd_mode
+SHA1-Digest-Manifest: 68I8/rVHNTv7vBNzbgJ8zDjbgyc=
+
+Name: system/usr/lib/busybox/bin/resize
+SHA1-Digest-Manifest: RbQDt/NmviBFNY3zTU7AG1DEhF8=
+
+Name: system/usr/lib/modules/4.14.190/kernel/net/netfilter/__emptyfile
+ __
+SHA1-Digest-Manifest: WPMzZP4FF1byuX61BU70iYQWhkc=
+
+Name: system/usr/lib/libmcm_srv_audio.so.0.0.0
+SHA1-Digest-Manifest: isLAqgGAYv1N+/eaadqu/8nsB0A=
+
+Name: system/usr/lib/xtables/libipt_ecn.so
+SHA1-Digest-Manifest: 8NF8j6uMZ8dX3iQU6zsk4/siWn4=
+
+Name: system/etc/terminfo/x/__emptyfile__
+SHA1-Digest-Manifest: MYrsPmWefSIzPhac6sglxGA0UYo=
+
+Name: system/home/qmmfsvr/.profile
+SHA1-Digest-Manifest: vXjo9us7h1CmT2SZvwCQ03zLTGo=
+
+Name: system/usr/lib/libreadline.so.5.2
+SHA1-Digest-Manifest: 8acozi5rPdIuMaRh0/Q3Z/BHJxE=
+
+Name: system/usr/lib/opkg/alternatives/utmpdump
+SHA1-Digest-Manifest: d9KeKkRAoYTYizdgt+Suts2YhoA=
+
+Name: system/usr/bin/mboxping
+SHA1-Digest-Manifest: vBpYVyTkqmT3tSvGMsV2Sgvf8G0=
+
+Name: system/usr/lib/busybox/bin/uniq
+SHA1-Digest-Manifest: jFCodMcBEeYC7SsmyE/T7ytxMik=
+
+Name: system/usr/lib/modules/4.14.190/extra/machine_dlkm.ko
+SHA1-Digest-Manifest: eK50PR5jYhFNPud8j39mlY4ksvo=
+
+Name: system/usr/lib/opkg/alternatives/lspci
+SHA1-Digest-Manifest: IL2di3FyOgu2uSPcYEHxdPubMm0=
+
+Name: system/dev/zero
+SHA1-Digest-Manifest: qeKXNQ9sBHDlo4HO4MXDyQZPSOs=
+
+Name: system/home/input/.profile
+SHA1-Digest-Manifest: 0CXqJGvfaaVBJz1YKxIfByCGv5g=
+
+Name: system/etc/init.d/rmnologin.sh
+SHA1-Digest-Manifest: TnSF7z2cf8A+KbNzBBAn6Y+edgQ=
+
+Name: system/usr/lib/busybox/bin/nmeter
+SHA1-Digest-Manifest: 80ad8ZHxq60jkLVscKIy1UrHHAU=
+
+Name: system/usr/sbin/nl-cls-delete
+SHA1-Digest-Manifest: upkf14ecN49zC66gFanv9w/wwPE=
+
+Name: system/etc/network/interfaces
+SHA1-Digest-Manifest: YtoULkpaiVRXCU6cUzThZ6nRb1Q=
+
+Name: system/etc/data/dsi_config.xml
+SHA1-Digest-Manifest: MBH8lP3XXeY/BRvAYRvj6+iHeII=
+
+Name: system/usr/lib/libbtvendorhal.so.0.0.0
+SHA1-Digest-Manifest: rFyNzjG90M7zJC8+wOQsxrjMt/8=
+
+Name: system/usr/lib/opkg/alternatives/setsid
+SHA1-Digest-Manifest: wrnPUufwdYpaUuJZDVLELgPC1x4=
+
+Name: system/usr/lib/opkg/alternatives/firmware-links.sh
+SHA1-Digest-Manifest: 2afcNbM+8tFznCAgzFwTDqKYAyA=
+
+Name: system/usr/lib/busybox/bin/gzip
+SHA1-Digest-Manifest: o9welV9BTANwAueN0FiBlCJ0stY=
+
+Name: system/usr/share/tinyproxy/stats.html
+SHA1-Digest-Manifest: zBu2p45OU2xC3u5nuMsLtG3celg=
+
+Name: system/usr/lib/busybox/bin/run-parts
+SHA1-Digest-Manifest: h3bpxl1X2lr+n/ovSEYQNSZaacM=
+
+Name: system/cavnv/cavli/mbn/eu_ee_swmcfg.mbn
+SHA1-Digest-Manifest: gAHKYgRNxIWaCDv10XL7+jRoMuA=
+
+Name: system/usr/lib/libvorbis.so.0.4.6
+SHA1-Digest-Manifest: 8SkaC/WUPy4xaWwKFL606shzE5g=
+
+Name: system/usr/lib/xtables/libxt_NOTRACK.so
+SHA1-Digest-Manifest: AwUp87nIVAER18hO5kFILaUTT9s=
+
+Name: system/usr/lib/tc/__emptyfile__
+SHA1-Digest-Manifest: +4bXFTCPPHWfwynl5gl9QgrdyQs=
+
+Name: system/sbin/ifcfg
+SHA1-Digest-Manifest: blBSi5OntVf+vghlQj8mweKv2/E=
+
+Name: system/etc/__emptyfile__
+SHA1-Digest-Manifest: R1B9uU8sI6Vx7dI2YhwT21GJzGo=
+
+Name: system/usr/lib/busybox/sbin/addgroup
+SHA1-Digest-Manifest: vfacZrMxG6nQ+qYjRrtbFztIyus=
+
+Name: system/usr/lib/xtables/libxt_TOS.so
+SHA1-Digest-Manifest: x3xf2hqdln5hnurLHpW6KOzn0Xc=
+
+Name: system/etc/lowi.conf
+SHA1-Digest-Manifest: Wdpqgbpoq/G2ogBT8/ZH4QQbZDc=
+
+Name: system/home/audio/.bashrc
+SHA1-Digest-Manifest: yFmuSSI01kCY6E5MybeSKb3jFqQ=
+
+Name: system/usr/lib/opkg/alternatives/blkid
+SHA1-Digest-Manifest: g5Ac7S56A79i/XFZpA5Md0XhKII=
+
+Name: system/usr/lib/gio/modules/__emptyfile__
+SHA1-Digest-Manifest: Hn1fb79DkzvYg13UlObhc/3dNZo=
+
+Name: system/usr/lib/opkg/alternatives/setarch
+SHA1-Digest-Manifest: czGdzMxdN39/DQ2/ATgDzcdJ53Q=
+
+Name: system/system/rfs/mdm/adsp/__emptyfile__
+SHA1-Digest-Manifest: sJLpDHWyt5nXvXldF7IQjU2aLd4=
+
+Name: system/www/pages/index.html
+SHA1-Digest-Manifest: FZxrv2DBohBrdCCcSyn0G41j/A4=
+
+Name: system/usr/lib/modules/4.14.190/extra/shortcut-fe-cm.ko
+SHA1-Digest-Manifest: m1P5RTRv5kODB6sYP5uWGlg14/A=
+
+Name: system/usr/lib/busybox/sbin/fsck
+SHA1-Digest-Manifest: LN/eWQLVF7UeE3jzQCpF6LaJkrg=
+
+Name: system/usr/lib/busybox/bin/pgrep
+SHA1-Digest-Manifest: 0qdF9L0a/c27cq7TfKRL12CfsHA=
+
+Name: system/usr/share/avahi/service-types
+SHA1-Digest-Manifest: mCeyUG5yhA0IPoXnqrKvPf/cTcc=
+
+Name: system/www/pages/__emptyfile__
+SHA1-Digest-Manifest: bTT5E4pLYjM22aVVe5bNtWm4N5E=
+
+Name: system/usr/bin/dbus-send
+SHA1-Digest-Manifest: V+CoLVSsfqCaLw60vlymxc8UzOo=
+
+Name: system/etc/libnl/classid
+SHA1-Digest-Manifest: f8WLqBwXELX4QIJeajHqBZ4TnHk=
+
+Name: system/etc/shadow-
+SHA1-Digest-Manifest: Y9qEeaxgmwQmVWnRFvNPruwYWQo=
+
+Name: system/usr/lib/libebt_limit.so
+SHA1-Digest-Manifest: df+NvunReboMHvnDIn+YFfaQ9YQ=
+
+Name: system/usr/lib/perl/5.22.0/File/Spec.pm
+SHA1-Digest-Manifest: YGNw2i8w5LdTzvEdK9ORTz+SF9A=
+
+Name: system/usr/lib/opkg/alternatives/iplink
+SHA1-Digest-Manifest: cfo3iMWtfn2BpE/TOy/hUmGz0q4=
+
+Name: system/usr/lib/xtables/libxt_dccp.so
+SHA1-Digest-Manifest: CKkPFLsykVmzXuckixODqWRlyN4=
+
+Name: system/usr/lib/busybox/sbin/powertop
+SHA1-Digest-Manifest: QupQitQUSK5vV0Lsdt/mSUbB0cE=
+
+Name: system/usr/bin/socat1
+SHA1-Digest-Manifest: ToftbYI/mQnbraDedxC8wR8yA9k=
+
+Name: system/usr/lib/opkg/alternatives/syslogd
+SHA1-Digest-Manifest: jTmgFtv6KTDenMT4Gka/YwMcuE8=
+
+Name: system/usr/lib/opkg/alternatives/sendmail
+SHA1-Digest-Manifest: sEJVXmqpsNH8mLLDoK1eAaxSabQ=
+
+Name: system/usr/bin/logwrapper
+SHA1-Digest-Manifest: eORWms5+4cCY75n5/EZMhDSlHUw=
+
+Name: system/usr/sbin/ebtables-restore
+SHA1-Digest-Manifest: XLjbDsoU9tz542+O3z8kuxM7CQM=
+
+Name: system/usr/lib/modules/4.14.190/extra/wcd_cpe_dlkm.ko
+SHA1-Digest-Manifest: Gr0MEgaZoPimfRZbJ2XJMD6dSYs=
+
+Name: system/usr/bin/alsaucm_test
+SHA1-Digest-Manifest: mFBkim0hdc3ckEv8fzfIjJ9J6Ak=
+
+Name: system/usr/bin/xmllint
+SHA1-Digest-Manifest: xxiDxvuc4goeRW9Bvw7ci8/zBa4=
+
+Name: system/etc/terminfo/s/__emptyfile__
+SHA1-Digest-Manifest: VXFnYVVU+VDwHhsv1/TTsZyG6d4=
+
+Name: system/usr/lib/opkg/alternatives/hdparm
+SHA1-Digest-Manifest: MBiBit3bu6BAWgZheI8n9XHtqN0=
+
+Name: system/usr/bin/xtwifi-inet-agent
+SHA1-Digest-Manifest: IT/au0DnzRUN7uHIc5nPsytmdd0=
+
+Name: system/usr/lib/libcamera_metadata.so.0.0.0
+SHA1-Digest-Manifest: +AAm0DXRTPQsF0qxuhC4iekyXPw=
+
+Name: system/usr/lib/opkg/alternatives/lzop
+SHA1-Digest-Manifest: zs2KI45NOJa0hnYJwOvKyt9RYe4=
+
+Name: system/usr/lib/opkg/alternatives/tr
+SHA1-Digest-Manifest: wA9MM6pySOIWNBFaymqR7+AFMUA=
+
+Name: system/usr/lib/libloc_net_iface.la
+SHA1-Digest-Manifest: YeFXWwlfMwJMRh6lp25Hh710nPQ=
+
+Name: system/etc/init.d/data-init
+SHA1-Digest-Manifest: sZuTDR3Dz3spTCsvh9crMhOHxKU=
+
+Name: system/usr/lib/xtables/libxt_LED.so
+SHA1-Digest-Manifest: W5S/gns8XtdJe+6B7gygy4qaT4w=
+
+Name: system/usr/bin/mcmlocserver
+SHA1-Digest-Manifest: jRXNrjWp4UPo5NdkC1Y+oiNjfXo=
+
+Name: system/usr/lib/busybox/bin/grep
+SHA1-Digest-Manifest: JVNco8Sb2EBQtytdRil22JfCp/U=
+
+Name: system/etc/init.d/ipmonitorinitd
+SHA1-Digest-Manifest: SzjYzY6vcQrh6vp7aDdR20P6Tfc=
+
+Name: system/etc/qmi_ip_cfg.xml
+SHA1-Digest-Manifest: NzEB05jo97ZdU2jeEP24jieOQFE=
+
+Name: system/usr/lib/busybox/bin/expand
+SHA1-Digest-Manifest: c+Udq9AmI59JBQmO/JeYwdPWKds=
+
+Name: system/cavnv/cavli/mbn/__emptyfile__
+SHA1-Digest-Manifest: JVykx5f1cUlZlxpRjGd94QQT50I=
+
+Name: system/usr/bin/getkeycodes
+SHA1-Digest-Manifest: UBzXx6rF37XlYMiNTrIYh4D2c8M=
+
+Name: system/usr/lib/busybox/sbin/blockdev
+SHA1-Digest-Manifest: cOZBqQSpu6Y1yTcTxfQ9sE4rxqM=
+
+Name: system/usr/lib/busybox/bin/gunzip
+SHA1-Digest-Manifest: o4u3njGeauCN/lRBgr3AMq+To28=
+
+Name: system/usr/lib/libloc_pla.so.1.0.0
+SHA1-Digest-Manifest: sr3jPlBL9+msD2UpVYE2tkqN7Z0=
+
+Name: system/usr/lib/xtables/libxt_CLASSIFY.so
+SHA1-Digest-Manifest: OIhFWMFLnkX41vUZcopH3qsCAcs=
+
+Name: system/usr/lib/opkg/alternatives/sh
+SHA1-Digest-Manifest: e441C5M+angDIvPOnBJnVinx5ms=
+
+Name: system/etc/init.d/lighttpd
+SHA1-Digest-Manifest: F5cgC7e0jVnru1W6ucc2FPzP+j0=
+
+Name: system/usr/lib/xtables/libipt_REDIRECT.so
+SHA1-Digest-Manifest: hhdfqkPIbyE0M0B1HK6MkY66nFM=
+
+Name: system/usr/lib/opkg/alternatives/unlzma
+SHA1-Digest-Manifest: ZG/OCEWdBDoK8Qz7R1sOjle+OP8=
+
+Name: system/usr/lib/perl/5.22.0/IO/Socket/INET.pm
+SHA1-Digest-Manifest: QPasBe7vqE3RcGDMNZBBw7IrTVQ=
+
+Name: system/usr/lib/busybox/bin/pipe_progress
+SHA1-Digest-Manifest: ypS6e4xJPZqq7+Go0Zhcf0Qhrns=
+
+Name: system/usr/lib/opkg/alternatives/su
+SHA1-Digest-Manifest: DgQm1al36Zk0bQbFKWCsfDiPreI=
+
+Name: system/usr/lib/opkg/alternatives/sv
+SHA1-Digest-Manifest: IA/BQ61s4CBXsPHTN5xgvRor+gY=
+
+Name: system/lib/libdl-2.22.so
+SHA1-Digest-Manifest: ZroLCC3bnpqS6BF+KlWNXLEvOMw=
+
+Name: system/usr/lib/opkg/alternatives/rx
+SHA1-Digest-Manifest: /XzP6m2fk6O7we6a61yEO+260S8=
+
+Name: system/usr/bin/ppp-start
+SHA1-Digest-Manifest: DybTyBZTADFIABBWfY7kC2jUC/c=
+
+Name: system/etc/ppp/peers/__emptyfile__
+SHA1-Digest-Manifest: 4A33jwGFJuHnQttuGu/P6FKMS9w=
+
+Name: system/usr/lib/busybox/sbin/fdformat
+SHA1-Digest-Manifest: cUBVR6qs/kDy3a+s8Uo97z+Vk4I=
+
+Name: system/usr/lib/opkg/alternatives/timeout
+SHA1-Digest-Manifest: LDbVo0qIZYHo+3k11fWTy/3FN7Y=
+
+Name: system/usr/lib/perl/5.22.0/File/Spec/__emptyfile__
+SHA1-Digest-Manifest: 0kRqtpU6r5ZsL8nDkjr9U0PZd2k=
+
+Name: system/usr/share/gdb/syscalls/mips-n64-linux.xml
+SHA1-Digest-Manifest: nOJ8cJ+GbpZgKu9O9SPh6Et+/1s=
+
+Name: system/home/root/__emptyfile__
+SHA1-Digest-Manifest: 5mNz/7KDPJrKG2+R8KNfHK6Sz98=
+
+Name: system/usr/lib/libebt_stp.so
+SHA1-Digest-Manifest: hQwFFedA+jrUs++6g/AiEcNhD1A=
+
+Name: system/usr/lib/opkg/alternatives/date
+SHA1-Digest-Manifest: jB8LhRlx71uRbmJFWSw1j0RM8lQ=
+
+Name: system/lib/libnss_mdns4.so.2
+SHA1-Digest-Manifest: Ok4IvzBp+UZa+6q6YUT6Jf38vNc=
+
+Name: system/usr/lib/opkg/alternatives/rm
+SHA1-Digest-Manifest: HrzTIeJdo/HA9RWw4WVp4EGmNyo=
+
+Name: system/sbin/adbd
+SHA1-Digest-Manifest: HkHKOH8Oe2W2ikUfDAQyHCm65R4=
+
+Name: system/usr/lib/xtables/libxt_tcp.so
+SHA1-Digest-Manifest: UTV187aSP4C40vLrYhdRnKd3rU4=
+
+Name: system/dev/rtc1
+SHA1-Digest-Manifest: jMF93PERP7Z6lkXzT8wqKnBhrso=
+
+Name: system/etc/network/if-up.d/__emptyfile__
+SHA1-Digest-Manifest: sTCdbJSsb7PWg1C2Hr3U5aI9nXY=
+
+Name: system/usr/lib/xtables/libip6t_icmp6.so
+SHA1-Digest-Manifest: 3RA1tNLzy/RzblRNnI5O9kbjg2Q=
+
+Name: system/usr/bin/ipmonitord
+SHA1-Digest-Manifest: BnkvzicXy9XpkigmHosdOtHVqy0=
+
+Name: system/dev/rtc0
+SHA1-Digest-Manifest: XuF6b2RCC4FPdAEymL6JeiHs9Wg=
+
+Name: system/usr/lib/busybox/sbin/route
+SHA1-Digest-Manifest: oqve81DTsoXHoJ8312LeHlMvduY=
+
+Name: system/usr/lib/opkg/alternatives/ionice
+SHA1-Digest-Manifest: +Vc5hCu044OggfULM5/Pj9vZ4Ro=
+
+Name: system/WEBSERVER/www/js/jquery.js
+SHA1-Digest-Manifest: GKxdkMC2NRz/rZXlAKpshCGV1es=
+
+Name: system/usr/bin/socat-broker.sh
+SHA1-Digest-Manifest: AphPnovM92GyYW+IU8fU4Bgfq9E=
+
+Name: system/usr/lib/busybox/bin/sync
+SHA1-Digest-Manifest: JFeQh6qUwQ/7PWcXK3oa1f4NrVM=
+
+Name: system/lib/libwrap.so.0.7.6
+SHA1-Digest-Manifest: yel7OiyGnxx1RM0wJ6oAISquEo0=
+
+Name: system/etc/init.d/mountnfs.sh
+SHA1-Digest-Manifest: /bRz+vVNYi3BxjdQ/61ToH6s0Og=
+
+Name: system/usr/lib/perl/5.22.0/Carp.pm
+SHA1-Digest-Manifest: mjuMTlbt9Tcpz2LQOQmMQGp2oTU=
+
+Name: system/usr/lib/busybox/bin/setuidgid
+SHA1-Digest-Manifest: uH11c5caYv3d0IxtAj/WrzhbKH4=
+
+Name: system/sbin/usb/debuger/debugFiles
+SHA1-Digest-Manifest: X5VBN1ilo2FMMYww13s/IgD1U1M=
+
+Name: system/usr/lib/busybox/bin/readlink
+SHA1-Digest-Manifest: LuEqd/Y216Nln1dNhRu+zLjT6ME=
+
+Name: system/usr/lib/libgnutls.so.28.41.9
+SHA1-Digest-Manifest: aGcJsIjqSpQlpit0dXgRqXgtq5g=
+
+Name: system/usr/lib/libebt_arpreply.so
+SHA1-Digest-Manifest: rwdXWJP1Fv13z97FCedeQ3EG7TE=
+
+Name: system/usr/lib/opkg/alternatives/lzma
+SHA1-Digest-Manifest: f9HZOGT5wFgbh+q6dW88m4F6gEo=
+
+Name: system/usr/sbin/chat
+SHA1-Digest-Manifest: ZMSMbTspbreByhw3d3lJH6wXU9s=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/input/misc/gpio_m
+ atrix.ko
+SHA1-Digest-Manifest: ls58N/PjnLT6va2DTezi8fogOeU=
+
+Name: system/usr/lib/xtables/libip6t_HL.so
+SHA1-Digest-Manifest: a9xbWHQFydMwcCEthVqgfQpSiEc=
+
+Name: system/usr/lib/xtables/libxt_mac.so
+SHA1-Digest-Manifest: 7t2z0e9alk8ysle3HXzixJfADUI=
+
+Name: system/etc/terminfo/l/linux
+SHA1-Digest-Manifest: PWuIc4/LPAkLKKH/40dT6srvzdM=
+
+Name: system/usr/bin/unicode_start
+SHA1-Digest-Manifest: Z9CAUWqfSQVlkrUtRmIzFMsUEIk=
+
+Name: system/usr/lib/opkg/alternatives/cttyhack
+SHA1-Digest-Manifest: sJqvoUH2kuOOJ7L087oA2vMnwC8=
+
+Name: system/usr/bin/tinymix
+SHA1-Digest-Manifest: 1NfRspWJyufLNXVTZvSyiT1Vrlk=
+
+Name: system/usr/lib/opkg/alternatives/deallocvt
+SHA1-Digest-Manifest: kVs7RtazO1t4jPxhiJllC4dJ96M=
+
+Name: system/usr/bin/avahi-resolve
+SHA1-Digest-Manifest: ve06steaem+Stfuob9jcklvFsMI=
+
+Name: system/usr/lib/mod_evasive.so
+SHA1-Digest-Manifest: V5Jt8Dvs0NNEatkdYKc7oCHCAMM=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: IF9chu3sd250W5Isqxkw978S4Q0=
+
+Name: system/usr/bin/uim_test_client
+SHA1-Digest-Manifest: pxQkuTbRxq/mpY23G+0f8sXCZN4=
+
+Name: system/etc/dbus-1/session.conf
+SHA1-Digest-Manifest: qSBiiIi+mUaFCAmBBgDnNXOYNcE=
+
+Name: system/usr/lib/libxtwifi_ulp_adaptor.so.1.0.0
+SHA1-Digest-Manifest: KBpS4dRlkhv8LUtMco00b39f424=
+
+Name: system/usr/lib/opkg/alternatives/ps
+SHA1-Digest-Manifest: J0OQIRkNTMQbSXsMH3fizCdkOag=
+
+Name: system/usr/lib/opkg/alternatives/loadkmap
+SHA1-Digest-Manifest: uHfHMMNxoJXiiN+pPvkXVTeJd6A=
+
+Name: system/usr/lib/opkg/alternatives/unlink
+SHA1-Digest-Manifest: vpuEH4Ib8mb+5TTh0WGSbMkYz3A=
+
+Name: system/usr/lib/opkg/alternatives/route
+SHA1-Digest-Manifest: 5NTg5Y+Es+kAQ/zBuNCRjrRhoqo=
+
+Name: system/usr/lib/libQSEEComAPI.so.1.0.0
+SHA1-Digest-Manifest: h4Xccu8vzXeisnBG/xQxc+GuZsk=
+
+Name: system/etc/init.d/start_MCM_atcop_svc_le
+SHA1-Digest-Manifest: cFO1xigQyqOOw4a43M/LsQ0ls0g=
+
+Name: system/usr/lib/opkg/alternatives/unlzop
+SHA1-Digest-Manifest: R+w+zdqrm7zqZF/ZnfAJW3zUVRU=
+
+Name: system/etc/default/usbd
+SHA1-Digest-Manifest: y581Po1Z8Uqw2m1ppfUiTLVi7uk=
+
+Name: system/etc/default/volatiles/99_dbus
+SHA1-Digest-Manifest: 8396xMcnlD8aiLvXjIf5m3IPzjc=
+
+Name: system/usr/lib/libgthread-2.0.so.0.4400.1
+SHA1-Digest-Manifest: 7ZPaAx8JdEOmpz3HHosMNHu9aXU=
+
+Name: system/usr/lib/busybox/sbin/rdev
+SHA1-Digest-Manifest: gfmsmCxgD6aJ1RSFadkqhJNDFC4=
+
+Name: system/usr/lib/opkg/alternatives/flock
+SHA1-Digest-Manifest: n56FRdKRUhqnsHCaJQmfyjO6TDM=
+
+Name: system/usr/lib/opkg/alternatives/od
+SHA1-Digest-Manifest: /8a+gUgQnNC6SfWQ1tHvvPXPQtM=
+
+Name: system/usr/lib/opkg/alternatives/showkey
+SHA1-Digest-Manifest: Ua4YkbU/vqLlJb+lmjUzXDlst8E=
+
+Name: system/lib/pkgconfig/libavformat.pc
+SHA1-Digest-Manifest: ni4td/of/1PNY+S4Qxcugvw95Ak=
+
+Name: system/sbin/reboot-recovery
+SHA1-Digest-Manifest: iIkLnYz5FdKzd1IA4TSw+YC0oo8=
+
+Name: system/usr/lib/libxtwifiserver_protocol_uri_v3.so.1.0.0
+SHA1-Digest-Manifest: K/E8fdLiR+SoNALULfCFkKS3B9A=
+
+Name: system/usr/lib/busybox/bin/lsusb
+SHA1-Digest-Manifest: sSRsGvwBKn5JWM9xDEiYpn8FBZs=
+
+Name: system/usr/sbin/avahi-dnsconfd
+SHA1-Digest-Manifest: Iqlqj34awNuzeIua4nu0BF0YKao=
+
+Name: system/usr/bin/cplay
+SHA1-Digest-Manifest: N6NcRCKyCmlwuNOJrkjXKDzT5Fk=
+
+Name: system/usr/lib/busybox/bin/logger
+SHA1-Digest-Manifest: YVWNRAvVi2oKfp3SVA7/7TXLJbo=
+
+Name: system/usr/lib/opkg/alternatives/dnsd
+SHA1-Digest-Manifest: 10yp/kCaQOVK9C4PxjeX0SxNJ88=
+
+Name: system/usr/lib/busybox/bin/rpm
+SHA1-Digest-Manifest: VP47wh28B9beDiHgmYTrYRTybrI=
+
+Name: system/usr/lib/opkg/alternatives/hostname
+SHA1-Digest-Manifest: gymNusTE6TI1p7MKfphHfX40gMg=
+
+Name: system/usr/lib/opkg/alternatives/killall
+SHA1-Digest-Manifest: 4dAQxX7ixNWkfIrKXlx99Wolj2o=
+
+Name: system/usr/lib/libconfigdb.so.0.0.0
+SHA1-Digest-Manifest: yN9LRmOPwBNB8HfIJzh5snM1NEg=
+
+Name: system/usr/bin/xtwifi-client
+SHA1-Digest-Manifest: G5t9ekq2V/R6eHO66eqB0yF+u6Y=
+
+Name: system/usr/lib/opkg/alternatives/nc
+SHA1-Digest-Manifest: o2q4Vqz6ihx25AMq/Ul3EHkIzII=
+
+Name: system/var/lib/urandom/__emptyfile__
+SHA1-Digest-Manifest: 11MW6N7xMl/E3SDslbMmubkUe7Y=
+
+Name: system/etc/shadow
+SHA1-Digest-Manifest: f1AgTuv7w/JS0UbaUykWkQ/nxZY=
+
+Name: system/usr/lib/busybox/bin/tcpsvd
+SHA1-Digest-Manifest: +/37INL+E/LOw0i6rMGAC9HJ4CU=
+
+Name: system/usr/lib/opkg/alternatives/traceroute
+SHA1-Digest-Manifest: QR1XF9M5Zk7ZcA+MQdnyPvN1H2s=
+
+Name: system/etc/terminfo/v/vt102
+SHA1-Digest-Manifest: eNAIcorv1djWG6Pg4rGg7AjHU/g=
+
+Name: system/usr/lib/busybox/sbin/sulogin
+SHA1-Digest-Manifest: aN6eKMejaWVdiV5AnIS9/nsVCDA=
+
+Name: system/etc/terminfo/v/vt100
+SHA1-Digest-Manifest: X3sdGopWxA9ASVM1jCyRu43d5b4=
+
+Name: system/etc/init.d/start_stop_qti_ppp_le
+SHA1-Digest-Manifest: UO01PR9MsRIZUG7u1u4kB+LGyNk=
+
+Name: system/etc/rc.d/init.d/ebtables
+SHA1-Digest-Manifest: 3y5VChg3in9TsvS0gQ3ljSiTUG8=
+
+Name: system/usr/lib/opkg/alternatives/halt
+SHA1-Digest-Manifest: H1Z96Vhu0ZlPeq/j5dNkuMmKSHA=
+
+Name: system/usr/lib/opkg/alternatives/runsv
+SHA1-Digest-Manifest: hkvPVdspjOyTlCjGJmGgRHeVzDE=
+
+Name: system/usr/lib/opkg/alternatives/mt
+SHA1-Digest-Manifest: bVmTR1SlFJiF2cBWkp2JoUSjoa0=
+
+Name: system/usr/lib/opkg/alternatives/mv
+SHA1-Digest-Manifest: 71yPEH5kixFP+uJjeRDKDHr6mYI=
+
+Name: system/usr/lib/perl/5.22.0/Scalar/__emptyfile__
+SHA1-Digest-Manifest: HSVYDb0nzFMqbqWvJqRB/36bOQw=
+
+Name: system/usr/lib/libnl-3.so.200.20.0
+SHA1-Digest-Manifest: n4QcdHSW4ZFQc7ruZgJhkHPZ4BQ=
+
+Name: system/usr/lib/modules/4.14.190/kernel/drivers/__emptyfile__
+SHA1-Digest-Manifest: hEpJ/m4cGseNuclBnySQGMWEPNg=
+
+Name: system/usr/lib/busybox/bin/echo
+SHA1-Digest-Manifest: efQJAua9Ufj9CzWeli2diveQgjo=
+
+Name: system/usr/lib/busybox/bin/fdflush
+SHA1-Digest-Manifest: q1T+zgt/hrRwEmRH9GX7PKOnCII=
+
+Name: system/usr/lib/busybox/sbin/makedevs
+SHA1-Digest-Manifest: n/I6T1CFaB9l94GwIOSraDI6FF8=
+
+Name: system/usr/share/gdb/syscalls/__emptyfile__
+SHA1-Digest-Manifest: Z0oUIh8g6/YzhdlEoqPu0lqY/Ug=
+
+Name: system/usr/lib/perl/5.22.0/Exporter/__emptyfile__
+SHA1-Digest-Manifest: Oa0LptIpCe5JkNBR9YD2nDHkdqU=
+
+Name: system/usr/lib/opkg/alternatives/watchdog
+SHA1-Digest-Manifest: +ZMdKG2Nn1L7Pt/3znJY76xver8=
+
+Name: system/etc/mdev/__emptyfile__
+SHA1-Digest-Manifest: HXkpH//d5gzWXGkR6aVm9mN4F1I=
+
+Name: system/etc/init.d/rcS
+SHA1-Digest-Manifest: WqcM0RM3o/QISiqPOI+P7L1G8LM=
+
+Name: system/usr/lib/busybox/bin/basename
+SHA1-Digest-Manifest: D31zYv3LTt1zKDTT6UFMxituJWg=
+
+Name: system/usr/lib/busybox/bin/unzip
+SHA1-Digest-Manifest: hkodCUbLs5wsItNTafyBxITVd4s=
+
+Name: system/usr/lib/libebtable_nat.so
+SHA1-Digest-Manifest: eKkkw9GPTja3nG5Qct0Bu9Cadqo=
+
+Name: system/etc/init.d/netmgrd
+SHA1-Digest-Manifest: dipcT4t41OUtykt2H67LKCsttAY=
+
+Name: system/usr/lib/libssd.so.1.0.0
+SHA1-Digest-Manifest: l4Vmv/lyoeBIUOZa852DdsfiHrc=
+
+Name: system/usr/lib/opkg/alternatives/ls
+SHA1-Digest-Manifest: 6q8aC9c4u+NA4eLhuHnGyIAg+wc=
+
+Name: system/etc/ppp/ip-up.d/__emptyfile__
+SHA1-Digest-Manifest: NGepoakzZ/EBURgz20f7TFAcmJY=
+
+Name: system/usr/bin/pkcs1-conv
+SHA1-Digest-Manifest: sNcnbAIqzfvAHbrySz+gmra0KwM=
+
+Name: system/usr/lib/xtables/libxt_CONNSECMARK.so
+SHA1-Digest-Manifest: SIqasbQln/htIwZs8XBVTcLcQYU=
+
+Name: system/home/radio/__emptyfile__
+SHA1-Digest-Manifest: IsG8y9ahGQVrqcy2FfzFm6dToVo=
+
+Name: system/usr/lib/busybox/bin/hostname
+SHA1-Digest-Manifest: RY8WFA1/vi+6g9MbncG+idR6eo8=
+
+Name: system/usr/lib/xtables/libipt_realm.so
+SHA1-Digest-Manifest: izrwx2lO7hViVRBFVpqqyaoVtlQ=
+
+Name: system/usr/bin/psm_test
+SHA1-Digest-Manifest: NurMXh3122rxn6P+frT7uWtgP1U=
+
+Name: system/usr/lib/busybox/sbin/findfs
+SHA1-Digest-Manifest: cWOdQDNNz4QJYSi1Cwt5QiWN/bM=
+
+Name: system/usr/lib/opkg/alternatives/nohup
+SHA1-Digest-Manifest: uJxmw7lvLGUAFuY5z/YzmnSKll8=
+
+Name: system/usr/lib/opkg/alternatives/lpd
+SHA1-Digest-Manifest: HdIBKvIj0OcHXCok/cdVsyYibVg=
+
+Name: system/usr/lib/xtables/libipt_ULOG.so
+SHA1-Digest-Manifest: L7BLHUPSrwOtQAOs8ChPcJkE0Hk=
+
+Name: system/usr/sbin/nl-classid-lookup
+SHA1-Digest-Manifest: L8FoJi7Hwmmp55k8/EuyRP1Y1dw=
+
+Name: system/etc/snd_soc_msm/snd_soc_msm_Sitar
+SHA1-Digest-Manifest: vjdKu6Zt+TLTJlle+Su+EaS/un0=
+
+Name: system/usr/lib/busybox/bin/ipcs
+SHA1-Digest-Manifest: yAHEd4Y3P3eYamHQgIynfKY24lA=
+
+Name: system/usr/lib/opkg/alternatives/pkill
+SHA1-Digest-Manifest: Rlnq6dcN8S1/z17jjgnZ3AiPHdA=
+
+Name: system/etc/Hdmi_cal.acdb
+SHA1-Digest-Manifest: atuCbBoCLGkb98/Gw43Q5JwqsdQ=
+
+Name: system/usr/lib/opkg/alternatives/lpr
+SHA1-Digest-Manifest: XvixgNR63Uj+cctlreMcMvh4x+8=
+
+Name: system/WEBSERVER/www/images/__emptyfile__
+SHA1-Digest-Manifest: /0ldYfZWWGoqX5ysCESWGWoKvrM=
+
+Name: system/etc/terminfo/d/__emptyfile__
+SHA1-Digest-Manifest: qRsYar4fQICUHJCSHLKlP7O92oo=
+
+Name: system/usr/lib/opkg/alternatives/lpq
+SHA1-Digest-Manifest: 1qCRwP6qpSpBWZZNAhi/hL7ZLBg=
+
+Name: system/usr/lib/libqmiidl.so.1.0.0
+SHA1-Digest-Manifest: BOvFiM84AeDMMy6Ial8DldV7wgE=
+
+Name: system/usr/lib/opkg/alternatives/pmap
+SHA1-Digest-Manifest: oaygWlWEymEndORthWWvcqSS9hM=
+
+Name: system/usr/lib/perl/5.22.0/File/__emptyfile__
+SHA1-Digest-Manifest: pMhmF09gPF+3qvQ8wiSJJOV5hlo=
+
+Name: system/sbin/sulogin.util-linux
+SHA1-Digest-Manifest: O/lP5bsOHy7wWv7yJ9w6zniTxNg=
+
+Name: system/usr/lib/busybox/sbin/setfont
+SHA1-Digest-Manifest: q+5urAhQXqOaAkxoiNm8eue1dE0=
+
+Name: system/system/rfs/msm/mpss/readonly/__emptyfile__
+SHA1-Digest-Manifest: kip5k94Un2Gay7QvHeWu9MOezKI=
+
+Name: system/etc/init.d/qseecomd
+SHA1-Digest-Manifest: WEOTOCv5SFG9uYs81Rxhd99eo4g=
+
+Name: system/sbin/usb/compositions/hsusb_next
+SHA1-Digest-Manifest: iz00frv8r0hmKr6pc1XKYeol4p4=
+
+Name: system/usr/lib/busybox/bin/microcom
+SHA1-Digest-Manifest: FmEJ2hSal/6/V0eB50KhzVB6RCc=
+
+Name: system/usr/lib/modules/4.14.190/modules.softdep
+SHA1-Digest-Manifest: wY0bO/w4OsKhiEXwnNZCdLv7hqg=
+
+Name: system/usr/lib/busybox/sbin/rtcwake
+SHA1-Digest-Manifest: 7sRIFw8Qlt3sUhXMB/uRbHPNAyw=
+
+Name: system/etc/init.d/start_at_cmux_le
+SHA1-Digest-Manifest: ukPIsqz8gTWWZlXXPC5TIThdRKY=
+
+Name: system/lib/libnss_mdns_minimal.so.2
+SHA1-Digest-Manifest: 4Qb+wPq3AD63SR5V3xcQ3JF2JkA=
+
+Name: system/usr/lib/busybox/sbin/iplink
+SHA1-Digest-Manifest: imW+H76DQSKq0ZwYszJzNGXt4Zg=
+
+Name: system/usr/bin/csd_server
+SHA1-Digest-Manifest: ajhn7RH4z0V3tShsjJcsDGklKBY=
+
+Name: system/usr/lib/libasn1c_crt.so.1.0.0
+SHA1-Digest-Manifest: A2a1Agza4rA590INOjSJ3ptBAmE=
+
+Name: system/usr/bin/procan
+SHA1-Digest-Manifest: GmLMEmRj8RXWsDTVdHguQ9U/7XU=
+
+Name: system/usr/lib/opkg/alternatives/pwd
+SHA1-Digest-Manifest: AmoafQxl8RmdVbFgmkAbdaYf3VE=
+
+Name: system/usr/sbin/ddclient
+SHA1-Digest-Manifest: 68P1lTQKMf/qTjEATbMTS/MkMP0=
+
+Name: system/usr/lib/libqahwwrapper.so
+SHA1-Digest-Manifest: 4UDhY455kRFUNCYei7dXUJhjaxA=
+
+Name: system/usr/lib/perl/5.22.0/auto/List/Util/__emptyfile__
+SHA1-Digest-Manifest: sS85dQZoJCH1ngbdSlMaKeL8hmo=
+
+Name: system/etc/avahi/avahi-dnsconfd.action
+SHA1-Digest-Manifest: CIWCjsbyfj0Hk8et8l2spJ5Ap+4=
+
+Name: system/usr/lib/opkg/alternatives/setkeycodes
+SHA1-Digest-Manifest: wcc27CQbYY/afFDgDw6Kd+sKU2U=
+
+Name: system/usr/lib/libgps_utils_so.so.1.0.0
+SHA1-Digest-Manifest: 8Nap4n2Aa90fi3GmKOe7JU65ArU=
+
+Name: system/usr/lib/busybox/bin/ash
+SHA1-Digest-Manifest: HsajzjnCugRojzL/XY8u6HsLlog=
+
+Name: system/usr/lib/opkg/alternatives/base64
+SHA1-Digest-Manifest: MjSAwgBYG3hsRVjp4+WWlFmMk8k=
+
+Name: system/usr/lib/opkg/alternatives/remove-shell
+SHA1-Digest-Manifest: /KqFRyQzoDdxOqr3Be/5RRZpyws=
+
+Name: system/usr/tests/dsi_netctrl_test
+SHA1-Digest-Manifest: oOpopGVoVTFc/pSVTW+z6yPrprk=
+
+Name: system/usr/lib/opkg/alternatives/iostat
+SHA1-Digest-Manifest: QGIZ3XdDYHkiDoNul75q4m6RS2I=
+
+Name: system/etc/init.d/minidlna
+SHA1-Digest-Manifest: gW2wcNICOdoBhHCJhjQJAYe9t/w=
+
+Name: system/WEBSERVER/www/cgi-bin/qcmap_web_cgi
+SHA1-Digest-Manifest: MkTO6F47OBEIgdd2Gy5lgjTBFCA=
+
+Name: system/usr/lib/modules/4.14.190/kernel/crypto/echainiv.ko
+SHA1-Digest-Manifest: RCiV7P0mhbzEV2AnQn9tEdCtac8=
+
+Name: system/usr/lib/busybox/bin/shuf
+SHA1-Digest-Manifest: gvLN/6eRYQpN7phpAIjdBIQVFk4=
+
+Name: system/usr/lib/libacdbrtac.so.1.0.0
+SHA1-Digest-Manifest: 0yNp6VcemWj5vnVDMF7Vfeph7kc=
+
+Name: system/usr/lib/pkgconfig/alsa_utils.pc
+SHA1-Digest-Manifest: i6ovVofUMkQtJkuGO9LelHefEGE=
+
+Name: system/etc/init.d/urandom
+SHA1-Digest-Manifest: S+9H3A35Tiem2j47ZsFntTpGhNk=
+
+Name: system/usr/bin/loadkeys
+SHA1-Digest-Manifest: It9CetrI+4RRalYZLQYkROhW0LA=
+
+Name: system/etc/tinyproxy.conf
+SHA1-Digest-Manifest: jR45O0RE2a2BZANJUeypp9RfUqE=
+
+Name: system/home/apps/.profile
+SHA1-Digest-Manifest: 9vUv/e1woq8pSIOtmBYNxxdqfjw=
+
+Name: system/usr/lib/liblog.so.0.0.0
+SHA1-Digest-Manifest: hApkHHRh+BLZGW87T5RW3MNGZno=
+
+Name: system/usr/lib/busybox/bin/dnsdomainname
+SHA1-Digest-Manifest: krF/6rAtJ7piNI2O3rv7OX2t5sw=
+
+Name: system/home/gps/__emptyfile__
+SHA1-Digest-Manifest: SXATQDAAF/ZpytcxDkybOELdbqw=
+
+Name: system/usr/lib/busybox/bin/reformime
+SHA1-Digest-Manifest: t8TWxX8IGpMsHRq2ubQx0A6FVkY=
+
+Name: system/usr/lib/perl/5.22.0/Fcntl.pm
+SHA1-Digest-Manifest: 0P0OiqN16lVIUQwPiaY+yeA2a40=
+
+Name: system/usr/lib/xtables/libxt_udp.so
+SHA1-Digest-Manifest: Wbrw3iX2k+L+n9pJZajVx2fYX9g=
+
+Name: system/usr/bin/__emptyfile__
+SHA1-Digest-Manifest: Ml6AAChr0r/pq9o+WzImAnimMvs=
+
+Name: system/usr/bin/qmuxd
+SHA1-Digest-Manifest: jlO9TSB6+Ges+WGpy/OlPnWH5mU=
+
+Name: system/usr/lib/libqmi_encdec.so.1.0.0
+SHA1-Digest-Manifest: MRrhGrhitqKYYNeNh3K1ki08CUk=
+
+Name: system/etc/init.d/firmware-links.sh
+SHA1-Digest-Manifest: smt0JLXeQGfJ+l1775HZcbhij1g=
+
+Name: system/home/gps/.bashrc
+SHA1-Digest-Manifest: Mi2Z8MZze5MJ/zbqJZGxg6mU8mg=
+
+Name: system/usr/bin/diag_callback_sample
+SHA1-Digest-Manifest: BnIRkUxx/cUxJKQ+4Zgwnt3GtbY=
+
+Name: system/etc/dbus-1/system.d/avahi-dbus.conf
+SHA1-Digest-Manifest: N5r2R3XV9PLShxemX+dWhToYFg0=
+
+Name: system/usr/lib/opkg/alternatives/insmod
+SHA1-Digest-Manifest: DYKcnsKNUsDg76S0CDijhSKXxDs=
+
+Name: system/usr/lib/opkg/alternatives/telnetd
+SHA1-Digest-Manifest: S+WZGwOqp2wJM2RE2k6pxmYHEBE=
+
+Name: system/home/radio/.profile
+SHA1-Digest-Manifest: y4fFNMPOsPnAiL4Y0tM7mJk+upE=
+
+Name: system/usr/lib/busybox/bin/clear
+SHA1-Digest-Manifest: ObnMlXU4E//moOQt9+ZF18dkm4A=
+
+Name: system/usr/share/dbus-1/__emptyfile__
+SHA1-Digest-Manifest: zlIMBsR50R/Or1c2pHGI4yrR8T4=
+
+Name: system/usr/lib/libxtadapter.so.1.0.0
+SHA1-Digest-Manifest: byrMaJUd6pYB0PiMX6cQHEG/NIs=
+
+Name: system/usr/bin/mesg.sysvinit
+SHA1-Digest-Manifest: OThXzcPUCiEma4ijYlquEtbWucg=
+
+Name: system/usr/lib/busybox/bin/catv
+SHA1-Digest-Manifest: D2jaRucNuR4CNygHfAOM61SEEUg=
+
+Name: system/usr/lib/audio_primary_default.so
+SHA1-Digest-Manifest: c2ZVYYHWShZSnBu0fLvhhk8qob8=
+
+Name: system/usr/bin/qmi_test_service_clnt_test_1000
+SHA1-Digest-Manifest: pfswt1KVAkovaolvdbGdWDCNxSc=
+
+Name: system/etc/init.d/start_fs-scrub-daemon
+SHA1-Digest-Manifest: G5Fbb0f33WLYBw/e4HqdEe2zwRw=
+
+Name: system/usr/bin/qmi_test_service_clnt_test_1001
+SHA1-Digest-Manifest: EVrrMOv5qlaWm0PV3sdFiLt12xs=
+
+Name: system/usr/lib/libpsmutils.so.0.0.0
+SHA1-Digest-Manifest: dR755oPoQE+RX3fhrvXII33YDpI=
+
+Name: system/usr/lib/opkg/alternatives/xz
+SHA1-Digest-Manifest: TeIU1/OQqPKt5GgHuBsAyRHDa+A=
+
+Name: system/usr/lib/busybox/bin/install
+SHA1-Digest-Manifest: MqpZ2d4EpCNdcJR0HHXq7zpOhng=
+
+Name: system/usr/bin/subsystem_ramdump
+SHA1-Digest-Manifest: f1dH2DJXqQC6aF9GqW6oNb67hQo=
+
+Name: system/usr/lib/libebt_among.so
+SHA1-Digest-Manifest: H3l95ltYS48c8iZvoflGx4fKUoY=
+
+Name: system/usr/lib/busybox/bin/ftpget
+SHA1-Digest-Manifest: lNmSw2uxpa0dE/REDgpqxPcYbU4=
+
+Name: system/usr/lib/busybox/bin/unxz
+SHA1-Digest-Manifest: YzfCEyBaUHHeb9Mqsn2iUyNPdD8=
+
+Name: system/usr/lib/busybox/sbin/ether-wake
+SHA1-Digest-Manifest: jqRfaARsnQRHvAzddnUJOlV69dk=
+
+Name: system/usr/share/__emptyfile__
+SHA1-Digest-Manifest: 4kvnwf+5KJeBQrm/XNFTLvi+kPw=
+
+Name: system/usr/lib/busybox/bin/kill
+SHA1-Digest-Manifest: czy5iKcgfLOX6OEPonWXj1+uDPQ=
+
+Name: system/lib/libuuid.so.1.3.0
+SHA1-Digest-Manifest: sfivkY92TUzcPY7C8ti6LJSYMT0=
+
+Name: system/usr/lib/busybox/bin/dumpleases
+SHA1-Digest-Manifest: 13MkW/qQMkKvKCBSjMT8djcDYdY=
+
+Name: system/usr/lib/libebt_ip.so
+SHA1-Digest-Manifest: tAFuDAyYv0ly+msZYqz1JKwiMrQ=
+
+Name: system/usr/lib/xtables/libipt_unclean.so
+SHA1-Digest-Manifest: r0IBdPOF4FUmPRctjs1j7Ez6xEQ=
+
+Name: system/usr/lib/busybox/sbin/deluser
+SHA1-Digest-Manifest: ExTaDDYJMo3Qpx/rESFDx/jkUNA=
+
+Name: system/usr/bin/nettle-lfib-stream
+SHA1-Digest-Manifest: hKzWWlJTYnlZzXplCt844ny0emk=
+
+Name: system/usr/lib/opkg/alternatives/arping
+SHA1-Digest-Manifest: KrYop7yx63J8DZjM9gsSzs+Z9Aw=
+
+Name: system/usr/lib/xtables/libxt_CT.so
+SHA1-Digest-Manifest: AESzw7RGrwXlojqp+7bvcYiF6JM=
+
+Name: system/usr/lib/busybox/sbin/mkfs.vfat
+SHA1-Digest-Manifest: 1PE0aRB5oju29Xxk67/3mlvorEc=
+
+Name: system/usr/lib/busybox/bin/more
+SHA1-Digest-Manifest: PxvGI0WCJH25xF29PMqPSFbhpLo=
+
+Name: system/usr/lib/busybox/bin/awk
+SHA1-Digest-Manifest: OG3lfhT43UiU6mIxa8/CiVf+joo=
+
+Name: system/usr/lib/libloc_eng_so.la
+SHA1-Digest-Manifest: s9W9HJ5OpVkuvwhBB47UhuHH/s0=
+
+Name: system/usr/lib/libqmi_sap.so.1.0.0
+SHA1-Digest-Manifest: +hI42JGxAxoDqVcE96YgA5Uum+c=
+
+Name: system/usr/share/gdb/syscalls/gdb-syscalls.dtd
+SHA1-Digest-Manifest: Obgk5Ty8mtoVdpVoMBe44u7TPB4=
+
+Name: system/usr/lib/opkg/alternatives/wc
+SHA1-Digest-Manifest: KdQAeNLhOI+eeMjbE1+UHJ6BuT8=
+
+Name: system/usr/bin/fs_mgr
+SHA1-Digest-Manifest: Sp42GDL9m4bcmzSW5dXXrQ5ewXg=
+
+Name: system/usr/sbin/sigma_dut
+SHA1-Digest-Manifest: HMGObWZLPmYRKUZuCS6fdm5xC7o=
+
+Name: system/etc/profile
+SHA1-Digest-Manifest: EW9wnkMj7EOAhQCDPkTeOLEVTYs=
+
+Name: system/usr/lib/opkg/alternatives/crontab
+SHA1-Digest-Manifest: pj/6buXjNh8iaictuNevOScBJuY=
+
+Name: system/usr/lib/opkg/alternatives/logname
+SHA1-Digest-Manifest: 0g8AX0huIxWjjIKs8EqAPYhfGws=
+
+Name: system/usr/lib/busybox/sbin/syslogd
+SHA1-Digest-Manifest: g5GxRHydSBWVBfrmNSAPuKxBW8s=
+
+Name: system/usr/lib/busybox/bin/__emptyfile__
+SHA1-Digest-Manifest: GGk64s5AbR3VMT+sn2u67snw6l0=
+
+Name: system/usr/lib/opkg/alternatives/ftpd
+SHA1-Digest-Manifest: 6vbKHItc38bS6vdlQcU80ArW3Pw=
+
+Name: system/var/__emptyfile__
+SHA1-Digest-Manifest: SoJqnJdgif4XGdi9gqYyyrL0PjY=
+
+Name: system/usr/bin/aplay
+SHA1-Digest-Manifest: IvpIhltLuTIy3I+EhFcf1S6R328=
+
+Name: system/etc/data/netmgr_config.xml
+SHA1-Digest-Manifest: OwibB7J/PtB9ru/58Gl1nSQDD5o=
+
+Name: system/usr/lib/opkg/alternatives/vi
+SHA1-Digest-Manifest: WoPsw0BFN/br7sleHi2+3GM5H7o=
+
+Name: system/dev/mmcblk0
+SHA1-Digest-Manifest: vYRNtb1o9r/wLXuzz8ZRyNY3SfU=
+
+Name: system/etc/shells
+SHA1-Digest-Manifest: ltJjMiIp45B2L31WTbHNh2tvxXU=
+
+Name: system/usr/lib/opkg/alternatives/comm
+SHA1-Digest-Manifest: uRnVy6ZdpEvr87wdy70jhMnzWJ4=
+
+Name: system/etc/init.d/start_eMBMs_TunnelingModule_le
+SHA1-Digest-Manifest: 1yt5zsPb7U/eT6FmbPAw8e1IYEY=
+
+Name: system/usr/lib/libebtable_filter.so
+SHA1-Digest-Manifest: SKWdMvgI84e++gOCPMB4x/82ZPY=
+
+Name: system/usr/lib/busybox/bin/mkfifo
+SHA1-Digest-Manifest: 0e6/Kk+d8c50OWLZrpbZGNwjKgs=
+
+Name: system/etc/sysctl.conf
+SHA1-Digest-Manifest: NzBA31NNHbaMzpdBVUwrK+iZA0Y=
+
+Name: system/usr/share/man/__emptyfile__
+SHA1-Digest-Manifest: wxVnLDlXo4pBn4QUtliMr2UkZRU=
+
+Name: system/etc/init.d/time_serviced
+SHA1-Digest-Manifest: ugKD2aKwQfw3LNm5ki+Kghr69Vg=
+
+Name: system/usr/bin/MCM_atcop_svc
+SHA1-Digest-Manifest: bhg8HNWNvpkYk+lkpbRn0Eg/KMU=
+
+Name: system/etc/syslog-startup.conf
+SHA1-Digest-Manifest: APWW771o2wKu7PZEqtBlG7nYrdc=
+
+Name: system/usr/lib/opkg/alternatives/pgrep
+SHA1-Digest-Manifest: iw3qdp7JFgt8fTkvwSgsnR1kdzw=
+
+Name: system/usr/bin/ppp-off
+SHA1-Digest-Manifest: 0j4HKsU4+jTjoBoHpiUxUbJTDUU=
+

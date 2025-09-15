@@ -1,0 +1,74 @@
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:          socat
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Start socat at boot time
+# Description:       Start and stop the socat service
+### END INIT INFO
+
+# Path to the socat binary
+SOCAT_BIN="/usr/bin/socat"
+
+loop_restart_socat_ppp() {
+    while true
+    do
+        $SOCAT_BIN pty,link=/dev/ttyPPP0,raw,echo=0 pty,link=/dev/ttyPPP1,raw,echo=0
+        sleep 5
+    done
+}
+
+loop_restart_socat_ttyvat0() {
+    while true
+    do
+        $SOCAT_BIN pty,link=/dev/ttyvat0,raw,echo=0 pty,link=/dev/ttyvat1,raw,echo=0
+        sleep 5
+    done
+}
+
+# Function to start socat service
+start() {
+    echo "Starting socat..."
+    # clean cached from the process load NON-HLOS
+    loop_restart_socat_ppp &
+    loop_restart_socat_ttyvat0 &
+}
+
+
+# Function to stop the socat binary
+stop() {
+    echo "Stopping socat..."
+    pkill -f "$SOCAT_BIN"
+}
+
+# Function to check if socat is running
+is_running() {
+    pgrep -f "$SOCAT_BIN" > /dev/null
+}
+
+case "$1" in
+    start)
+        start
+        ;;
+    stop)
+        stop
+        ;;
+    restart)
+        stop
+        sleep 1
+        start
+        ;;
+    status)
+        if is_running; then
+            echo "socat is running."
+        else
+            echo "socat is not running."
+        fi
+        ;;
+    *)
+        echo "Usage: $0 {start|stop|restart|status}"
+        exit 1
+        ;;
+esac
+
+exit 0

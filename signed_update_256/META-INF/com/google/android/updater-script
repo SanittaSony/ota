@@ -1,0 +1,974 @@
+ui_print("Target: None");
+show_progress(0.750000, 0);
+format("ubifs", "UBI", "system", "0", "/system");
+mount("ubifs", "UBI", "system", "/system", "");
+package_extract_dir("recovery", "/system");
+package_extract_dir("system", "/system");
+symlink("../init.d/alignment.sh", "/system/etc/rcS.d/S06alignment.sh");
+symlink("../init.d/atcminitd", "/system/etc/rcS.d/S29atcminitd");
+symlink("../init.d/avahi-dnsconfd", "/system/etc/rc0.d/K01avahi-dnsconfd",
+        "/system/etc/rc1.d/K01avahi-dnsconfd",
+        "/system/etc/rc2.d/S99avahi-dnsconfd",
+        "/system/etc/rc3.d/S99avahi-dnsconfd",
+        "/system/etc/rc4.d/S99avahi-dnsconfd",
+        "/system/etc/rc5.d/S99avahi-dnsconfd",
+        "/system/etc/rc6.d/K01avahi-dnsconfd");
+symlink("../init.d/banner.sh", "/system/etc/rcS.d/S02banner.sh");
+symlink("../init.d/bootlogd", "/system/etc/rcS.d/S07bootlogd");
+symlink("../init.d/bootmisc.sh", "/system/etc/rcS.d/S55bootmisc.sh");
+symlink("../init.d/bsp_paths.sh", "/system/etc/rc2.d/S15bsp_paths.sh",
+        "/system/etc/rc3.d/S15bsp_paths.sh",
+        "/system/etc/rc4.d/S15bsp_paths.sh",
+        "/system/etc/rc5.d/S15bsp_paths.sh");
+symlink("../init.d/cav_initscript", "/system/etc/rcS.d/S29cav_initscript");
+symlink("../init.d/chgrp-diag", "/system/etc/rc2.d/S15chgrp-diag",
+        "/system/etc/rc3.d/S15chgrp-diag", "/system/etc/rc4.d/S15chgrp-diag",
+        "/system/etc/rc5.d/S15chgrp-diag");
+symlink("../init.d/csdserver", "/system/etc/rc0.d/K80csdserver",
+        "/system/etc/rc1.d/K80csdserver", "/system/etc/rc2.d/S45csdserver",
+        "/system/etc/rc3.d/S45csdserver", "/system/etc/rc4.d/S45csdserver",
+        "/system/etc/rc5.d/S45csdserver",
+        "/system/etc/rc6.d/K80csdserver");
+symlink("../init.d/data-init", "/system/etc/rc0.d/K15data-init",
+        "/system/etc/rc1.d/K15data-init", "/system/etc/rc2.d/S97data-init",
+        "/system/etc/rc3.d/S97data-init", "/system/etc/rc4.d/S97data-init",
+        "/system/etc/rc5.d/S97data-init",
+        "/system/etc/rc6.d/K15data-init");
+symlink("../init.d/dbus-1", "/system/etc/rc0.d/K02dbus-1",
+        "/system/etc/rc1.d/K02dbus-1", "/system/etc/rc2.d/S98dbus-1",
+        "/system/etc/rc3.d/S98dbus-1", "/system/etc/rc5.d/S98dbus-1",
+        "/system/etc/rc6.d/K02dbus-1");
+symlink("../init.d/devpts.sh", "/system/etc/rcS.d/S38devpts.sh");
+symlink("../init.d/dmesg.sh", "/system/etc/rcS.d/S38dmesg.sh");
+symlink("../init.d/find_partitions.sh", "/system/etc/rcS.d/S30find_partitions.sh");
+symlink("../init.d/firmware-links.sh", "/system/etc/rcS.d/S37firmware-links.sh");
+symlink("../init.d/halt", "/system/etc/rc0.d/S90halt");
+symlink("../init.d/hostname.sh", "/system/etc/rcS.d/S39hostname.sh");
+symlink("../init.d/hwclock.sh", "/system/etc/rc0.d/K20hwclock.sh",
+        "/system/etc/rc1.d/K20hwclock.sh", "/system/etc/rc2.d/S20hwclock.sh",
+        "/system/etc/rc3.d/S20hwclock.sh", "/system/etc/rc4.d/S20hwclock.sh",
+        "/system/etc/rc5.d/S20hwclock.sh",
+        "/system/etc/rc6.d/K20hwclock.sh");
+symlink("../init.d/init_irsc_util", "/system/etc/rc0.d/K71init_irsc_util",
+        "/system/etc/rc1.d/K71init_irsc_util",
+        "/system/etc/rc2.d/S29init_irsc_util",
+        "/system/etc/rc3.d/S29init_irsc_util",
+        "/system/etc/rc4.d/S29init_irsc_util",
+        "/system/etc/rc5.d/S29init_irsc_util",
+        "/system/etc/rc6.d/K71init_irsc_util");
+symlink("../init.d/init_qrtr_ns", "/system/etc/rc0.d/K71init_qrtr_ns",
+        "/system/etc/rc1.d/K71init_qrtr_ns",
+        "/system/etc/rc2.d/S31init_qrtr_ns",
+        "/system/etc/rc3.d/S31init_qrtr_ns",
+        "/system/etc/rc4.d/S31init_qrtr_ns",
+        "/system/etc/rc6.d/K71init_qrtr_ns",
+        "/system/etc/rcS.d/S31init_qrtr_ns");
+symlink("../init.d/ipmonitorinitd", "/system/etc/rc0.d/K20ipmonitorinitd",
+        "/system/etc/rc1.d/K20ipmonitorinitd",
+        "/system/etc/rc2.d/S20ipmonitorinitd",
+        "/system/etc/rc3.d/S20ipmonitorinitd",
+        "/system/etc/rc4.d/S20ipmonitorinitd",
+        "/system/etc/rc5.d/S20ipmonitorinitd",
+        "/system/etc/rc6.d/K20ipmonitorinitd");
+symlink("../init.d/lighttpd", "/system/etc/rc0.d/K70lighttpd",
+        "/system/etc/rc1.d/K70lighttpd", "/system/etc/rc2.d/S70lighttpd",
+        "/system/etc/rc3.d/S70lighttpd", "/system/etc/rc4.d/S70lighttpd",
+        "/system/etc/rc5.d/S70lighttpd",
+        "/system/etc/rc6.d/K70lighttpd");
+symlink("../init.d/mdev", "/system/etc/rcS.d/S03mdev");
+symlink("../init.d/mem-monitor", "/system/etc/rc0.d/K20mem-monitor",
+        "/system/etc/rc1.d/K20mem-monitor", "/system/etc/rc2.d/S20mem-monitor",
+        "/system/etc/rc3.d/S20mem-monitor", "/system/etc/rc4.d/S20mem-monitor",
+        "/system/etc/rc5.d/S20mem-monitor",
+        "/system/etc/rc6.d/K20mem-monitor");
+symlink("../init.d/misc-daemon", "/system/etc/rc0.d/K02misc-daemon",
+        "/system/etc/rc1.d/K02misc-daemon", "/system/etc/rc5.d/S98misc-daemon",
+        "/system/etc/rc6.d/K02misc-daemon");
+symlink("../init.d/modem-shutdown", "/system/etc/rc0.d/K01modem-shutdown",
+        "/system/etc/rc6.d/K01modem-shutdown");
+symlink("../init.d/mount_data.sh", "/system/etc/rcS.d/S03mount_data.sh");
+symlink("../init.d/mountall.sh", "/system/etc/rcS.d/S03mountall.sh");
+symlink("../init.d/mssboot", "/system/etc/rcS.d/S31mssboot");
+symlink("../init.d/netmgrd", "/system/etc/rc0.d/K80netmgrd",
+        "/system/etc/rc1.d/K80netmgrd", "/system/etc/rc2.d/S30netmgrd",
+        "/system/etc/rc3.d/S30netmgrd", "/system/etc/rc4.d/S30netmgrd",
+        "/system/etc/rc6.d/K80netmgrd",
+        "/system/etc/rcS.d/S30netmgrd");
+symlink("../init.d/networking", "/system/etc/rc0.d/K80networking",
+        "/system/etc/rc1.d/K80networking", "/system/etc/rc2.d/S01networking",
+        "/system/etc/rc3.d/S01networking", "/system/etc/rc4.d/S01networking",
+        "/system/etc/rc5.d/S01networking",
+        "/system/etc/rc6.d/K80networking");
+symlink("../init.d/populate-volatile.sh", "/system/etc/rcS.d/S28populate-volatile.sh");
+symlink("../init.d/power_config", "/system/etc/rc0.d/K50power_config",
+        "/system/etc/rc1.d/K50power_config",
+        "/system/etc/rc2.d/S99power_config",
+        "/system/etc/rc3.d/S99power_config",
+        "/system/etc/rc4.d/S99power_config",
+        "/system/etc/rc5.d/S99power_config",
+        "/system/etc/rc6.d/K50power_config");
+symlink("../init.d/psmd", "/system/etc/rcS.d/S30psmd");
+symlink("../init.d/qmuxd", "/system/etc/rc0.d/K80qmuxd",
+        "/system/etc/rc1.d/K80qmuxd", "/system/etc/rc2.d/S40qmuxd",
+        "/system/etc/rc3.d/S40qmuxd", "/system/etc/rc4.d/S40qmuxd",
+        "/system/etc/rc5.d/S40qmuxd",
+        "/system/etc/rc6.d/K80qmuxd");
+symlink("../init.d/qseecomd", "/system/etc/rcS.d/S28qseecomd");
+symlink("../init.d/read-only-rootfs-hook.sh", "/system/etc/rcS.d/S29read-only-rootfs-hook.sh");
+symlink("../init.d/reboot", "/system/etc/rc6.d/S99reboot");
+symlink("../init.d/reset_reboot_cookie", "/system/etc/rc2.d/S55reset_reboot_cookie",
+        "/system/etc/rc3.d/S55reset_reboot_cookie",
+        "/system/etc/rc4.d/S55reset_reboot_cookie",
+        "/system/etc/rc5.d/S55reset_reboot_cookie");
+symlink("../init.d/rmnologin.sh", "/system/etc/rc2.d/S99rmnologin.sh",
+        "/system/etc/rc3.d/S99rmnologin.sh",
+        "/system/etc/rc4.d/S99rmnologin.sh",
+        "/system/etc/rc5.d/S99rmnologin.sh");
+symlink("../init.d/save-rtc.sh", "/system/etc/rc0.d/S25save-rtc.sh",
+        "/system/etc/rc6.d/S25save-rtc.sh");
+symlink("../init.d/sendsigs", "/system/etc/rc0.d/S20sendsigs",
+        "/system/etc/rc6.d/S20sendsigs");
+symlink("../init.d/set_core_pattern.sh", "/system/etc/rc2.d/S01set_core_pattern.sh",
+        "/system/etc/rc3.d/S01set_core_pattern.sh",
+        "/system/etc/rc4.d/S01set_core_pattern.sh",
+        "/system/etc/rc5.d/S01set_core_pattern.sh",
+        "/system/etc/rcS.d/S01set_core_pattern.sh");
+symlink("../init.d/sfs_config", "/system/etc/rc0.d/K20sfs_config",
+        "/system/etc/rc1.d/K20sfs_config", "/system/etc/rc2.d/S80sfs_config",
+        "/system/etc/rc3.d/S80sfs_config", "/system/etc/rc4.d/S80sfs_config",
+        "/system/etc/rc5.d/S80sfs_config",
+        "/system/etc/rc6.d/K20sfs_config");
+symlink("../init.d/shutdown", "/system/etc/rc0.d/S99shutdown");
+symlink("../init.d/socat", "/system/etc/rc0.d/K20socat",
+        "/system/etc/rc1.d/K20socat", "/system/etc/rc2.d/S20socat",
+        "/system/etc/rc3.d/S20socat", "/system/etc/rc4.d/S20socat",
+        "/system/etc/rc5.d/S20socat",
+        "/system/etc/rc6.d/K20socat");
+symlink("../init.d/start_QCMAP_ConnectionManager_le", "/system/etc/rc0.d/K61start_QCMAP_ConnectionManager_le",
+        "/system/etc/rc1.d/K61start_QCMAP_ConnectionManager_le",
+        "/system/etc/rc6.d/K61start_QCMAP_ConnectionManager_le",
+        "/system/etc/rcS.d/S05start_QCMAP_ConnectionManager_le");
+symlink("../init.d/start_at_cmux_le", "/system/etc/rc0.d/K60start_at_cmux_le",
+        "/system/etc/rc1.d/K60start_at_cmux_le",
+        "/system/etc/rc2.d/S46start_at_cmux_le",
+        "/system/etc/rc3.d/S46start_at_cmux_le",
+        "/system/etc/rc4.d/S46start_at_cmux_le",
+        "/system/etc/rc5.d/S46start_at_cmux_le",
+        "/system/etc/rc6.d/K60start_at_cmux_le");
+symlink("../init.d/start_audio_le", "/system/etc/rc0.d/K15start_audio_le",
+        "/system/etc/rc1.d/K15start_audio_le",
+        "/system/etc/rc5.d/S97start_audio_le",
+        "/system/etc/rc6.d/K15start_audio_le");
+symlink("../init.d/start_eMBMs_TunnelingModule_le", "/system/etc/rc0.d/K30start_eMBMs_TunnelingModule_le",
+        "/system/etc/rc1.d/K30start_eMBMs_TunnelingModule_le",
+        "/system/etc/rc2.d/S70start_eMBMs_TunnelingModule_le",
+        "/system/etc/rc3.d/S70start_eMBMs_TunnelingModule_le",
+        "/system/etc/rc4.d/S70start_eMBMs_TunnelingModule_le",
+        "/system/etc/rc5.d/S70start_eMBMs_TunnelingModule_le",
+        "/system/etc/rc6.d/K30start_eMBMs_TunnelingModule_le");
+symlink("../init.d/start_embms_le", "/system/etc/rc0.d/K15start_embms_le",
+        "/system/etc/rc1.d/K15start_embms_le",
+        "/system/etc/rc5.d/S35start_embms_le",
+        "/system/etc/rc6.d/K15start_embms_le");
+symlink("../init.d/start_fs-scrub-daemon", "/system/etc/rc0.d/K01start_fs-scrub-daemon",
+        "/system/etc/rc1.d/K01start_fs-scrub-daemon",
+        "/system/etc/rc6.d/K01start_fs-scrub-daemon");
+symlink("../init.d/start_qti_le", "/system/etc/rc0.d/K60start_qti_le",
+        "/system/etc/rc1.d/K60start_qti_le",
+        "/system/etc/rc6.d/K60start_qti_le",
+        "/system/etc/rcS.d/S32start_qti_le");
+symlink("../init.d/start_stop_qmi_ip_multiclient", "/system/etc/rc0.d/K20start_stop_qmi_ip_multiclient",
+        "/system/etc/rc1.d/K20start_stop_qmi_ip_multiclient",
+        "/system/etc/rc2.d/S80start_stop_qmi_ip_multiclient",
+        "/system/etc/rc3.d/S80start_stop_qmi_ip_multiclient",
+        "/system/etc/rc4.d/S80start_stop_qmi_ip_multiclient",
+        "/system/etc/rc5.d/S80start_stop_qmi_ip_multiclient",
+        "/system/etc/rc6.d/K20start_stop_qmi_ip_multiclient");
+symlink("../init.d/start_subsystem_ramdump", "/system/etc/rc0.d/K10start_subsystem_ramdump",
+        "/system/etc/rc1.d/K10start_subsystem_ramdump",
+        "/system/etc/rc2.d/S90start_subsystem_ramdump",
+        "/system/etc/rc3.d/S90start_subsystem_ramdump",
+        "/system/etc/rc4.d/S90start_subsystem_ramdump",
+        "/system/etc/rc5.d/S90start_subsystem_ramdump",
+        "/system/etc/rc6.d/K10start_subsystem_ramdump");
+symlink("../init.d/start_wlan_services", "/system/etc/rc0.d/K10start_wlan_services",
+        "/system/etc/rc1.d/K10start_wlan_services",
+        "/system/etc/rc2.d/S90start_wlan_services",
+        "/system/etc/rc3.d/S90start_wlan_services",
+        "/system/etc/rc4.d/S90start_wlan_services",
+        "/system/etc/rc5.d/S90start_wlan_services",
+        "/system/etc/rc6.d/K10start_wlan_services");
+symlink("../init.d/stop-bootlogd", "/system/etc/rc2.d/S99stop-bootlogd",
+        "/system/etc/rc3.d/S99stop-bootlogd",
+        "/system/etc/rc4.d/S99stop-bootlogd",
+        "/system/etc/rc5.d/S99stop-bootlogd");
+symlink("../init.d/sysfs.sh", "/system/etc/rcS.d/S02sysfs.sh");
+symlink("../init.d/syslog", "/system/etc/rc0.d/K20syslog",
+        "/system/etc/rc1.d/K20syslog", "/system/etc/rc2.d/S20syslog",
+        "/system/etc/rc3.d/S20syslog", "/system/etc/rc4.d/S20syslog",
+        "/system/etc/rc5.d/S20syslog",
+        "/system/etc/rc6.d/K20syslog");
+symlink("../init.d/tftp_server.sh", "/system/etc/rc0.d/K01tftp_server.sh",
+        "/system/etc/rc1.d/K01tftp_server.sh",
+        "/system/etc/rc6.d/K01tftp_server.sh");
+symlink("../init.d/thermal-engine", "/system/etc/rc0.d/K60thermal-engine",
+        "/system/etc/rc1.d/K60thermal-engine",
+        "/system/etc/rc2.d/S40thermal-engine",
+        "/system/etc/rc3.d/S40thermal-engine",
+        "/system/etc/rc4.d/S40thermal-engine",
+        "/system/etc/rc5.d/S40thermal-engine",
+        "/system/etc/rc6.d/K60thermal-engine");
+symlink("../init.d/time_serviced", "/system/etc/rc0.d/K01time_serviced",
+        "/system/etc/rc1.d/K01time_serviced",
+        "/system/etc/rc2.d/S29time_serviced",
+        "/system/etc/rc3.d/S29time_serviced",
+        "/system/etc/rc4.d/S29time_serviced",
+        "/system/etc/rc5.d/S29time_serviced",
+        "/system/etc/rc6.d/K01time_serviced");
+symlink("../init.d/umountfs", "/system/etc/rc0.d/S40umountfs",
+        "/system/etc/rc6.d/S40umountfs");
+symlink("../init.d/umountnfs.sh", "/system/etc/rc0.d/S31umountnfs.sh",
+        "/system/etc/rc1.d/S31umountnfs.sh",
+        "/system/etc/rc6.d/S31umountnfs.sh");
+symlink("../init.d/usb", "/system/etc/rcS.d/S03usb");
+symlink("../run", "/system/var/run");
+symlink("/bin/env", "/system/usr/bin/env");
+symlink("/bin/login.shadow", "/system/bin/login");
+symlink("/bin/mountpoint.sysvinit", "/system/bin/mountpoint");
+symlink("/bin/pidof.sysvinit", "/system/bin/pidof");
+symlink("/bin/ping.iputils", "/system/bin/ping");
+symlink("/bin/ping6.iputils", "/system/bin/ping6");
+symlink("/bin/su.shadow", "/system/bin/su");
+symlink("/data/misc/audio/mbhc.bin", "/system/etc/firmware/wcd9310/wcd9310_mbhc.bin");
+symlink("/data/misc/audio/wcd9310_anc.bin", "/system/etc/firmware/wcd9310/wcd9310_anc.bin");
+symlink("/data/persist/hlos_rfs/shared", "/system/system/rfs/mdm/adsp/hlos",
+        "/system/system/rfs/mdm/mpss/hlos", "/system/system/rfs/msm/adsp/hlos",
+        "/system/system/rfs/msm/mpss/hlos");
+symlink("/data/persist/rfs/mdm/adsp", "/system/system/rfs/mdm/adsp/readwrite");
+symlink("/data/persist/rfs/mdm/mpss", "/system/system/rfs/mdm/mpss/readwrite");
+symlink("/data/persist/rfs/msm/adsp", "/system/system/rfs/msm/adsp/readwrite");
+symlink("/data/persist/rfs/msm/mpss", "/system/system/rfs/msm/mpss/readwrite");
+symlink("/data/persist/rfs/shared", "/system/system/rfs/mdm/adsp/shared",
+        "/system/system/rfs/mdm/mpss/shared",
+        "/system/system/rfs/msm/adsp/shared",
+        "/system/system/rfs/msm/mpss/shared");
+symlink("/data/tombstones/lpass", "/system/system/rfs/mdm/adsp/ramdumps",
+        "/system/system/rfs/msm/adsp/ramdumps");
+symlink("/data/tombstones/modem", "/system/system/rfs/mdm/mpss/ramdumps",
+        "/system/system/rfs/msm/mpss/ramdumps");
+symlink("/etc/init.d/functions.initscripts", "/system/etc/init.d/functions");
+symlink("/etc/init.d/modem-shutdown", "/system/bin/modem-shutdown");
+symlink("/etc/init.d/syslog.busybox", "/system/etc/init.d/syslog");
+symlink("/firmware", "/system/system/rfs/mdm/adsp/readonly/firmware",
+        "/system/system/rfs/mdm/mpss/readonly/firmware",
+        "/system/system/rfs/msm/adsp/readonly/firmware",
+        "/system/system/rfs/msm/mpss/readonly/firmware");
+symlink("/firmware/image", "/system/lib/firmware/image");
+symlink("/mnt/sdcard", "/system/sdcard");
+symlink("/proc/mounts", "/system/etc/mtab");
+symlink("/run/lock", "/system/var/lock");
+symlink("/sbin/halt.sysvinit", "/system/sbin/halt");
+symlink("/sbin/init.sysvinit", "/system/sbin/init");
+symlink("/sbin/ip.iproute2", "/system/sbin/ip");
+symlink("/sbin/killall5", "/system/bin/pidof.sysvinit");
+symlink("/sbin/poweroff.sysvinit", "/system/sbin/poweroff");
+symlink("/sbin/reboot.sysvinit", "/system/sbin/reboot");
+symlink("/sbin/runlevel.sysvinit", "/system/sbin/runlevel");
+symlink("/sbin/shutdown.sysvinit", "/system/sbin/shutdown");
+symlink("/sbin/sulogin.util-linux", "/system/sbin/sulogin");
+symlink("/usr/bin/chvt.kbd", "/system/usr/bin/chvt");
+symlink("/usr/bin/deallocvt.kbd", "/system/usr/bin/deallocvt");
+symlink("/usr/bin/last.sysvinit", "/system/usr/bin/last");
+symlink("/usr/bin/lastb.sysvinit", "/system/usr/bin/lastb");
+symlink("/usr/bin/newgrp.shadow", "/system/usr/bin/newgrp");
+symlink("/usr/bin/openvt.kbd", "/system/usr/bin/openvt");
+symlink("/usr/bin/utmpdump.sysvinit", "/system/usr/bin/utmpdump");
+symlink("/usr/bin/wall.sysvinit", "/system/usr/bin/wall");
+symlink("/usr/lib/busybox/bin/[", "/system/bin/[");
+symlink("/usr/lib/busybox/bin/[[", "/system/bin/[[");
+symlink("/usr/lib/busybox/bin/ar", "/system/bin/ar");
+symlink("/usr/lib/busybox/bin/ash", "/system/bin/ash");
+symlink("/usr/lib/busybox/bin/awk", "/system/bin/awk");
+symlink("/usr/lib/busybox/bin/base64", "/system/bin/base64");
+symlink("/usr/lib/busybox/bin/basename", "/system/bin/basename");
+symlink("/usr/lib/busybox/bin/beep", "/system/bin/beep");
+symlink("/usr/lib/busybox/bin/bunzip2", "/system/bin/bunzip2");
+symlink("/usr/lib/busybox/bin/bzcat", "/system/bin/bzcat");
+symlink("/usr/lib/busybox/bin/bzip2", "/system/bin/bzip2");
+symlink("/usr/lib/busybox/bin/cal", "/system/bin/cal");
+symlink("/usr/lib/busybox/bin/cat", "/system/bin/cat");
+symlink("/usr/lib/busybox/bin/catv", "/system/bin/catv");
+symlink("/usr/lib/busybox/bin/chattr", "/system/bin/chattr");
+symlink("/usr/lib/busybox/bin/chgrp", "/system/bin/chgrp");
+symlink("/usr/lib/busybox/bin/chmod", "/system/bin/chmod");
+symlink("/usr/lib/busybox/bin/chown", "/system/bin/chown");
+symlink("/usr/lib/busybox/bin/chpst", "/system/bin/chpst");
+symlink("/usr/lib/busybox/bin/chrt", "/system/bin/chrt");
+symlink("/usr/lib/busybox/bin/cksum", "/system/bin/cksum");
+symlink("/usr/lib/busybox/bin/clear", "/system/bin/clear");
+symlink("/usr/lib/busybox/bin/cmp", "/system/bin/cmp");
+symlink("/usr/lib/busybox/bin/comm", "/system/bin/comm");
+symlink("/usr/lib/busybox/bin/cp", "/system/bin/cp");
+symlink("/usr/lib/busybox/bin/cpio", "/system/bin/cpio");
+symlink("/usr/lib/busybox/bin/crontab", "/system/bin/crontab");
+symlink("/usr/lib/busybox/bin/cryptpw", "/system/bin/cryptpw");
+symlink("/usr/lib/busybox/bin/cttyhack", "/system/bin/cttyhack");
+symlink("/usr/lib/busybox/bin/cut", "/system/bin/cut");
+symlink("/usr/lib/busybox/bin/date", "/system/bin/date");
+symlink("/usr/lib/busybox/bin/dc", "/system/bin/dc");
+symlink("/usr/lib/busybox/bin/dd", "/system/bin/dd");
+symlink("/usr/lib/busybox/bin/df", "/system/bin/df");
+symlink("/usr/lib/busybox/bin/diff", "/system/bin/diff");
+symlink("/usr/lib/busybox/bin/dirname", "/system/bin/dirname");
+symlink("/usr/lib/busybox/bin/dmesg", "/system/bin/dmesg");
+symlink("/usr/lib/busybox/bin/dnsdomainname", "/system/bin/dnsdomainname");
+symlink("/usr/lib/busybox/bin/dos2unix", "/system/bin/dos2unix");
+symlink("/usr/lib/busybox/bin/du", "/system/bin/du");
+symlink("/usr/lib/busybox/bin/dumpkmap", "/system/bin/dumpkmap");
+symlink("/usr/lib/busybox/bin/dumpleases", "/system/bin/dumpleases");
+symlink("/usr/lib/busybox/bin/echo", "/system/bin/echo");
+symlink("/usr/lib/busybox/bin/ed", "/system/bin/ed");
+symlink("/usr/lib/busybox/bin/egrep", "/system/bin/egrep");
+symlink("/usr/lib/busybox/bin/eject", "/system/bin/eject");
+symlink("/usr/lib/busybox/bin/env", "/system/bin/env");
+symlink("/usr/lib/busybox/bin/envdir", "/system/bin/envdir");
+symlink("/usr/lib/busybox/bin/envuidgid", "/system/bin/envuidgid");
+symlink("/usr/lib/busybox/bin/expand", "/system/bin/expand");
+symlink("/usr/lib/busybox/bin/expr", "/system/bin/expr");
+symlink("/usr/lib/busybox/bin/false", "/system/bin/false");
+symlink("/usr/lib/busybox/bin/fdflush", "/system/bin/fdflush");
+symlink("/usr/lib/busybox/bin/fgconsole", "/system/bin/fgconsole");
+symlink("/usr/lib/busybox/bin/fgrep", "/system/bin/fgrep");
+symlink("/usr/lib/busybox/bin/find", "/system/bin/find");
+symlink("/usr/lib/busybox/bin/flock", "/system/bin/flock");
+symlink("/usr/lib/busybox/bin/fold", "/system/bin/fold");
+symlink("/usr/lib/busybox/bin/free", "/system/bin/free");
+symlink("/usr/lib/busybox/bin/fsync", "/system/bin/fsync");
+symlink("/usr/lib/busybox/bin/ftpget", "/system/bin/ftpget");
+symlink("/usr/lib/busybox/bin/ftpput", "/system/bin/ftpput");
+symlink("/usr/lib/busybox/bin/fuser", "/system/bin/fuser");
+symlink("/usr/lib/busybox/bin/getopt", "/system/bin/getopt");
+symlink("/usr/lib/busybox/bin/grep", "/system/bin/grep");
+symlink("/usr/lib/busybox/bin/groups", "/system/bin/groups");
+symlink("/usr/lib/busybox/bin/gunzip", "/system/bin/gunzip");
+symlink("/usr/lib/busybox/bin/gzip", "/system/bin/gzip");
+symlink("/usr/lib/busybox/bin/hd", "/system/bin/hd");
+symlink("/usr/lib/busybox/bin/head", "/system/bin/head");
+symlink("/usr/lib/busybox/bin/hexdump", "/system/bin/hexdump");
+symlink("/usr/lib/busybox/bin/hostid", "/system/bin/hostid");
+symlink("/usr/lib/busybox/bin/hostname", "/system/bin/hostname");
+symlink("/usr/lib/busybox/bin/hush", "/system/bin/hush");
+symlink("/usr/lib/busybox/bin/id", "/system/bin/id");
+symlink("/usr/lib/busybox/bin/install", "/system/bin/install");
+symlink("/usr/lib/busybox/bin/ionice", "/system/bin/ionice");
+symlink("/usr/lib/busybox/bin/iostat", "/system/bin/iostat");
+symlink("/usr/lib/busybox/bin/ipcalc", "/system/bin/ipcalc");
+symlink("/usr/lib/busybox/bin/ipcrm", "/system/bin/ipcrm");
+symlink("/usr/lib/busybox/bin/ipcs", "/system/bin/ipcs");
+symlink("/usr/lib/busybox/bin/kbd_mode", "/system/bin/kbd_mode");
+symlink("/usr/lib/busybox/bin/kill", "/system/bin/kill");
+symlink("/usr/lib/busybox/bin/killall", "/system/bin/killall");
+symlink("/usr/lib/busybox/bin/less", "/system/bin/less");
+symlink("/usr/lib/busybox/bin/linux32", "/system/bin/linux32");
+symlink("/usr/lib/busybox/bin/linux64", "/system/bin/linux64");
+symlink("/usr/lib/busybox/bin/ln", "/system/bin/ln");
+symlink("/usr/lib/busybox/bin/logger", "/system/bin/logger");
+symlink("/usr/lib/busybox/bin/logname", "/system/bin/logname");
+symlink("/usr/lib/busybox/bin/lpq", "/system/bin/lpq");
+symlink("/usr/lib/busybox/bin/lpr", "/system/bin/lpr");
+symlink("/usr/lib/busybox/bin/ls", "/system/bin/ls");
+symlink("/usr/lib/busybox/bin/lsattr", "/system/bin/lsattr");
+symlink("/usr/lib/busybox/bin/lspci", "/system/bin/lspci");
+symlink("/usr/lib/busybox/bin/lsusb", "/system/bin/lsusb");
+symlink("/usr/lib/busybox/bin/lzcat", "/system/bin/lzcat");
+symlink("/usr/lib/busybox/bin/lzma", "/system/bin/lzma");
+symlink("/usr/lib/busybox/bin/lzop", "/system/bin/lzop");
+symlink("/usr/lib/busybox/bin/lzopcat", "/system/bin/lzopcat");
+symlink("/usr/lib/busybox/bin/makemime", "/system/bin/makemime");
+symlink("/usr/lib/busybox/bin/man", "/system/bin/man");
+symlink("/usr/lib/busybox/bin/md5sum", "/system/bin/md5sum");
+symlink("/usr/lib/busybox/bin/mesg", "/system/bin/mesg");
+symlink("/usr/lib/busybox/bin/microcom", "/system/bin/microcom");
+symlink("/usr/lib/busybox/bin/mkdir", "/system/bin/mkdir");
+symlink("/usr/lib/busybox/bin/mkfifo", "/system/bin/mkfifo");
+symlink("/usr/lib/busybox/bin/mknod", "/system/bin/mknod");
+symlink("/usr/lib/busybox/bin/mkpasswd", "/system/bin/mkpasswd");
+symlink("/usr/lib/busybox/bin/mktemp", "/system/bin/mktemp");
+symlink("/usr/lib/busybox/bin/more", "/system/bin/more");
+symlink("/usr/lib/busybox/bin/mount", "/system/bin/mount");
+symlink("/usr/lib/busybox/bin/mpstat", "/system/bin/mpstat");
+symlink("/usr/lib/busybox/bin/mt", "/system/bin/mt");
+symlink("/usr/lib/busybox/bin/mv", "/system/bin/mv");
+symlink("/usr/lib/busybox/bin/nc", "/system/bin/nc");
+symlink("/usr/lib/busybox/bin/netstat", "/system/bin/netstat");
+symlink("/usr/lib/busybox/bin/nice", "/system/bin/nice");
+symlink("/usr/lib/busybox/bin/nmeter", "/system/bin/nmeter");
+symlink("/usr/lib/busybox/bin/nohup", "/system/bin/nohup");
+symlink("/usr/lib/busybox/bin/nslookup", "/system/bin/nslookup");
+symlink("/usr/lib/busybox/bin/od", "/system/bin/od");
+symlink("/usr/lib/busybox/bin/passwd", "/system/bin/passwd");
+symlink("/usr/lib/busybox/bin/patch", "/system/bin/patch");
+symlink("/usr/lib/busybox/bin/pgrep", "/system/bin/pgrep");
+symlink("/usr/lib/busybox/bin/pipe_progress", "/system/bin/pipe_progress");
+symlink("/usr/lib/busybox/bin/pkill", "/system/bin/pkill");
+symlink("/usr/lib/busybox/bin/pmap", "/system/bin/pmap");
+symlink("/usr/lib/busybox/bin/printenv", "/system/bin/printenv");
+symlink("/usr/lib/busybox/bin/printf", "/system/bin/printf");
+symlink("/usr/lib/busybox/bin/ps", "/system/bin/ps");
+symlink("/usr/lib/busybox/bin/pscan", "/system/bin/pscan");
+symlink("/usr/lib/busybox/bin/pwd", "/system/bin/pwd");
+symlink("/usr/lib/busybox/bin/readlink", "/system/bin/readlink");
+symlink("/usr/lib/busybox/bin/realpath", "/system/bin/realpath");
+symlink("/usr/lib/busybox/bin/reformime", "/system/bin/reformime");
+symlink("/usr/lib/busybox/bin/renice", "/system/bin/renice");
+symlink("/usr/lib/busybox/bin/reset", "/system/bin/reset");
+symlink("/usr/lib/busybox/bin/resize", "/system/bin/resize");
+symlink("/usr/lib/busybox/bin/rev", "/system/bin/rev");
+symlink("/usr/lib/busybox/bin/rm", "/system/bin/rm");
+symlink("/usr/lib/busybox/bin/rmdir", "/system/bin/rmdir");
+symlink("/usr/lib/busybox/bin/rpm", "/system/bin/rpm");
+symlink("/usr/lib/busybox/bin/rpm2cpio", "/system/bin/rpm2cpio");
+symlink("/usr/lib/busybox/bin/run-parts", "/system/bin/run-parts");
+symlink("/usr/lib/busybox/bin/runsv", "/system/bin/runsv");
+symlink("/usr/lib/busybox/bin/runsvdir", "/system/bin/runsvdir");
+symlink("/usr/lib/busybox/bin/rx", "/system/bin/rx");
+symlink("/usr/lib/busybox/bin/script", "/system/bin/script");
+symlink("/usr/lib/busybox/bin/scriptreplay", "/system/bin/scriptreplay");
+symlink("/usr/lib/busybox/bin/sed", "/system/bin/sed");
+symlink("/usr/lib/busybox/bin/seq", "/system/bin/seq");
+symlink("/usr/lib/busybox/bin/setarch", "/system/bin/setarch");
+symlink("/usr/lib/busybox/bin/setkeycodes", "/system/bin/setkeycodes");
+symlink("/usr/lib/busybox/bin/setsid", "/system/bin/setsid");
+symlink("/usr/lib/busybox/bin/setuidgid", "/system/bin/setuidgid");
+symlink("/usr/lib/busybox/bin/sh", "/system/bin/sh");
+symlink("/usr/lib/busybox/bin/sha1sum", "/system/bin/sha1sum");
+symlink("/usr/lib/busybox/bin/sha256sum", "/system/bin/sha256sum");
+symlink("/usr/lib/busybox/bin/sha512sum", "/system/bin/sha512sum");
+symlink("/usr/lib/busybox/bin/showkey", "/system/bin/showkey");
+symlink("/usr/lib/busybox/bin/shuf", "/system/bin/shuf");
+symlink("/usr/lib/busybox/bin/sleep", "/system/bin/sleep");
+symlink("/usr/lib/busybox/bin/smemcap", "/system/bin/smemcap");
+symlink("/usr/lib/busybox/bin/softlimit", "/system/bin/softlimit");
+symlink("/usr/lib/busybox/bin/sort", "/system/bin/sort");
+symlink("/usr/lib/busybox/bin/split", "/system/bin/split");
+symlink("/usr/lib/busybox/bin/stat", "/system/bin/stat");
+symlink("/usr/lib/busybox/bin/strings", "/system/bin/strings");
+symlink("/usr/lib/busybox/bin/stty", "/system/bin/stty");
+symlink("/usr/lib/busybox/bin/sum", "/system/bin/sum");
+symlink("/usr/lib/busybox/bin/sv", "/system/bin/sv");
+symlink("/usr/lib/busybox/bin/sync", "/system/bin/sync");
+symlink("/usr/lib/busybox/bin/tac", "/system/bin/tac");
+symlink("/usr/lib/busybox/bin/tail", "/system/bin/tail");
+symlink("/usr/lib/busybox/bin/tar", "/system/bin/tar");
+symlink("/usr/lib/busybox/bin/tcpsvd", "/system/bin/tcpsvd");
+symlink("/usr/lib/busybox/bin/tee", "/system/bin/tee");
+symlink("/usr/lib/busybox/bin/telnet", "/system/bin/telnet");
+symlink("/usr/lib/busybox/bin/test", "/system/bin/test");
+symlink("/usr/lib/busybox/bin/tftp", "/system/bin/tftp");
+symlink("/usr/lib/busybox/bin/time", "/system/bin/time");
+symlink("/usr/lib/busybox/bin/timeout", "/system/bin/timeout");
+symlink("/usr/lib/busybox/bin/top", "/system/bin/top");
+symlink("/usr/lib/busybox/bin/touch", "/system/bin/touch");
+symlink("/usr/lib/busybox/bin/tr", "/system/bin/tr");
+symlink("/usr/lib/busybox/bin/traceroute", "/system/bin/traceroute");
+symlink("/usr/lib/busybox/bin/traceroute6", "/system/bin/traceroute6");
+symlink("/usr/lib/busybox/bin/true", "/system/bin/true");
+symlink("/usr/lib/busybox/bin/tty", "/system/bin/tty");
+symlink("/usr/lib/busybox/bin/ttysize", "/system/bin/ttysize");
+symlink("/usr/lib/busybox/bin/udpsvd", "/system/bin/udpsvd");
+symlink("/usr/lib/busybox/bin/umount", "/system/bin/umount");
+symlink("/usr/lib/busybox/bin/uname", "/system/bin/uname");
+symlink("/usr/lib/busybox/bin/unexpand", "/system/bin/unexpand");
+symlink("/usr/lib/busybox/bin/uniq", "/system/bin/uniq");
+symlink("/usr/lib/busybox/bin/unix2dos", "/system/bin/unix2dos");
+symlink("/usr/lib/busybox/bin/unlink", "/system/bin/unlink");
+symlink("/usr/lib/busybox/bin/unlzma", "/system/bin/unlzma");
+symlink("/usr/lib/busybox/bin/unlzop", "/system/bin/unlzop");
+symlink("/usr/lib/busybox/bin/unxz", "/system/bin/unxz");
+symlink("/usr/lib/busybox/bin/unzip", "/system/bin/unzip");
+symlink("/usr/lib/busybox/bin/uptime", "/system/bin/uptime");
+symlink("/usr/lib/busybox/bin/users", "/system/bin/users");
+symlink("/usr/lib/busybox/bin/usleep", "/system/bin/usleep");
+symlink("/usr/lib/busybox/bin/uudecode", "/system/bin/uudecode");
+symlink("/usr/lib/busybox/bin/uuencode", "/system/bin/uuencode");
+symlink("/usr/lib/busybox/bin/vi", "/system/bin/vi");
+symlink("/usr/lib/busybox/bin/vlock", "/system/bin/vlock");
+symlink("/usr/lib/busybox/bin/volname", "/system/bin/volname");
+symlink("/usr/lib/busybox/bin/watch", "/system/bin/watch");
+symlink("/usr/lib/busybox/bin/wc", "/system/bin/wc");
+symlink("/usr/lib/busybox/bin/wget", "/system/bin/wget");
+symlink("/usr/lib/busybox/bin/which", "/system/bin/which");
+symlink("/usr/lib/busybox/bin/who", "/system/bin/who");
+symlink("/usr/lib/busybox/bin/whoami", "/system/bin/whoami");
+symlink("/usr/lib/busybox/bin/xargs", "/system/bin/xargs");
+symlink("/usr/lib/busybox/bin/xz", "/system/bin/xz");
+symlink("/usr/lib/busybox/bin/xzcat", "/system/bin/xzcat");
+symlink("/usr/lib/busybox/bin/yes", "/system/bin/yes");
+symlink("/usr/lib/busybox/bin/zcat", "/system/bin/zcat");
+symlink("/usr/lib/busybox/linuxrc", "/system/linuxrc");
+symlink("/usr/lib/busybox/sbin/acpid", "/system/sbin/acpid");
+symlink("/usr/lib/busybox/sbin/add-shell", "/system/sbin/add-shell");
+symlink("/usr/lib/busybox/sbin/addgroup", "/system/sbin/addgroup");
+symlink("/usr/lib/busybox/sbin/adduser", "/system/sbin/adduser");
+symlink("/usr/lib/busybox/sbin/adjtimex", "/system/sbin/adjtimex");
+symlink("/usr/lib/busybox/sbin/arp", "/system/sbin/arp");
+symlink("/usr/lib/busybox/sbin/arping", "/system/sbin/arping");
+symlink("/usr/lib/busybox/sbin/blkid", "/system/sbin/blkid");
+symlink("/usr/lib/busybox/sbin/blockdev", "/system/sbin/blockdev");
+symlink("/usr/lib/busybox/sbin/bootchartd", "/system/sbin/bootchartd");
+symlink("/usr/lib/busybox/sbin/brctl", "/system/sbin/brctl");
+symlink("/usr/lib/busybox/sbin/chat", "/system/sbin/chat");
+symlink("/usr/lib/busybox/sbin/chroot", "/system/sbin/chroot");
+symlink("/usr/lib/busybox/sbin/crond", "/system/sbin/crond");
+symlink("/usr/lib/busybox/sbin/delgroup", "/system/sbin/delgroup");
+symlink("/usr/lib/busybox/sbin/deluser", "/system/sbin/deluser");
+symlink("/usr/lib/busybox/sbin/depmod", "/system/sbin/depmod");
+symlink("/usr/lib/busybox/sbin/devmem", "/system/sbin/devmem");
+symlink("/usr/lib/busybox/sbin/dhcprelay", "/system/sbin/dhcprelay");
+symlink("/usr/lib/busybox/sbin/dnsd", "/system/sbin/dnsd");
+symlink("/usr/lib/busybox/sbin/ether-wake", "/system/sbin/ether-wake");
+symlink("/usr/lib/busybox/sbin/fakeidentd", "/system/sbin/fakeidentd");
+symlink("/usr/lib/busybox/sbin/fbset", "/system/sbin/fbset");
+symlink("/usr/lib/busybox/sbin/fbsplash", "/system/sbin/fbsplash");
+symlink("/usr/lib/busybox/sbin/fdformat", "/system/sbin/fdformat");
+symlink("/usr/lib/busybox/sbin/fdisk", "/system/sbin/fdisk");
+symlink("/usr/lib/busybox/sbin/findfs", "/system/sbin/findfs");
+symlink("/usr/lib/busybox/sbin/freeramdisk", "/system/sbin/freeramdisk");
+symlink("/usr/lib/busybox/sbin/fsck", "/system/sbin/fsck");
+symlink("/usr/lib/busybox/sbin/fstrim", "/system/sbin/fstrim");
+symlink("/usr/lib/busybox/sbin/ftpd", "/system/sbin/ftpd");
+symlink("/usr/lib/busybox/sbin/getty", "/system/sbin/getty");
+symlink("/usr/lib/busybox/sbin/hdparm", "/system/sbin/hdparm");
+symlink("/usr/lib/busybox/sbin/httpd", "/system/sbin/httpd");
+symlink("/usr/lib/busybox/sbin/hwclock", "/system/sbin/hwclock");
+symlink("/usr/lib/busybox/sbin/ifconfig", "/system/sbin/ifconfig");
+symlink("/usr/lib/busybox/sbin/ifdown", "/system/sbin/ifdown");
+symlink("/usr/lib/busybox/sbin/ifenslave", "/system/sbin/ifenslave");
+symlink("/usr/lib/busybox/sbin/ifplugd", "/system/sbin/ifplugd");
+symlink("/usr/lib/busybox/sbin/ifup", "/system/sbin/ifup");
+symlink("/usr/lib/busybox/sbin/inetd", "/system/sbin/inetd");
+symlink("/usr/lib/busybox/sbin/insmod", "/system/sbin/insmod");
+symlink("/usr/lib/busybox/sbin/ipaddr", "/system/sbin/ipaddr");
+symlink("/usr/lib/busybox/sbin/iplink", "/system/sbin/iplink");
+symlink("/usr/lib/busybox/sbin/iproute", "/system/sbin/iproute");
+symlink("/usr/lib/busybox/sbin/iprule", "/system/sbin/iprule");
+symlink("/usr/lib/busybox/sbin/iptunnel", "/system/sbin/iptunnel");
+symlink("/usr/lib/busybox/sbin/klogd", "/system/sbin/klogd");
+symlink("/usr/lib/busybox/sbin/loadfont", "/system/sbin/loadfont");
+symlink("/usr/lib/busybox/sbin/loadkmap", "/system/sbin/loadkmap");
+symlink("/usr/lib/busybox/sbin/logread", "/system/sbin/logread");
+symlink("/usr/lib/busybox/sbin/losetup", "/system/sbin/losetup");
+symlink("/usr/lib/busybox/sbin/lpd", "/system/sbin/lpd");
+symlink("/usr/lib/busybox/sbin/lsmod", "/system/sbin/lsmod");
+symlink("/usr/lib/busybox/sbin/makedevs", "/system/sbin/makedevs");
+symlink("/usr/lib/busybox/sbin/mdev", "/system/sbin/mdev");
+symlink("/usr/lib/busybox/sbin/mkdosfs", "/system/sbin/mkdosfs");
+symlink("/usr/lib/busybox/sbin/mkfs.vfat", "/system/sbin/mkfs.vfat");
+symlink("/usr/lib/busybox/sbin/mkswap", "/system/sbin/mkswap");
+symlink("/usr/lib/busybox/sbin/modinfo", "/system/sbin/modinfo");
+symlink("/usr/lib/busybox/sbin/modprobe", "/system/sbin/modprobe");
+symlink("/usr/lib/busybox/sbin/nameif", "/system/sbin/nameif");
+symlink("/usr/lib/busybox/sbin/nbd-client", "/system/sbin/nbd-client");
+symlink("/usr/lib/busybox/sbin/ntpd", "/system/sbin/ntpd");
+symlink("/usr/lib/busybox/sbin/pivot_root", "/system/sbin/pivot_root");
+symlink("/usr/lib/busybox/sbin/popmaildir", "/system/sbin/popmaildir");
+symlink("/usr/lib/busybox/sbin/powertop", "/system/sbin/powertop");
+symlink("/usr/lib/busybox/sbin/raidautorun", "/system/sbin/raidautorun");
+symlink("/usr/lib/busybox/sbin/rdate", "/system/sbin/rdate");
+symlink("/usr/lib/busybox/sbin/rdev", "/system/sbin/rdev");
+symlink("/usr/lib/busybox/sbin/readahead", "/system/sbin/readahead");
+symlink("/usr/lib/busybox/sbin/readprofile", "/system/sbin/readprofile");
+symlink("/usr/lib/busybox/sbin/remove-shell", "/system/sbin/remove-shell");
+symlink("/usr/lib/busybox/sbin/rmmod", "/system/sbin/rmmod");
+symlink("/usr/lib/busybox/sbin/route", "/system/sbin/route");
+symlink("/usr/lib/busybox/sbin/rtcwake", "/system/sbin/rtcwake");
+symlink("/usr/lib/busybox/sbin/sendmail", "/system/sbin/sendmail");
+symlink("/usr/lib/busybox/sbin/setconsole", "/system/sbin/setconsole");
+symlink("/usr/lib/busybox/sbin/setfont", "/system/sbin/setfont");
+symlink("/usr/lib/busybox/sbin/setlogcons", "/system/sbin/setlogcons");
+symlink("/usr/lib/busybox/sbin/slattach", "/system/sbin/slattach");
+symlink("/usr/lib/busybox/sbin/start-stop-daemon", "/system/sbin/start-stop-daemon");
+symlink("/usr/lib/busybox/sbin/svlogd", "/system/sbin/svlogd");
+symlink("/usr/lib/busybox/sbin/swapoff", "/system/sbin/swapoff");
+symlink("/usr/lib/busybox/sbin/swapon", "/system/sbin/swapon");
+symlink("/usr/lib/busybox/sbin/switch_root", "/system/sbin/switch_root");
+symlink("/usr/lib/busybox/sbin/sysctl", "/system/sbin/sysctl");
+symlink("/usr/lib/busybox/sbin/syslogd", "/system/sbin/syslogd");
+symlink("/usr/lib/busybox/sbin/telnetd", "/system/sbin/telnetd");
+symlink("/usr/lib/busybox/sbin/tftpd", "/system/sbin/tftpd");
+symlink("/usr/lib/busybox/sbin/tunctl", "/system/sbin/tunctl");
+symlink("/usr/lib/busybox/sbin/udhcpc", "/system/sbin/udhcpc");
+symlink("/usr/lib/busybox/sbin/udhcpd", "/system/sbin/udhcpd");
+symlink("/usr/lib/busybox/sbin/vconfig", "/system/sbin/vconfig");
+symlink("/usr/lib/busybox/sbin/watchdog", "/system/sbin/watchdog");
+symlink("/usr/lib/busybox/sbin/zcip", "/system/sbin/zcip");
+symlink("/usr/lib/modules", "/system/lib/modules");
+symlink("/usr/sbin/xtables-multi", "/system/usr/bin/iptables-xml");
+symlink("/var/run/resolv.conf", "/system/etc/resolv.conf");
+symlink("/var/tmp", "/system/tmp");
+symlink("/var/volatile/log", "/system/var/log");
+symlink("/var/volatile/tmp", "/system/var/tmp");
+symlink("Config_heavy.pl", "/system/usr/lib/perl/5.22.0/Config_heavy-target.pl");
+symlink("audio_primary_default.so", "/system/usr/lib/audio.primary.default.so");
+symlink("avahi-browse", "/system/usr/bin/avahi-browse-domains");
+symlink("avahi-publish", "/system/usr/bin/avahi-publish-address",
+        "/system/usr/bin/avahi-publish-service");
+symlink("avahi-resolve", "/system/usr/bin/avahi-resolve-address",
+        "/system/usr/bin/avahi-resolve-host-name");
+symlink("bootlogd", "/system/etc/init.d/stop-bootlogd");
+symlink("busybox", "/system/bin/busybox.nosuid");
+symlink("halt.sysvinit", "/system/sbin/poweroff.sysvinit",
+        "/system/sbin/reboot.sysvinit");
+symlink("init", "/system/sbin/telinit");
+symlink("iwconfig", "/system/sbin/iwgetid", "/system/sbin/iwlist",
+        "/system/sbin/iwpriv",
+        "/system/sbin/iwspy");
+symlink("last.sysvinit", "/system/usr/bin/lastb.sysvinit");
+symlink("ld-2.22.so", "/system/lib/ld-linux.so.3");
+symlink("libBrokenLocale-2.22.so", "/system/lib/libBrokenLocale.so.1");
+symlink("libDRPlugin.so.1.0.0", "/system/usr/lib/libDRPlugin.so.1");
+symlink("libFLAC.so.8.3.0", "/system/usr/lib/libFLAC.so.8");
+symlink("libQSEEComAPI.so.1.0.0", "/system/usr/lib/libQSEEComAPI.so.1");
+symlink("libacdbmapper.so.1.0.0", "/system/usr/lib/libacdbmapper.so.1");
+symlink("libacdbrtac.so.1.0.0", "/system/usr/lib/libacdbrtac.so.1");
+symlink("libadbd.so.0.0.0", "/system/usr/lib/libadbd.so.0");
+symlink("libadiertac.so.1.0.0", "/system/usr/lib/libadiertac.so.1");
+symlink("libalsa_intf.so.1.0.0", "/system/usr/lib/libalsa_intf.so.1");
+symlink("libanl-2.22.so", "/system/lib/libanl.so.1");
+symlink("libasn1c_cper.so.1.0.0", "/system/usr/lib/libasn1c_cper.so.1");
+symlink("libasn1c_crt.so.1.0.0", "/system/usr/lib/libasn1c_crt.so.1");
+symlink("libasn1c_rtx.so.1.0.0", "/system/usr/lib/libasn1c_rtx.so.1");
+symlink("libattr.so.1.1.0", "/system/lib/libattr.so.1");
+symlink("libaudcal.so.1.0.0", "/system/usr/lib/libaudcal.so.1");
+symlink("libaudioa2dpdefault.so.0", "/system/usr/lib/audio.a2dp.default.so");
+symlink("libaudioalsa.so.1.0.0", "/system/usr/lib/libaudioalsa.so.1");
+symlink("libaudioroute.so.0.0.0", "/system/usr/lib/libaudioroute.so.0");
+symlink("libaudioutils.so.0.0.0", "/system/usr/lib/libaudioutils.so.0");
+symlink("libavahi-client.so.3.2.9", "/system/usr/lib/libavahi-client.so.3");
+symlink("libavahi-common.so.3.5.3", "/system/usr/lib/libavahi-common.so.3");
+symlink("libavahi-core.so.7.0.2", "/system/usr/lib/libavahi-core.so.7");
+symlink("libavahi-glib.so.1.0.2", "/system/usr/lib/libavahi-glib.so.1");
+symlink("libavcodec.so.55.69.100", "/system/lib/libavcodec.so.55");
+symlink("libavformat.so.55.48.100", "/system/lib/libavformat.so.55");
+symlink("libavutil.so.52.92.100", "/system/lib/libavutil.so.52");
+symlink("libbacktrace.so.0.0.0", "/system/usr/lib/libbacktrace.so.0");
+symlink("libbase.so.0.0.0", "/system/usr/lib/libbase.so.0");
+symlink("libbluetoothdefault.so.0", "/system/usr/lib/bluetooth.default.so");
+symlink("libbluetoothdefault.so.0.0.0", "/system/usr/lib/libbluetoothdefault.so.0");
+symlink("libbt-vendor.so.0.0.0", "/system/usr/lib/libbt-vendor.so.0");
+symlink("libbtnv.so.0.0.0", "/system/usr/lib/libbtnv.so.0");
+symlink("libbtvendorhal.so.0.0.0", "/system/usr/lib/libbtvendorhal.so.0");
+symlink("libbz2.so.0.0.0", "/system/usr/lib/libbz2.so.0");
+symlink("libc-2.22.so", "/system/lib/libc.so.6");
+symlink("libcamera_metadata.so.0.0.0", "/system/usr/lib/libcamera_metadata.so.0");
+symlink("libcap.so.2.24", "/system/lib/libcap.so.2");
+symlink("libconfigdb.so.0.0.0", "/system/usr/lib/libconfigdb.so.0");
+symlink("libcrypt-2.22.so", "/system/lib/libcrypt.so.1");
+symlink("libcurl.so.4.4.0", "/system/usr/lib/libcurl.so.4");
+symlink("libcutils.so.0.0.0", "/system/usr/lib/libcutils.so.0");
+symlink("libdaemon.so.0.5.0", "/system/usr/lib/libdaemon.so.0");
+symlink("libdataitems.so.1.0.0", "/system/usr/lib/libdataitems.so.1");
+symlink("libdbus-1.so.3.8.13", "/system/usr/lib/libdbus-1.so.3");
+symlink("libdiag.so.1.0.0", "/system/usr/lib/libdiag.so.1");
+symlink("libdl-2.22.so", "/system/lib/libdl.so.2");
+symlink("libdrmfs.so.1.0.0", "/system/usr/lib/libdrmfs.so.1");
+symlink("libdrmtime.so.1.0.0", "/system/usr/lib/libdrmtime.so.1");
+symlink("libdrplugin_client.so.1.0.0", "/system/usr/lib/libdrplugin_client.so.1");
+symlink("libdsi_netctrl.so.0.0.0", "/system/usr/lib/libdsi_netctrl.so.0");
+symlink("libdsutils.so.1.0.0", "/system/usr/lib/libdsutils.so.1");
+symlink("libevent_observer.so.1.0.0", "/system/usr/lib/libevent_observer.so.1");
+symlink("libexif.so.12.3.3", "/system/lib/libexif.so.12");
+symlink("libexpat.so.1.6.0", "/system/usr/lib/libexpat.so.1");
+symlink("libext4_utils.so.0.0.0", "/system/usr/lib/libext4_utils.so.0");
+symlink("libffi.so.6.0.4", "/system/usr/lib/libffi.so.6");
+symlink("libflp.so.1.0.0", "/system/usr/lib/libflp.so.1");
+symlink("libfs_mgr.so.0.0.0", "/system/usr/lib/libfs_mgr.so.0");
+symlink("libgdtap_adapter.so.1.0.0", "/system/usr/lib/libgdtap_adapter.so.1");
+symlink("libgeofence.so.1.0.0", "/system/usr/lib/libgeofence.so",
+        "/system/usr/lib/libgeofence.so.1");
+symlink("libgio-2.0.so.0.4400.1", "/system/usr/lib/libgio-2.0.so.0");
+symlink("libglib-2.0.so.0.4400.1", "/system/usr/lib/libglib-2.0.so.0");
+symlink("libgmodule-2.0.so.0.4400.1", "/system/usr/lib/libgmodule-2.0.so.0");
+symlink("libgmp.so.10.2.0", "/system/usr/lib/libgmp.so.10");
+symlink("libgnsspps.so.1.0.0", "/system/usr/lib/libgnsspps.so.1");
+symlink("libgnutls.so.28.41.9", "/system/usr/lib/libgnutls.so.28");
+symlink("libgobject-2.0.so.0.4400.1", "/system/usr/lib/libgobject-2.0.so.0");
+symlink("libgps_utils_so.so.1.0.0", "/system/usr/lib/libgps_utils_so.so.1");
+symlink("libgthread-2.0.so.0.4400.1", "/system/usr/lib/libgthread-2.0.so.0");
+symlink("libhardware.so.0.0.0", "/system/usr/lib/libhardware.so.0");
+symlink("libhistory.so.5.2", "/system/usr/lib/libhistory.so.5");
+symlink("libhlos_wrapper_api.so.1.0.0", "/system/usr/lib/libhlos_wrapper_api.so.1");
+symlink("libhogweed.so.4.1", "/system/usr/lib/libhogweed.so.4");
+symlink("libid3tag.so.0.3.0", "/system/usr/lib/libid3tag.so.0");
+symlink("libion.so.0.0.0", "/system/usr/lib/libion.so.0");
+symlink("libip4tc.so.0.0.0", "/system/usr/lib/libip4tc.so.0");
+symlink("libip6tc.so.0.0.0", "/system/usr/lib/libip6tc.so.0");
+symlink("libiptc.so.0.0.0", "/system/usr/lib/libiptc.so.0");
+symlink("libizat_client_api.so.1.0.0", "/system/usr/lib/libizat_client_api.so.1");
+symlink("libizat_core.so.1.0.0", "/system/usr/lib/libizat_core.so",
+        "/system/usr/lib/libizat_core.so.1");
+symlink("libjpeg.so.8.0.2", "/system/usr/lib/libjpeg.so.8");
+symlink("liblbs_core.so.1.0.0", "/system/usr/lib/liblbs_core.so.1");
+symlink("libloc_api_v02.so.1.0.0", "/system/usr/lib/libloc_api_v02.so",
+        "/system/usr/lib/libloc_api_v02.so.1");
+symlink("libloc_base_util.so.1.0.0", "/system/usr/lib/libloc_base_util.so.1");
+symlink("libloc_core.so.1.0.0", "/system/usr/lib/libloc_core.so",
+        "/system/usr/lib/libloc_core.so.1");
+symlink("libloc_ds_api.so.1.0.0", "/system/usr/lib/libloc_ds_api.so",
+        "/system/usr/lib/libloc_ds_api.so.1");
+symlink("libloc_eng_so.so.1.0.0", "/system/usr/lib/libloc_eng_so.so",
+        "/system/usr/lib/libloc_eng_so.so.1");
+symlink("libloc_hal_test_shim.so.1.0.0", "/system/usr/lib/libloc_hal_test_shim.so.1");
+symlink("libloc_hal_test_shim_extended.so.1.0.0", "/system/usr/lib/libloc_hal_test_shim_extended.so.1");
+symlink("libloc_mcm_qmi_test_shim.so.1.0.0", "/system/usr/lib/libloc_mcm_qmi_test_shim.so.1");
+symlink("libloc_mcm_test_shim.so.1.0.0", "/system/usr/lib/libloc_mcm_test_shim.so.1");
+symlink("libloc_mcm_type_conv.so.1.0.0", "/system/usr/lib/libloc_mcm_type_conv.so.1");
+symlink("libloc_mq_client.so.1.0.0", "/system/usr/lib/libloc_mq_client.so.1");
+symlink("libloc_net_iface.so.1.0.0", "/system/usr/lib/libloc_net_iface.so",
+        "/system/usr/lib/libloc_net_iface.so.1");
+symlink("libloc_pla.so.1.0.0", "/system/usr/lib/libloc_pla.so.1");
+symlink("libloc_stub.so.1.0.0", "/system/usr/lib/libloc_stub.so.1");
+symlink("liblocationservice.so.1.0.0", "/system/usr/lib/liblocationservice.so.1");
+symlink("liblocationservice_glue.so.1.0.0", "/system/usr/lib/liblocationservice_glue.so.1");
+symlink("liblog.so.0.0.0", "/system/usr/lib/liblog.so.0");
+symlink("liblogwrap.so.0.0.0", "/system/usr/lib/liblogwrap.so.0");
+symlink("liblowi_client.so.1.0.0", "/system/usr/lib/liblowi_client.so.1");
+symlink("liblzo2.so.2.0.0", "/system/usr/lib/liblzo2.so.2");
+symlink("libm-2.22.so", "/system/lib/libm.so.6");
+symlink("libmcm.so.0.0.0", "/system/usr/lib/libmcm.so.0");
+symlink("libmcm_log_util.so.0.0.0", "/system/usr/lib/libmcm_log_util.so.0");
+symlink("libmcm_srv_audio.so.0.0.0", "/system/usr/lib/libmcm_srv_audio.so.0");
+symlink("libmcmipc.so.0.0.0", "/system/usr/lib/libmcmipc.so.0");
+symlink("libmincrypt.so.0.0.0", "/system/usr/lib/libmincrypt.so.0");
+symlink("libnetfilter_conntrack.so.3.1.3", "/system/usr/lib/libnetfilter_conntrack.so.3");
+symlink("libnetmgr.so.0.0.0", "/system/usr/lib/libnetmgr.so.0");
+symlink("libnettle.so.6.1", "/system/usr/lib/libnettle.so.6");
+symlink("libnfnetlink.so.0.2.0", "/system/usr/lib/libnfnetlink.so.0");
+symlink("libnl-3.so.200.20.0", "/system/usr/lib/libnl-3.so.200");
+symlink("libnl-cli-3.so.200.20.0", "/system/usr/lib/libnl-cli-3.so.200");
+symlink("libnl-genl-3.so.200.20.0", "/system/usr/lib/libnl-genl-3.so.200");
+symlink("libnl-nf-3.so.200.20.0", "/system/usr/lib/libnl-nf-3.so.200");
+symlink("libnl-route-3.so.200.20.0", "/system/usr/lib/libnl-route-3.so.200");
+symlink("libnsl-2.22.so", "/system/lib/libnsl.so.1");
+symlink("libnss_compat-2.22.so", "/system/lib/libnss_compat.so.2");
+symlink("libnss_dns-2.22.so", "/system/lib/libnss_dns.so.2");
+symlink("libnss_files-2.22.so", "/system/lib/libnss_files.so.2");
+symlink("libogg.so.0.8.2", "/system/usr/lib/libogg.so.0");
+symlink("libpcap.so.1.6.2", "/system/usr/lib/libpcap.so.1");
+symlink("libpcre.so.1.2.6", "/system/lib/libpcre.so.1");
+symlink("libperl.so.5.22.0", "/system/usr/lib/libperl.so.5");
+symlink("libpsm_client.so.0.0.0", "/system/usr/lib/libpsm_client.so.0");
+symlink("libpsmutils.so.0.0.0", "/system/usr/lib/libpsmutils.so.0");
+symlink("libpthread-2.22.so", "/system/lib/libpthread.so.0");
+symlink("libpugixml.so.1.0.0", "/system/usr/lib/libpugixml.so.1");
+symlink("libqcmap_client.so.1.0.0", "/system/usr/lib/libqcmap_client.so.1");
+symlink("libqcmap_cm.so.1.0.0", "/system/usr/lib/libqcmap_cm.so.1");
+symlink("libqcmapipc.so.1.0.0", "/system/usr/lib/libqcmapipc.so.1");
+symlink("libqcmaputils.so.1.0.0", "/system/usr/lib/libqcmaputils.so.1");
+symlink("libqdi.so.0.0.0", "/system/usr/lib/libqdi.so.0");
+symlink("libqdp.so.0.0.0", "/system/usr/lib/libqdp.so.0");
+symlink("libqmi.so.1.0.0", "/system/usr/lib/libqmi.so.1");
+symlink("libqmi_cci.so.1.0.0", "/system/usr/lib/libqmi_cci.so.1");
+symlink("libqmi_client_helper.so.1.0.0", "/system/usr/lib/libqmi_client_helper.so.1");
+symlink("libqmi_client_qmux.so.1.0.0", "/system/usr/lib/libqmi_client_qmux.so.1");
+symlink("libqmi_common_so.so.1.0.0", "/system/usr/lib/libqmi_common_so.so.1");
+symlink("libqmi_csi.so.1.0.0", "/system/usr/lib/libqmi_csi.so.1");
+symlink("libqmi_encdec.so.1.0.0", "/system/usr/lib/libqmi_encdec.so.1");
+symlink("libqmi_ip.so.1.0.0", "/system/usr/lib/libqmi_ip.so.1");
+symlink("libqmi_sap.so.1.0.0", "/system/usr/lib/libqmi_sap.so.1");
+symlink("libqmiidl.so.1.0.0", "/system/usr/lib/libqmiidl.so.1");
+symlink("libqmiservices.so.1.0.0", "/system/usr/lib/libqmiservices.so.1");
+symlink("libqrtr.so.1.0.0", "/system/usr/lib/libqrtr.so.1");
+symlink("libqsocket.so.1.0.0", "/system/usr/lib/libqsocket.so.1");
+symlink("libreadline.so.5.2", "/system/usr/lib/libreadline.so.5");
+symlink("libresolv-2.22.so", "/system/lib/libresolv.so.2");
+symlink("librmnetctl.so.0.0.0", "/system/usr/lib/librmnetctl.so.0");
+symlink("librpmb.so.1.0.0", "/system/usr/lib/librpmb.so.1");
+symlink("librt-2.22.so", "/system/lib/librt.so.1");
+symlink("libsensors.so.1.0.0", "/system/usr/lib/libsensors.so.1");
+symlink("libsparse.so.0.0.0", "/system/usr/lib/libsparse.so.0");
+symlink("libsqlite3.so.0.8.6", "/system/usr/lib/libsqlite3.so.0");
+symlink("libssd.so.1.0.0", "/system/usr/lib/libssd.so.1");
+symlink("libstdc++.so.6.0.20", "/system/usr/lib/libstdc++.so.6");
+symlink("libsysutils.so.0.0.0", "/system/usr/lib/libsysutils.so.0");
+symlink("libthread_db-1.0.so", "/system/lib/libthread_db.so.1");
+symlink("libtime_genoff.so.1.0.0", "/system/usr/lib/libtime_genoff.so.1");
+symlink("libtinfo.so.5.9", "/system/lib/libtinfo.so.5");
+symlink("libtinyalsa.so.1.0.0", "/system/usr/lib/libtinyalsa.so.1");
+symlink("libtinycompress.so.0.0.0", "/system/usr/lib/libtinycompress.so.0");
+symlink("libtinysndfile.so.0.0.0", "/system/usr/lib/libtinysndfile.so.0");
+symlink("libulp2.so.1.0.0", "/system/usr/lib/libulp2.so.1");
+symlink("libunwind.so.0.0.0", "/system/usr/lib/libunwind.so.0");
+symlink("libutil-2.22.so", "/system/lib/libutil.so.1");
+symlink("libutils.so.0.0.0", "/system/usr/lib/libutils.so.0");
+symlink("libuuid.so.1.3.0", "/system/lib/libuuid.so.1");
+symlink("libvorbis.so.0.4.6", "/system/usr/lib/libvorbis.so.0");
+symlink("libvorbisenc.so.2.0.9", "/system/usr/lib/libvorbisenc.so.2");
+symlink("libvorbisfile.so.3.3.5", "/system/usr/lib/libvorbisfile.so.3");
+symlink("libwrap.so.0.7.6", "/system/lib/libwrap.so.0");
+symlink("libxml.so.0.0.0", "/system/usr/lib/libxml.so.0");
+symlink("libxml2.so.2.9.2", "/system/usr/lib/libxml2.so.2");
+symlink("libxtables.so.7.0.0", "/system/usr/lib/libxtables.so.7");
+symlink("libxtadapter.so.1.0.0", "/system/usr/lib/libxtadapter.so.1");
+symlink("libxtwifi_tile.so.1.0.0", "/system/usr/lib/libxtwifi_tile.so",
+        "/system/usr/lib/libxtwifi_tile.so.1");
+symlink("libxtwifi_ulp_adaptor.so.1.0.0", "/system/usr/lib/libxtwifi_ulp_adaptor.so",
+        "/system/usr/lib/libxtwifi_ulp_adaptor.so.1");
+symlink("libxtwifiserver_protocol.so.1.0.0", "/system/usr/lib/libxtwifiserver_protocol.so",
+        "/system/usr/lib/libxtwifiserver_protocol.so.1");
+symlink("libxtwifiserver_protocol_uri_v3.so.1.0.0", "/system/usr/lib/libxtwifiserver_protocol_uri_v3.so",
+        "/system/usr/lib/libxtwifiserver_protocol_uri_v3.so.1");
+symlink("libz.so.1.2.8", "/system/lib/libz.so.1");
+symlink("m_xt.so", "/system/usr/lib/tc/m_ipt.so");
+symlink("newgrp.shadow", "/system/usr/bin/sg");
+symlink("perl", "/system/usr/lib/perl5");
+symlink("perl5.22.0", "/system/usr/bin/perl");
+symlink("psfxtable", "/system/usr/bin/psfaddtable",
+        "/system/usr/bin/psfgettable",
+        "/system/usr/bin/psfstriptable");
+symlink("socat1", "/system/usr/bin/socat");
+symlink("sound_trigger_primary_default.so", "/system/usr/lib/sound_trigger.primary.default.so");
+symlink("xtables-multi", "/system/usr/sbin/ip6tables",
+        "/system/usr/sbin/ip6tables-restore", "/system/usr/sbin/ip6tables-save",
+        "/system/usr/sbin/iptables", "/system/usr/sbin/iptables-restore",
+        "/system/usr/sbin/iptables-save");
+symlink("xterm-color", "/system/etc/terminfo/x/xterm");
+set_perm_recursive(0, 0, 0755, 0755, "/system");
+set_perm_recursive(0, 0, 0755, 0644, "/system/WEBSERVER");
+set_perm(33, 33, 0770, "/system/WEBSERVER");
+set_perm(33, 33, 0770, "/system/WEBSERVER/www");
+set_perm(33, 33, 0770, "/system/WEBSERVER/www/cgi-bin");
+set_perm(33, 33, 0770, "/system/WEBSERVER/www/images");
+set_perm(33, 33, 0770, "/system/WEBSERVER/www/js");
+set_perm_recursive(33, 33, 0770, 0644, "/system/WEBSERVER/www/js/images");
+set_perm(0, 0, 0644, "/system/WEBSERVER/www/js/images/ui-icons_888888_256x240.png");
+set_perm(0, 0, 04755, "/system/bin/busybox");
+set_perm(0, 0, 04755, "/system/bin/su.shadow");
+set_perm_recursive(0, 0, 0755, 0644, "/system/boot");
+set_perm(0, 0, 0644, "/system/build.prop");
+set_perm_recursive(0, 0, 0755, 0644, "/system/cache");
+set_perm_recursive(0, 0, 0755, 0644, "/system/cavnv");
+set_perm_recursive(0, 0, 0755, 0644, "/system/data");
+set_perm_recursive(0, 0, 0755, 0644, "/system/dev");
+set_perm(0, 0, 0644, "/system/etc/Bluetooth_cal.acdb");
+set_perm(0, 0, 0644, "/system/etc/General_cal.acdb");
+set_perm(0, 0, 0644, "/system/etc/Global_cal.acdb");
+set_perm(0, 0, 0644, "/system/etc/Handset_cal.acdb");
+set_perm(0, 0, 0644, "/system/etc/Hdmi_cal.acdb");
+set_perm(0, 0, 0644, "/system/etc/Headset_cal.acdb");
+set_perm(0, 0, 0644, "/system/etc/Speaker_cal.acdb");
+set_perm(0, 0, 0644, "/system/etc/audio_platform_info_extcodec.xml");
+set_perm(0, 0, 0644, "/system/etc/busybox.links");
+set_perm(0, 0, 0644, "/system/etc/cacert_location.pem");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/chatscripts");
+set_perm(0, 0, 0644, "/system/etc/cld-hostapd-wlan0.sh");
+set_perm(0, 0, 0644, "/system/etc/cld-hostapd-wlan1.sh");
+set_perm(0, 0, 0644, "/system/etc/csm.conf");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/data");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/dbus-1");
+set_perm(0, 0, 0644, "/system/etc/ddclient.conf");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/default");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/dnsmasq.d");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/ebtables");
+set_perm(0, 0, 0644, "/system/etc/ethertypes");
+set_perm(0, 0, 0644, "/system/etc/filesystems");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/firmware");
+set_perm(0, 0, 0644, "/system/etc/flp.conf");
+set_perm(0, 0, 0644, "/system/etc/fstab");
+set_perm(0, 0, 0644, "/system/etc/ftm_test_config");
+set_perm(0, 0, 0644, "/system/etc/gps.conf");
+set_perm(0, 0, 0644, "/system/etc/group");
+set_perm(0, 0, 0600, "/system/etc/group-");
+set_perm(0, 0, 0600, "/system/etc/gshadow");
+set_perm(0, 0, 0644, "/system/etc/gshadow-");
+set_perm(0, 0, 0644, "/system/etc/host.conf");
+set_perm(0, 0, 0644, "/system/etc/hostname");
+set_perm(0, 0, 0644, "/system/etc/hosts");
+set_perm(0, 0, 0644, "/system/etc/inetd.conf");
+set_perm(0, 0, 0644, "/system/etc/inittab");
+set_perm(0, 0, 0644, "/system/etc/inputrc");
+set_perm(0, 0, 0544, "/system/etc/install-recovery.sh");
+set_perm(0, 0, 0644, "/system/etc/issue");
+set_perm(0, 0, 0644, "/system/etc/issue.net");
+set_perm(0, 0, 0644, "/system/etc/izat.conf");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/libnl");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/lighttpd.d");
+set_perm(0, 0, 0644, "/system/etc/login.defs");
+set_perm(0, 0, 0644, "/system/etc/logrotate-dmesg.conf");
+set_perm(0, 0, 0644, "/system/etc/lowi.conf");
+set_perm(0, 0, 0644, "/system/etc/mdev.conf");
+set_perm(0, 0, 0644, "/system/etc/mixer_paths_wcd9330_i2s.xml");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/modprobe.d");
+set_perm(0, 0, 0644, "/system/etc/motd");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/network/if-down.d");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/network/if-post-down.d");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/network/if-up.d");
+set_perm(0, 0, 0644, "/system/etc/network/interfaces");
+set_perm(0, 0, 0644, "/system/etc/nsswitch.conf");
+set_perm(0, 0, 0644, "/system/etc/passwd");
+set_perm(0, 0, 0600, "/system/etc/passwd-");
+set_perm(0, 0, 0644, "/system/etc/pimd.conf");
+set_perm(0, 0, 0600, "/system/etc/ppp/chap-secrets");
+set_perm(0, 0, 0600, "/system/etc/ppp/pap-secrets");
+set_perm(0, 0, 0644, "/system/etc/profile");
+set_perm(0, 0, 0644, "/system/etc/protocols");
+set_perm(0, 0, 0644, "/system/etc/qmi_ip_cfg.xml");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/rc0.d");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/rc1.d");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/rc2.d");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/rc3.d");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/rc4.d");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/rc5.d");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/rc6.d");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/rcS.d");
+set_perm(0, 0, 0644, "/system/etc/rpc");
+set_perm(0, 0, 0600, "/system/etc/securetty");
+set_perm(0, 0, 0644, "/system/etc/services");
+set_perm(0, 0, 0600, "/system/etc/shadow");
+set_perm(0, 0, 0644, "/system/etc/shadow-");
+set_perm(0, 0, 0644, "/system/etc/shells");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/skel");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/snd_soc_msm");
+set_perm(0, 0, 0644, "/system/etc/sysctl.conf");
+set_perm(0, 0, 0644, "/system/etc/syslog-startup.conf");
+set_perm(0, 0, 0644, "/system/etc/syslog-startup.conf.busybox");
+set_perm(0, 0, 0644, "/system/etc/syslog.conf");
+set_perm(0, 0, 0644, "/system/etc/syslog.conf.busybox");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/systemd");
+set_perm_recursive(0, 0, 0755, 0644, "/system/etc/terminfo");
+set_perm(0, 0, 0644, "/system/etc/thermal-engine.conf");
+set_perm(0, 0, 0644, "/system/etc/timestamp");
+set_perm(0, 0, 0644, "/system/etc/tinyproxy.conf");
+set_perm(0, 0, 0644, "/system/etc/version");
+set_perm(0, 0, 0644, "/system/etc/workspaceFile.qwsp");
+set_perm(0, 0, 0644, "/system/etc/xtwifi.conf");
+set_perm_recursive(0, 0, 0755, 0644, "/system/firmware");
+set_perm_recursive(0, 0, 0755, 0644, "/system/home");
+set_perm_recursive(0, 0, 0755, 0644, "/system/media");
+set_perm_recursive(0, 0, 0755, 0644, "/system/mnt");
+set_perm_recursive(0, 0, 0755, 0644, "/system/persist");
+set_perm_recursive(0, 0, 0755, 0644, "/system/proc");
+set_perm(0, 0, 0644, "/system/recovery-from-boot.p");
+set_perm_recursive(0, 0, 0755, 0644, "/system/run");
+set_perm(0, 0, 04755, "/system/sbin/halt.sysvinit");
+set_perm(0, 0, 04755, "/system/sbin/shutdown.sysvinit");
+set_perm_recursive(0, 0, 0755, 0644, "/system/sys");
+set_perm_recursive(0, 0, 0755, 0644, "/system/system");
+set_perm(0, 0, 0644, "/system/target");
+set_perm(0, 0, 04755, "/system/usr/bin/newgrp.shadow");
+set_perm_recursive(0, 0, 0755, 0644, "/system/usr/games");
+set_perm_recursive(0, 0, 0755, 04755, "/system/usr/lib/dbus");
+set_perm_recursive(0, 0, 0755, 0644, "/system/usr/lib/gio");
+set_perm_recursive(0, 0, 0755, 0644, "/system/usr/lib/ssl/certs");
+set_perm_recursive(0, 0, 0755, 0644, "/system/usr/lib/ssl/private");
+set_perm(0, 0, 04755, "/system/usr/sbin/pppd");
+set_perm_recursive(0, 0, 0755, 0644, "/system/usr/share");
+set_perm_recursive(0, 0, 0755, 0644, "/system/usr/tests");
+set_perm_recursive(0, 0, 0755, 0644, "/system/var");
+set_perm_recursive(33, 33, 0770, 0644, "/system/www");
+set_perm(0, 0, 0644, "/system/www/pages/index.html");
+show_progress(0.050000, 5);
+write_raw_image(package_extract_file("boot.img"), "boot");
+show_progress(0.200000, 10);
+run_program("/bin/find", "/","-name", "__emptyfile__", "-type", "f", "-delete");
+unmount("/system");

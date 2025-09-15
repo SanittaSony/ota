@@ -1,0 +1,26 @@
+kernel/crypto/echainiv.ko:
+kernel/drivers/spi/spidev.ko:
+kernel/drivers/input/misc/gpio_event.ko:
+kernel/drivers/input/misc/gpio_matrix.ko:
+kernel/drivers/input/misc/gpio_input.ko:
+kernel/drivers/input/misc/gpio_output.ko:
+kernel/drivers/input/misc/gpio_axis.ko:
+kernel/drivers/media/rc/msm-geni-ir.ko:
+kernel/drivers/mmc/core/mmc_test.ko:
+kernel/net/netfilter/xt_physdev.ko:
+extra/wcd_cpe_dlkm.ko: extra/wcd_core_dlkm.ko extra/q6_dlkm.ko extra/apr_dlkm.ko
+extra/platform_dlkm.ko: extra/q6_dlkm.ko extra/apr_dlkm.ko
+extra/embms_kernel.ko:
+extra/shortcut-fe-cm.ko: extra/shortcut-fe-ipv6.ko extra/shortcut-fe.ko
+extra/wcd9330_dlkm.ko: extra/wcd_cpe_dlkm.ko extra/wcd_core_dlkm.ko extra/q6_dlkm.ko extra/apr_dlkm.ko
+extra/stub_dlkm.ko:
+kernel/drivers/net/nf_conntrack_rtsp.ko:
+extra/shortcut-fe.ko:
+extra/q6_dlkm.ko: extra/apr_dlkm.ko
+extra/shortcut-fe-ipv6.ko:
+extra/apr_dlkm.ko:
+extra/machine_dlkm.ko: extra/wcd9330_dlkm.ko extra/wcd_cpe_dlkm.ko extra/wcd_core_dlkm.ko extra/q6_dlkm.ko extra/apr_dlkm.ko
+extra/adsp_loader_dlkm.ko: extra/apr_dlkm.ko
+extra/wlan.ko:
+kernel/drivers/net/nf_nat_rtsp.ko: kernel/drivers/net/nf_conntrack_rtsp.ko
+extra/wcd_core_dlkm.ko:
